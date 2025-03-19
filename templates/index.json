@@ -440,6 +440,86 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_gwUar8": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PBgyLK": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_HfYRFD": {
+          "type": "heading",
+          "settings": {
+            "text": "Ingrédients testés cliniquement",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_qhGQex": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PBgyLK",
+        "heading_HfYRFD",
+        "richtext_qhGQex"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_93kt3m": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_ri8GFA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/b5dc6585-b861-42d4-b1d7-2ccb0e24f91b.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Curcuma",
+            "content": "<p><strong>Éclaircit et unifie le teint</strong> en réduisant l’apparence des taches et imperfections.</p><p><strong>Apaise et régénère</strong> la peau grâce à ses propriétés anti-inflammatoires et antioxydantes.</p><p><strong>Protège contre le vieillissement cutané</strong> en neutralisant les radicaux libres et en favorisant l’éclat naturel de la peau.</p>"
+          }
+        },
+        "item_Rg6rAC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_75.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Acide kojique",
+            "content": "<p><strong>Éclaircit visiblement la peau</strong> en réduisant l’apparence des taches pigmentaires et des cicatrices.</p><p><strong>Régule la production de mélanine</strong> pour un teint plus uniforme et lumineux.</p><p><strong>Protège contre le stress oxydatif</strong> et prévient le vieillissement cutané.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_ri8GFA",
+        "item_Rg6rAC"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -504,6 +584,8 @@
     "multiple-images-with-text",
     "featured-product",
     "tabs_rchMgA",
+    "rich_text_gwUar8",
+    "images_with_text_scrolling_93kt3m",
     "faq"
   ]
 }
