@@ -185,6 +185,64 @@
         "logo_item_border": ""
       }
     },
+    "logo_list_T7HWhC": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_MNFk7d": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/2adec3e1-5f2a-44c4-9cd9-5688c3ac0059.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_6wzkVh": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/99923d8e-368a-4367-992f-73b57a81264c.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_D6by36": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/9724a112-4754-40e8-afba-11eaa683e47e.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4gKkFn": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/230dfc8c-6d8f-4dac-bd50-dde5369467a6.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_MNFk7d",
+        "logo_6wzkVh",
+        "logo_D6by36",
+        "logo_4gKkFn"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -229,14 +287,10 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h4"
           }
         },
         "badges": {
@@ -254,10 +308,6 @@
           "settings": {
             "show_empty": false
           }
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
         },
         "description": {
           "type": "description",
@@ -289,23 +339,30 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_KNXbfr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-19_202007-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 490
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "badges",
         "price",
         "rating",
-        "separator",
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons"
+        "buy-buttons",
+        "image_KNXbfr"
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "cotons-glow-up-cotons-dermo-eclaircissant-au-curcuma-acide-kojique-40-cotons-1",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -380,6 +437,7 @@
     "impact-text",
     "before-after-image",
     "press",
+    "logo_list_T7HWhC",
     "multiple-images-with-text",
     "featured-product",
     "faq"
