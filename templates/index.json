@@ -245,23 +245,6 @@
     },
     "impact_text_hpHNip": {
       "type": "impact-text",
-      "blocks": {
-        "item_LPyGNa": {
-          "type": "item",
-          "settings": {
-            "title": "",
-            "subheading": "Pourquoi choisir les solutions Ophea au curcuma ?",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "item_LPyGNa"
-      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
