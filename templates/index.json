@@ -247,8 +247,8 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-03-19_203409-removebg-preview.png",
-            "image_rotation_degrees": -2,
+            "image": "shopify://shop_images/Estompe_les_rides_a_long_terme-removebg-preview.png",
+            "image_rotation_degrees": 0,
             "subheading": "",
             "title": "",
             "content": "",
@@ -261,7 +261,7 @@
         "1664424486a2b084ab-0"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "images_layout": "collage",
         "collage_images_alignment": "middle",
         "background": "#f1f1f1",
