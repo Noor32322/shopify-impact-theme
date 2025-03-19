@@ -241,6 +241,45 @@
         "button_text_color": ""
       }
     },
+    "rich_text_jKf74k": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_kBbiaT": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_mkEbAY": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir  la solution au curcuma ophea ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_Mgcafc": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kBbiaT",
+        "heading_mkEbAY",
+        "richtext_Mgcafc"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -358,7 +397,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -413,7 +452,7 @@
         "subheading": "",
         "title": "",
         "first_tab_open": false,
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -507,7 +546,7 @@
           "type": "heading",
           "settings": {
             "text": "Une peau rajeunie en seulement 4 étapes",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -573,7 +612,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "#f0f0f0",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -593,6 +632,7 @@
     "press",
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
+    "rich_text_jKf74k",
     "multiple-images-with-text",
     "featured-product",
     "tabs_rchMgA",
