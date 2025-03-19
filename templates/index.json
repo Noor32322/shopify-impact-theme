@@ -520,6 +520,45 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_hAXBLH": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_HxaTji": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "heading_PMprri": {
+          "type": "heading",
+          "settings": {
+            "text": "Une peau rajeunie en seulement 4 étapes",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_QLfAaW": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_HxaTji",
+        "heading_PMprri",
+        "richtext_QLfAaW"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -586,6 +625,7 @@
     "tabs_rchMgA",
     "rich_text_gwUar8",
     "images_with_text_scrolling_93kt3m",
+    "rich_text_hAXBLH",
     "faq"
   ]
 }
