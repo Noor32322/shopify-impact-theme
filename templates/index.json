@@ -219,21 +219,13 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_qEmLnn": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_MNFk7d",
         "logo_6wzkVh",
         "logo_D6by36",
-        "logo_4gKkFn",
-        "logo_qEmLnn"
+        "logo_4gKkFn"
       ],
       "settings": {
         "full_width": true,
@@ -393,6 +385,61 @@
         "input_text_color": ""
       }
     },
+    "tabs_rchMgA": {
+      "type": "tabs",
+      "blocks": {
+        "tab_WxbApe": {
+          "type": "tab",
+          "settings": {
+            "title": "Contenu du kit Cure au curcuma",
+            "content": "<p>Que contient le pack ?<br/><br/>➤ Un lot de 40 patchs au curcuma et un sérum au curcuma offert pour la première cure de 40 jours.</p><p>Quelle est l’offre spéciale pour des cures plus longues ?<br/><br/>➤ 2 sérums offerts pour une cure de 80 jours (2 packs de 40 patchs).<br/><br/>➤ 3 sérums offerts pour une cure de 120 jours (3 packs de 40 patchs).</p>",
+            "page": ""
+          }
+        },
+        "tab_BcGW4d": {
+          "type": "tab",
+          "settings": {
+            "title": "Composition et Bienfaits",
+            "content": "<p>De quoi sont composés les patchs ?<br/><br/>➤ Nos patchs sont enrichis en extrait de curcuma aux propriétés apaisantes et antioxydantes, pour une peau éclatante et régénérée.</p><p><br/>À quoi sert le sérum au curcuma ?<br/><br/>➤ Le sérum complète l’action des patchs en hydratant, apaisant et améliorant l’éclat du teint.</p>",
+            "page": ""
+          }
+        },
+        "tab_VKcAdL": {
+          "type": "tab",
+          "settings": {
+            "title": "Utilisation et Résultats",
+            "content": "<p>Comment utiliser les patchs ?<br/><br/>➤ Appliquez un patch sur la zone souhaitée pendant plusieurs heures (idéalement la nuit).</p><p>Combien de temps avant de voir des résultats ?<br/><br/>➤ Les premiers effets sont visibles dès quelques jours, avec des résultats optimaux après 40 jours d'utilisation régulière.</p>",
+            "page": ""
+          }
+        },
+        "tab_izfayy": {
+          "type": "tab",
+          "settings": {
+            "title": "Sécurité et Satisfaction",
+            "content": "<p>Est-ce indolore et sans danger ?<br/><br/>➤ Oui, nos patchs sont conçus pour être doux et adaptés aux peaux sensibles.</p><p>Que faire si je ne suis pas satisfait(e) ?<br/><br/>➤ Profitez de notre garantie <strong>30 jours Satisfait ou Remboursé</strong>.</p><p>Comment vous contacter ?<br/><br/>➤ Notre <strong>Service Client est disponible 7J/7</strong> pour répondre à toutes vos questions.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_WxbApe",
+        "tab_BcGW4d",
+        "tab_VKcAdL",
+        "tab_izfayy"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -456,6 +503,7 @@
     "impact_text_hpHNip",
     "multiple-images-with-text",
     "featured-product",
+    "tabs_rchMgA",
     "faq"
   ]
 }
