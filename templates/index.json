@@ -264,12 +264,22 @@
           "settings": {
             "content": ""
           }
+        },
+        "image_4q9cPR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Estompe_les_rides_a_long_terme-removebg-preview.png",
+            "width_mode": "full_width",
+            "max_width": 970,
+            "mobile_max_width": 510
+          }
         }
       },
       "block_order": [
         "subheading_kBbiaT",
         "heading_mkEbAY",
-        "richtext_Mgcafc"
+        "richtext_Mgcafc",
+        "image_4q9cPR"
       ],
       "settings": {
         "full_width": true,
@@ -278,36 +288,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "multiple-images-with-text": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "1664424486a2b084ab-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Estompe_les_rides_a_long_terme-removebg-preview.png",
-            "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "1664424486a2b084ab-0"
-      ],
-      "settings": {
-        "full_width": false,
-        "images_layout": "collage",
-        "collage_images_alignment": "middle",
-        "background": "#f1f1f1",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "featured-product": {
@@ -324,7 +304,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "heading_tag": "h4"
+            "heading_tag": "h3"
           }
         },
         "badges": {
@@ -766,7 +746,6 @@
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
     "rich_text_jKf74k",
-    "multiple-images-with-text",
     "featured-product",
     "tabs_rchMgA",
     "rich_text_gwUar8",
