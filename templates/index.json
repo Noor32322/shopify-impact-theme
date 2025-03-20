@@ -541,54 +541,6 @@
     },
     "rich_text_hAXBLH": {
       "type": "rich-text",
-      "blocks": {
-        "heading_PMprri": {
-          "type": "heading",
-          "settings": {
-            "text": "Une peau rajeunie en seulement 4 étapes",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "image_BWc8HG": {
-          "type": "image",
-          "settings": {
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "image_VDjtWP": {
-          "type": "image",
-          "settings": {
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "image_khFJdX": {
-          "type": "image",
-          "settings": {
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
-        "richtext_QLfAaW": {
-          "type": "richtext",
-          "settings": {
-            "content": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_PMprri",
-        "image_BWc8HG",
-        "image_VDjtWP",
-        "image_khFJdX",
-        "richtext_QLfAaW"
-      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -596,6 +548,58 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_MUkGXf": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_gtYejE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/504404824461149290-50bea433-102a-41a2-8953-946ab4fbb9fc.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "1 - Soufflez ou ajoutez de l'eau",
+            "content": "<p>Sur peau démaquillée, soufflez dans le coton, ou mettez un peu d'eau tiède dessus.</p>"
+          }
+        },
+        "item_TTUA7q": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/504404824461149290-67d84552-8764-4355-8d30-c1a8fb598e71_e7337398-1995-43ce-b990-c94f0592ac9c.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "2 - Appliquez sur la peau",
+            "content": "<p>Appliquez le coton en faisant des mouvements circulaires sur le visage. Laissez poser 2 à 10 minutes.</p>"
+          }
+        },
+        "item_PUcteD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/504404824461149290-55345e73-f037-446c-a311-5846e1ddc659.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "3 - Rincez",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_gtYejE",
+        "item_TTUA7q",
+        "item_PUcteD"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq": {
@@ -738,6 +742,7 @@
     "rich_text_gwUar8",
     "images_with_text_scrolling_93kt3m",
     "rich_text_hAXBLH",
+    "images_with_text_scrolling_MUkGXf",
     "faq"
   ]
 }
