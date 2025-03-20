@@ -541,6 +541,20 @@
     },
     "rich_text_hAXBLH": {
       "type": "rich-text",
+      "blocks": {
+        "heading_xnnXaC": {
+          "type": "heading",
+          "settings": {
+            "text": "Une peau rajeunie en seulement 3 étapes",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_xnnXaC"
+      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -591,7 +605,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
