@@ -551,6 +551,30 @@
             "gradient": ""
           }
         },
+        "image_BWc8HG": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "image_VDjtWP": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
+        "image_khFJdX": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "richtext_QLfAaW": {
           "type": "richtext",
           "settings": {
@@ -560,6 +584,9 @@
       },
       "block_order": [
         "heading_PMprri",
+        "image_BWc8HG",
+        "image_VDjtWP",
+        "image_khFJdX",
         "richtext_QLfAaW"
       ],
       "settings": {
