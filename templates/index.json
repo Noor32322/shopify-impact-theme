@@ -577,29 +577,101 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Suite au grand succès de notre produit les délais de livraison sont les suivant:<br/>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 14 jours ouvrés</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Comment utiliser les cotons au curcuma ?",
+            "content": "<p>Imbibez un coton avec votre soin habituel (tonique, lotion, eau florale) ou utilisez-le directement si déjà pré-imprégné. Passez-le délicatement sur le visage et le cou, en évitant le contour des yeux.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "À quelle fréquence dois-je utiliser ces cotons ?",
+            "content": "<p>Ils peuvent être utilisés <strong>tous les jours</strong>, matin et soir, pour de meilleurs résultats.</p>"
+          }
+        },
+        "item_Pcw4cJ": {
+          "type": "item",
+          "settings": {
+            "title": "Où puis-je les utiliser ?",
+            "content": "<p>Les cotons éclaircissants sont conçus pour le <strong>visage, le cou et d'autres zones sujettes aux taches</strong> (mains, décolleté, etc.).</p>"
+          }
+        },
+        "item_wFFrxc": {
+          "type": "item",
+          "settings": {
+            "title": "Dois-je rincer après utilisation ?",
+            "content": "<p>Non, il n’est pas nécessaire de rincer. Laissez les actifs agir sur la peau avant d’appliquer votre crème hydratante.</p>"
+          }
+        },
+        "item_9brXVX": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser ces cotons avec mon propre sérum ou tonique ?",
+            "content": "<p>Oui, si les cotons ne sont pas déjà imbibés, vous pouvez y ajouter votre lotion ou sérum favori.</p>"
+          }
+        },
+        "item_VaRedm": {
+          "type": "item",
+          "settings": {
+            "title": "À quelle vitesse verrai-je les résultats ?",
+            "content": "<p>Les premiers effets peuvent être visibles après <strong>7 jours</strong>, avec des résultats optimaux après <strong>40 jours</strong> d'utilisation régulière.</p>"
+          }
+        },
+        "item_Bd7jyK": {
+          "type": "item",
+          "settings": {
+            "title": "Ces cotons sont-ils efficaces pour les hommes ?",
+            "content": "<p>Oui, ils conviennent aussi bien aux <strong>hommes qu’aux femmes</strong>, quel que soit le type de peau.</p>"
+          }
+        },
+        "item_UUahEG": {
+          "type": "item",
+          "settings": {
+            "title": "Ce produit aide-t-il à atténuer les taches pigmentaires et l’hyperpigmentation ?",
+            "content": "<p>Oui, les actifs du curcuma et de l'acide kojique sont connus pour <strong>unifier le teint et réduire les taches</strong></p>"
+          }
+        },
+        "item_iHiaA4": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que ces cotons aident à atténuer les cicatrices d’acné ?",
+            "content": "<p>Oui, grâce à leurs propriétés éclaircissantes et régénérantes, ils peuvent <strong>atténuer l'apparence des cicatrices</strong> avec une utilisation régulière.</p>"
+          }
+        },
+        "item_Vfcr4D": {
+          "type": "item",
+          "settings": {
+            "title": "Ce produit est-il adapté à tous les types de peau ?",
+            "content": "<p>Oui, il convient à <strong>toutes les peaux</strong>, y compris les peaux sensibles. Un <strong>test cutané</strong> est recommandé avant la première utilisation.</p>"
+          }
+        },
+        "item_DRqjnt": {
+          "type": "item",
+          "settings": {
+            "title": "Offrez-vous une garantie ?",
+            "content": "<p>Oui, nous proposons une <strong>garantie de 30 jours satisfait ou remboursé</strong>. Si vous n’êtes pas pleinement satisfait des résultats, vous pouvez nous retourner le produit et obtenir un remboursement complet.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_Pcw4cJ",
+        "item_wFFrxc",
+        "item_9brXVX",
+        "item_VaRedm",
+        "item_Bd7jyK",
+        "item_UUahEG",
+        "item_iHiaA4",
+        "item_Vfcr4D",
+        "item_DRqjnt"
       ],
       "settings": {
         "full_width": false,
