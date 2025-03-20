@@ -313,6 +313,14 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
+        "image_FETkNd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/clientes_1000.png",
+            "alignment": "start",
+            "max_width": 220
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -373,9 +381,16 @@
             "alignment": "center",
             "max_width": 490
           }
+        },
+        "liquid_AYAQMM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
         }
       },
       "block_order": [
+        "image_FETkNd",
         "title",
         "badges",
         "price",
@@ -384,7 +399,8 @@
         "variant-picker",
         "quantity-selector",
         "buy-buttons",
-        "image_KNXbfr"
+        "image_KNXbfr",
+        "liquid_AYAQMM"
       ],
       "settings": {
         "full_width": false,
