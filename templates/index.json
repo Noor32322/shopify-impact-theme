@@ -269,9 +269,10 @@
         "image_4q9cPR": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Estompe_les_rides_a_long_terme-removebg-preview.png",
             "width_mode": "full_width",
             "max_width": 970,
-            "mobile_max_width": 510
+            "mobile_max_width": 600
           }
         }
       },
@@ -498,6 +499,7 @@
         "item_ri8GFA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/b5dc6585-b861-42d4-b1d7-2ccb0e24f91b.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Curcuma",
@@ -507,6 +509,7 @@
         "item_Rg6rAC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_77.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Acide kojique",
@@ -562,6 +565,7 @@
         "item_gtYejE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/504404824461149290-50bea433-102a-41a2-8953-946ab4fbb9fc.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "1 - Soufflez ou ajoutez de l'eau",
@@ -571,6 +575,7 @@
         "item_TTUA7q": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/504404824461149290-67d84552-8764-4355-8d30-c1a8fb598e71.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "2 - Appliquez sur la peau",
@@ -580,6 +585,7 @@
         "item_PUcteD": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/504404824461149290-55345e73-f037-446c-a311-5846e1ddc659.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "3 - Rincez",
