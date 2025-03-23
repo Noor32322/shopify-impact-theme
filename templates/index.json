@@ -509,7 +509,7 @@
         "item_Rg6rAC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_77.jpg",
+            "image": "shopify://shop_images/Design_sans_titre_75.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Acide kojique",
@@ -589,7 +589,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "3 - Rincez",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Rincez-vous la peau, à l'eau claire. Appliquez ensuite une crème hydratante.</p>"
           }
         }
       },
