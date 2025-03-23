@@ -16,6 +16,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_76.jpg",
+            "mobile_image": "shopify://shop_images/Design_sans_titre_76.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -171,7 +172,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/2adec3e1-5f2a-44c4-9cd9-5688c3ac0059.png",
+            "logo": "shopify://shop_images/99923d8e-368a-4367-992f-73b57a81264c.png",
             "logo_width": 120,
             "link": ""
           }
@@ -179,7 +180,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/99923d8e-368a-4367-992f-73b57a81264c.png",
+            "logo": "shopify://shop_images/230dfc8c-6d8f-4dac-bd50-dde5369467a6.png",
             "logo_width": 120,
             "link": ""
           }
@@ -187,7 +188,7 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/9724a112-4754-40e8-afba-11eaa683e47e.png",
+            "logo": "shopify://shop_images/2adec3e1-5f2a-44c4-9cd9-5688c3ac0059.png",
             "logo_width": 120,
             "link": ""
           }
@@ -195,7 +196,7 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/230dfc8c-6d8f-4dac-bd50-dde5369467a6.png",
+            "logo": "shopify://shop_images/9724a112-4754-40e8-afba-11eaa683e47e.png",
             "logo_width": 120,
             "link": ""
           }
@@ -268,7 +269,6 @@
         "image_4q9cPR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Estompe_les_rides_a_long_terme-removebg-preview.png",
             "width_mode": "full_width",
             "max_width": 970,
             "mobile_max_width": 510
@@ -296,7 +296,6 @@
         "image_FETkNd": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/clientes_1000.png",
             "alignment": "start",
             "max_width": 220
           }
@@ -357,7 +356,6 @@
         "image_KNXbfr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-03-19_202007-removebg-preview.png",
             "alignment": "center",
             "max_width": 490
           }
@@ -500,7 +498,6 @@
         "item_ri8GFA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/b5dc6585-b861-42d4-b1d7-2ccb0e24f91b.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Curcuma",
@@ -510,7 +507,6 @@
         "item_Rg6rAC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_75.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Acide kojique",
@@ -566,7 +562,6 @@
         "item_gtYejE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/504404824461149290-50bea433-102a-41a2-8953-946ab4fbb9fc.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "1 - Soufflez ou ajoutez de l'eau",
@@ -576,7 +571,6 @@
         "item_TTUA7q": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/504404824461149290-67d84552-8764-4355-8d30-c1a8fb598e71_e7337398-1995-43ce-b990-c94f0592ac9c.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "2 - Appliquez sur la peau",
@@ -586,7 +580,6 @@
         "item_PUcteD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/504404824461149290-55345e73-f037-446c-a311-5846e1ddc659.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "3 - Rincez",
