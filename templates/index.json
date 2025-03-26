@@ -323,6 +323,17 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "buy_buttons_TpHQPx": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#e0bc2d",
+            "atc_button_text_color": "#030303",
+            "payment_button_background": "#000000",
+            "payment_button_text_color": "#030303"
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -349,17 +360,6 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
         "image_KNXbfr": {
           "type": "image",
           "settings": {
@@ -380,11 +380,11 @@
         "badges",
         "price",
         "kaching_bundles_app_block_TKFhYb",
+        "buy_buttons_TpHQPx",
         "rating",
         "description",
         "variant-picker",
         "quantity-selector",
-        "buy-buttons",
         "image_KNXbfr",
         "liquid_AYAQMM"
       ],
