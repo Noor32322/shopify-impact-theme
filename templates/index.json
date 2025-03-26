@@ -301,6 +301,14 @@
             "max_width": 220
           }
         },
+        "image_GQ9jKP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-26_223727-removebg-preview.png",
+            "alignment": "start",
+            "max_width": 210
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -384,6 +392,7 @@
       },
       "block_order": [
         "image_FETkNd",
+        "image_GQ9jKP",
         "title",
         "badges",
         "price",
