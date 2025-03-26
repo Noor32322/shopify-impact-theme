@@ -334,6 +334,14 @@
             "payment_button_text_color": "#030303"
           }
         },
+        "image_WAXiBD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-19_202007-removebg-preview.png",
+            "alignment": "center",
+            "max_width": 390
+          }
+        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -381,6 +389,7 @@
         "price",
         "kaching_bundles_app_block_TKFhYb",
         "buy_buttons_TpHQPx",
+        "image_WAXiBD",
         "rating",
         "description",
         "variant-picker",
