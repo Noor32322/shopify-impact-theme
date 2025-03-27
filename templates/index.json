@@ -291,6 +291,31 @@
         "text_color": ""
       }
     },
+    "rich_text_WdQCg7": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_nCeDrR": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clientes en parle le mieux",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_nCeDrR"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_J9xarm": {
       "type": "multi-column",
       "blocks": {
@@ -931,6 +956,7 @@
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
     "rich_text_jKf74k",
+    "rich_text_WdQCg7",
     "multi_column_J9xarm",
     "featured-product",
     "tabs_rchMgA",
