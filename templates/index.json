@@ -254,7 +254,7 @@
         "heading_mkEbAY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir  la solution au curcuma ophea ?",
+            "text": "Pourquoi choisir  la solution au curcuma Auphea ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -286,6 +286,65 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_J9xarm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_FkYETX": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_9PGjVx": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zYmVfL": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_FkYETX",
+        "item_9PGjVx",
+        "item_zYmVfL"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -424,36 +483,6 @@
         "input_text_color": ""
       }
     },
-    "multiple_images_with_text_GWTebi": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_67R3qB": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/C_1.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "1 Flacon de Collagène OFFERT pour chaque cure de 40 patchs !",
-            "title": "",
-            "content": "<p>Pour maximiser l'efficacité de nos patchs au curcuma, nous vous proposons un flacon de collagène 30 ml avec chaque cure. 💛 Le collagène est essentiel pour renforcer la régénération de la peau, améliorer son élasticité et booster l'effet anti-taches et anti-âge des patchs.</p><p>🌿 <strong>Patchs + Collagène = Résultats optimisés</strong> ✨ Une peau plus✨ <br/><br/>Une peau plus ferme, lumineuse et unifiée, naturellement ! Profitez-en dès maintenant. 🎁</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_67R3qB"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "tabs_rchMgA": {
       "type": "tabs",
       "blocks": {
@@ -507,6 +536,36 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "multiple_images_with_text_GWTebi": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_67R3qB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/C_1.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "1 Flacon de Collagène OFFERT pour chaque cure de 40 patchs !",
+            "title": "",
+            "content": "<p>Pour maximiser l'efficacité de nos patchs au curcuma, nous vous proposons un flacon de collagène 30 ml avec chaque cure. 💛 Le collagène est essentiel pour renforcer la régénération de la peau, améliorer son élasticité et booster l'effet anti-taches et anti-âge des patchs.</p><p>🌿 <strong>Patchs + Collagène = Résultats optimisés</strong> ✨ Une peau plus✨ <br/><br/>Une peau plus ferme, lumineuse et unifiée, naturellement ! Profitez-en dès maintenant. 🎁</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_67R3qB"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "rich_text_gwUar8": {
@@ -800,6 +859,7 @@
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
     "rich_text_jKf74k",
+    "multi_column_J9xarm",
     "featured-product",
     "tabs_rchMgA",
     "multiple_images_with_text_GWTebi",
