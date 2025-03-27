@@ -291,6 +291,36 @@
         "text_color": ""
       }
     },
+    "multiple_images_with_text_GWTebi": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_67R3qB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/C_1.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "1 Flacon de Collagène OFFERT pour chaque cure de 40 patchs !",
+            "title": "",
+            "content": "<p>Pour maximiser l'efficacité de nos patchs au curcuma, nous vous proposons un flacon de collagène 30 ml avec chaque cure. 💛 Le collagène est essentiel pour renforcer la régénération de la peau, améliorer son élasticité et booster l'effet anti-taches et anti-âge des patchs.</p><p>🌿 <strong>Patchs + Collagène = Résultats optimisés</strong> ✨ Une peau plus✨ <br/><br/>Une peau plus ferme, lumineuse et unifiée, naturellement ! Profitez-en dès maintenant. 🎁</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_67R3qB"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -770,6 +800,7 @@
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
     "rich_text_jKf74k",
+    "multiple_images_with_text_GWTebi",
     "featured-product",
     "tabs_rchMgA",
     "rich_text_gwUar8",
