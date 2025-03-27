@@ -20,9 +20,9 @@
       "type": "contact",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Notre service client est à votre disposition pour répondre à toutes vos questions.",
-        "content": "<p>Vous pouvez nous contacter par email ou téléphone aux horaires suivants : du lundi au vendredi de 9h à 12h et de 14h à 18h, et le samedi et dimanche de 10h à 12h. N'hésitez pas à nous joindre.</p>",
+        "subheading": "Suivre Ma Commande",
+        "title": "Donnez nous votre nom, prénom ainsi que votre numéro de commande et notre équipe vous dira où en est votre colis !",
+        "content": "",
         "text_position": "start",
         "contact_form_size": "large",
         "background": "",
