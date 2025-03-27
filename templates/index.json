@@ -291,29 +291,19 @@
         "text_color": ""
       }
     },
-    "rich_text_WdQCg7": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_nCeDrR": {
-          "type": "heading",
-          "settings": {
-            "text": "Nos clientes en parle le mieux",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_nCeDrR"
-      ],
+    "image_with_text_overlay_4J6ABL": {
+      "type": "image-with-text-overlay",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Base_sur_1067_avis_sur_G_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "multi_column_J9xarm": {
@@ -956,7 +946,7 @@
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
     "rich_text_jKf74k",
-    "rich_text_WdQCg7",
+    "image_with_text_overlay_4J6ABL",
     "multi_column_J9xarm",
     "featured-product",
     "tabs_rchMgA",
