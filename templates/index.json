@@ -297,10 +297,11 @@
         "item_FkYETX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.40.49.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Bon produit, la texture est agréable et ça ne colle pas. J’ai vu une nette amélioration sur mes imperfections et boutons après une semaine.</p><p><strong>Sophie T.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -309,10 +310,11 @@
         "item_9PGjVx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.40.14.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Enfin une solution naturelle qui fonctionne ! Mes petites taches se sont estompées, et ma peau est plus nette au réveil.</p><p><strong>Mélodie E.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -321,10 +323,76 @@
         "item_zYmVfL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.36.57.png",
             "column_size": "3",
-            "title": "Column title",
+            "title": "⭐⭐⭐⭐⭐",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je suis conquise ! J’ai la peau sensible et aucun souci d’irritation. Mes tâches brunes sont moins visibles et mon teint plus éclatant.</p><p><strong>Laura T.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ehf8iW": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.41.09.png",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Ces patchs sentent bon et sont super faciles à poser. Mes cicatrices d’acné se sont atténuer, je suis ravie.</p><p><strong>Amélie C.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_taXj7c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.37.49.png",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>J’adore ces patchs ! Après quelques jours d’utilisation, mes rougeurs ont diminué et ma peau est plus lumineuse. Je recommande à 100 %.</p><p>Elsa B.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_4fbtGY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.37.17.png",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Une vraie pépite ! J’ai testé pas mal de soins et ceux-ci sont les plus efficaces sur mes imperfections.</p><p><strong>Julie R.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hibKKn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.41.26.png",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Mon indispensable ! Depuis que je les utilise, mes boutons disparaissent plus vite et ma peau est plus éclatante.</p><p><strong>Claire V.</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_tGGCPU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-27_a_22.39.05.png",
+            "column_size": "3",
+            "title": "⭐⭐⭐⭐⭐",
+            "heading_tag": "h4",
+            "content": "<p>Je l'utilise sur différentes parties de mon corps et c'est vraiment très efficace. Je recommande pour toutes les imperfections de la peau.</p><p><strong>Morgane I.</strong></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -334,9 +402,13 @@
       "block_order": [
         "item_FkYETX",
         "item_9PGjVx",
-        "item_zYmVfL"
+        "item_zYmVfL",
+        "item_ehf8iW",
+        "item_taXj7c",
+        "item_4fbtGY",
+        "item_hibKKn",
+        "item_tGGCPU"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
