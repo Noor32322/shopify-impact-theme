@@ -86,7 +86,6 @@
         },
         "links": {
           "type": "links",
-          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true
