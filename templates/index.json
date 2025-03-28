@@ -604,13 +604,22 @@
             "content": "<p>Est-ce indolore et sans danger ?<br/><br/>➤ Oui, nos patchs sont conçus pour être doux et adaptés aux peaux sensibles.</p><p>Que faire si je ne suis pas satisfait(e) ?<br/><br/>➤ Profitez de notre garantie <strong>30 jours Satisfait ou Remboursé</strong>.</p><p>Comment vous contacter ?<br/><br/>➤ Notre <strong>Service Client est disponible 7J/7</strong> pour répondre à toutes vos questions.</p>",
             "page": ""
           }
+        },
+        "tab_gKGDRN": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison à domicile",
+            "content": "<p>La livraison à domicile est <strong>gratuite</strong>. Le délai de livraison est estimé entre <strong>6 et 9 jours ouvrés.</strong></p><p>Pour suivre votre commande, veuillez nous laisser un message avec<strong> votre nom et votre numéro de commande</strong> dans la page <strong>\"Suivre Ma Commande\"</strong></p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_WxbApe",
         "tab_BcGW4d",
         "tab_VKcAdL",
-        "tab_izfayy"
+        "tab_izfayy",
+        "tab_gKGDRN"
       ],
       "settings": {
         "full_width": true,
