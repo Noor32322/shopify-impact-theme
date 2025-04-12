@@ -15,7 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NEROLYNE_IMAGE_info.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -195,7 +194,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1_01ea81bf-073d-436d-9ba6-66413f577854.png",
             "logo_width": 120,
             "link": ""
           }
@@ -621,10 +619,11 @@
         "item_67R3qB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GIF_2_VisioEar.webp",
             "image_rotation_degrees": -2,
-            "subheading": "1 Flacon de Collagène OFFERT pour chaque cure de 40 patchs !",
+            "subheading": "",
             "title": "",
-            "content": "<p>Pour maximiser l'efficacité de nos patchs au curcuma, nous vous proposons un flacon de collagène 30 ml avec chaque cure. 💛 Le collagène est essentiel pour renforcer la régénération de la peau, améliorer son élasticité et booster l'effet anti-taches et anti-âge des patchs.</p><p>🌿 <strong>Patchs + Collagène = Résultats optimisés</strong> ✨ Une peau plus✨ <br/><br/>Une peau plus ferme, lumineuse et unifiée, naturellement ! Profitez-en dès maintenant. 🎁</p>",
+            "content": "<h3>Rend le nettoyage des oreilles plus sûr et plus intelligent</h3><p>Avec sa caméra HD et son embout en silicone lisse, il rend le nettoyage plus sûr, plus précis et très efficace.</p><p>Pour garantir des résultats optimaux, Slivor VisioEar inclut un guide détaillé via l'application, vous donnant des instructions étape par étape pour un nettoyage sûr et cohérent.</p><p>En une seule utilisation, vous découvrirez :</p><ul><li>Une audition plus claire.</li><li>Confort et confiance améliorés.</li><li>Risque réduit de problèmes liés au cérumen.</li></ul>",
             "button_url": "",
             "button_text": ""
           }
@@ -753,6 +752,7 @@
         "item_gtYejE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GIF_2_VisioEar.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "1 - Soufflez ou ajoutez de l'eau",
