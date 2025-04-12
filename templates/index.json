@@ -643,6 +643,47 @@
         "button_text_color": ""
       }
     },
+    "image_with_text_overlay_tfTm4K": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_LBPehE": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        },
+        "heading_nnjrhA": {
+          "type": "heading",
+          "settings": {
+            "text": "",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_PBwKGW": {
+          "type": "richtext",
+          "settings": {
+            "content": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_LBPehE",
+        "heading_nnjrhA",
+        "richtext_PBwKGW"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/VisioNero.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_gwUar8": {
       "type": "rich-text",
       "blocks": {
@@ -955,6 +996,7 @@
     "featured-product",
     "tabs_rchMgA",
     "multiple_images_with_text_GWTebi",
+    "image_with_text_overlay_tfTm4K",
     "rich_text_gwUar8",
     "images_with_text_scrolling_93kt3m",
     "rich_text_hAXBLH",
