@@ -732,6 +732,36 @@
         "heading_gradient": ""
       }
     },
+    "multiple_images_with_text_yjVKDG": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_MAf9gG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/image_medecin.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Recommandé par les spécialistes de la santé",
+            "content": "<p>« J'ai vu d'innombrables personnes souffrir des conséquences de l'accumulation de cérumen : perte auditive, inconfort et même infections. Le nouveau VisioNero est un outil innovant et non invasif que je recommande en toute confiance.</p><p>La caméra HD intégrée et l'embout en silicone souple permettent un nettoyage précis et sûr des oreilles à domicile. En seulement quelques minutes par semaine, mes patients ont constaté une nette amélioration de la propreté, du confort et de la clarté auditive. C'est une véritable révolution pour l'hygiène des oreilles !</p><p>– Dr Maxime Li, audiologiste certifié</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_MAf9gG"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "rich_text_hAXBLH": {
       "type": "rich-text",
       "blocks": {
@@ -770,15 +800,6 @@
             "content": "<p>Sur peau démaquillée, soufflez dans le coton, ou mettez un peu d'eau tiède dessus.</p>"
           }
         },
-        "item_TTUA7q": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "2 - Appliquez sur la peau",
-            "content": "<p>Appliquez le coton en faisant des mouvements circulaires sur le visage. Laissez poser 2 à 10 minutes.</p>"
-          }
-        },
         "item_PUcteD": {
           "type": "item",
           "settings": {
@@ -791,7 +812,6 @@
       },
       "block_order": [
         "item_gtYejE",
-        "item_TTUA7q",
         "item_PUcteD"
       ],
       "settings": {
@@ -970,6 +990,7 @@
     "multiple_images_with_text_GWTebi",
     "rich_text_gwUar8",
     "images_with_text_scrolling_93kt3m",
+    "multiple_images_with_text_yjVKDG",
     "rich_text_hAXBLH",
     "images_with_text_scrolling_MUkGXf",
     "faq",
