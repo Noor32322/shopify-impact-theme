@@ -719,30 +719,6 @@
     },
     "images_with_text_scrolling_93kt3m": {
       "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_ri8GFA": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Curcuma",
-            "content": "<p><strong>Éclaircit et unifie le teint</strong> en réduisant l’apparence des taches et imperfections.</p><p><strong>Apaise et régénère</strong> la peau grâce à ses propriétés anti-inflammatoires et antioxydantes.</p><p><strong>Protège contre le vieillissement cutané</strong> en neutralisant les radicaux libres et en favorisant l’éclat naturel de la peau.</p>"
-          }
-        },
-        "item_Rg6rAC": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Acide kojique",
-            "content": "<p><strong>Éclaircit visiblement la peau</strong> en réduisant l’apparence des taches pigmentaires et des cicatrices.</p><p><strong>Régule la production de mélanine</strong> pour un teint plus uniforme et lumineux.</p><p><strong>Protège contre le stress oxydatif</strong> et prévient le vieillissement cutané.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_ri8GFA",
-        "item_Rg6rAC"
-      ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
