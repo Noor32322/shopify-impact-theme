@@ -40,7 +40,7 @@
         "scrolling_speed": 10,
         "background": "#ffffff",
         "background_gradient": "",
-        "text_color": "#ca5cb3"
+        "text_color": "#1a1a1a"
       }
     },
     "header": {
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/OZO__3_-removebg-preview.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
