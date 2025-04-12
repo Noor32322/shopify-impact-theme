@@ -802,22 +802,22 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les délais de livraison ?",
-            "content": "<p>Suite au grand succès de notre produit les délais de livraison sont les suivant:<br/>Délai de traitement : 1 à 3 jours ouvrés<br/>Délai de livraison : 6 à 14 jours ouvrés</p>"
+            "title": "Comment ça marche ?",
+            "content": "<p>Utiliser le VisioNero PRO est simple et rapide. Suivez simplement ces étapes :</p><ol><li><strong>Téléchargez l'application :</strong><br/>Pour <strong>iOS</strong> , <a href=\"https://apps.apple.com/us/app/air-look/id6683302989\" target=\"_blank\" title=\"https://apps.apple.com/us/app/air-look/id6683302989\"><span style=\"text-decoration:underline\">téléchargez cette application</span></a> .<br/>Pour <strong>Android</strong> , <a href=\"https://play.google.com/store/apps/details?id=com.air.airlook&hl=en\" target=\"_blank\" title=\"https://play.google.com/store/apps/details?id=com.air.airlook&hl=en\"><span style=\"text-decoration:underline\">téléchargez cette application</span></a> .</li><li><strong>Connectez la caméra :</strong><br/>ouvrez l'application et connectez le Slivor VisioEar à votre appareil via Wi-Fi pour une vue claire et en direct de votre conduit auditif.</li><li><strong>Ajustez l'embout en silicone :</strong><br/>assurez-vous que l'embout en silicone souple et arrondi est solidement fixé pour un nettoyage en douceur.</li><li><strong>Commencez le nettoyage :<br/></strong>Introduisez délicatement l'outil dans l'oreille externe.<br/>Utilisez l'application pour surveiller et éliminer en toute sécurité le cérumen ou les débris.<br/>Évitez d'insérer l'outil trop profondément.</li><li><strong>Nettoyer l'appareil :</strong><br/>Détachez l'embout et nettoyez-le avec de l'eau tiède ou une lingette désinfectante après chaque utilisation.</li><li><strong>Résultats du suivi :</strong><br/>une utilisation régulière aide à maintenir des oreilles plus propres et une audition plus claire.</li></ol>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "Comment utiliser les cotons au curcuma ?",
-            "content": "<p>Imbibez un coton avec votre soin habituel (tonique, lotion, eau florale) ou utilisez-le directement si déjà pré-imprégné. Passez-le délicatement sur le visage et le cou, en évitant le contour des yeux.</p>"
+            "title": " A quelle fréquence dois-je l'utiliser ?",
+            "content": ""
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je utiliser ces cotons ?",
-            "content": "<p>Ils peuvent être utilisés <strong>tous les jours</strong>, matin et soir, pour de meilleurs résultats.</p>"
+            "title": "À quelle fréquence dois-je l'utiliser ?",
+            "content": "<p>Nous recommandons d'utiliser le VisioNero PRO une fois par semaine ou selon vos besoins, en fonction de l'accumulation de cérumen. Pour les porteurs d'appareils auditifs ou d'écouteurs intra-auriculaires, une utilisation deux fois par semaine est idéale pour des oreilles propres et confortables.</p><p>La plupart des utilisateurs remarquent :</p><ul><li>Amélioration de l'audition et du confort dès la première utilisation.</li><li>Réduction de l'accumulation de cire et de l'irritation grâce à un nettoyage hebdomadaire régulier.</li></ul>"
           }
         },
         "item_Pcw4cJ": {
