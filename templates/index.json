@@ -644,6 +644,7 @@
         },
         "tab_izfayy": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "title": "Sécurité et Satisfaction",
             "content": "<p>Est-ce indolore et sans danger ?<br/><br/>➤ Oui, nos patchs sont conçus pour être doux et adaptés aux peaux sensibles.</p><p>Que faire si je ne suis pas satisfait(e) ?<br/><br/>➤ Profitez de notre garantie <strong>30 jours Satisfait ou Remboursé</strong>.</p><p>Comment vous contacter ?<br/><br/>➤ Notre <strong>Service Client est disponible 7J/7</strong> pour répondre à toutes vos questions.</p>",
