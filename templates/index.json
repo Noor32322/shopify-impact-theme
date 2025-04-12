@@ -171,6 +171,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -178,6 +179,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -185,6 +187,7 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -192,6 +195,7 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1_01ea81bf-073d-436d-9ba6-66413f577854.png",
             "logo_width": 120,
             "link": ""
           }
@@ -249,7 +253,7 @@
         "heading_mkEbAY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir  la solution au curcuma Auphea ?",
+            "text": "Pourquoi choisir Nerolyne ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -292,6 +296,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Estompe_les_rides_a_long_terme.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -530,7 +535,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "cotons-glow-up-cotons-dermo-eclaircissant-au-curcuma-acide-kojique-40-cotons-1",
+        "product": "slivor-visioear",
         "desktop_media_width": 55,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
