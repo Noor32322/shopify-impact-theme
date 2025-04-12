@@ -823,57 +823,57 @@
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
-            "title": "Où puis-je les utiliser ?",
-            "content": "<p>Les cotons éclaircissants sont conçus pour le <strong>visage, le cou et d'autres zones sujettes aux taches</strong> (mains, décolleté, etc.).</p>"
+            "title": "Puis-je utiliser Visionero PRO si je porte des appareils auditifs ?",
+            "content": "<p>Oui, Visionero PRO est adapté aux utilisateurs d'appareils auditifs, en aidant à maintenir une hygiène auriculaire optimale sans endommager vos appareils.</p>"
           }
         },
         "item_wFFrxc": {
           "type": "item",
           "settings": {
-            "title": "Dois-je rincer après utilisation ?",
-            "content": "<p>Non, il n’est pas nécessaire de rincer. Laissez les actifs agir sur la peau avant d’appliquer votre crème hydratante.</p>"
+            "title": "Est-ce que le nettoyage avec Visionero PRO peut causer des douleurs ?",
+            "content": "<p>Non, grâce à ses embouts en silicone doux et sa conception ergonomique, Visionero PRO est conçu pour offrir un nettoyage confortable, sans douleur ni irritation.</p>"
           }
         },
         "item_9brXVX": {
           "type": "item",
           "settings": {
-            "title": "Puis-je utiliser ces cotons avec mon propre sérum ou tonique ?",
-            "content": "<p>Oui, si les cotons ne sont pas déjà imbibés, vous pouvez y ajouter votre lotion ou sérum favori.</p>"
+            "title": "Combien de temps faut-il pour nettoyer mes oreilles avec Visionero PRO ?",
+            "content": "<p>Le nettoyage des oreilles avec Visionero PRO prend généralement de 20 secondes à plus, selon la quantité de cérumen à éliminer. L'application vous aide à diriger le nettoyage en toute sécurité.</p>"
           }
         },
         "item_VaRedm": {
           "type": "item",
           "settings": {
-            "title": "À quelle vitesse verrai-je les résultats ?",
-            "content": "<p>Les premiers effets peuvent être visibles après <strong>7 jours</strong>, avec des résultats optimaux après <strong>40 jours</strong> d'utilisation régulière.</p>"
+            "title": "Comment nettoyer Visionero PRO après utilisation ?",
+            "content": "<p>Après chaque utilisation, retirez simplement l'embout en silicone et lavez-le à l'eau tiède avec un savon doux ou une lingette désinfectante. Vous pouvez aussi nettoyer le dispositif principal avec un chiffon doux.</p>"
           }
         },
         "item_Bd7jyK": {
           "type": "item",
           "settings": {
-            "title": "Ces cotons sont-ils efficaces pour les hommes ?",
-            "content": "<p>Oui, ils conviennent aussi bien aux <strong>hommes qu’aux femmes</strong>, quel que soit le type de peau.</p>"
+            "title": "Visionero PRO est-il rechargeable ?",
+            "content": "<p>Oui, Visionero PRO est équipé d’une batterie rechargeable via un port USB-C, offrant une charge rapide pour une utilisation pratique.</p>"
           }
         },
         "item_UUahEG": {
           "type": "item",
           "settings": {
-            "title": "Ce produit aide-t-il à atténuer les taches pigmentaires et l’hyperpigmentation ?",
-            "content": "<p>Oui, les actifs du curcuma et de l'acide kojique sont connus pour <strong>unifier le teint et réduire les taches</strong></p>"
+            "title": "Visionero PRO est-il écologique ?",
+            "content": "<p>Oui, Visionero PRO est réutilisable, ce qui le rend beaucoup plus écologique que les cotons-tiges jetables qui contribuent aux déchets plastiques.</p>"
           }
         },
         "item_iHiaA4": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que ces cotons aident à atténuer les cicatrices d’acné ?",
-            "content": "<p>Oui, grâce à leurs propriétés éclaircissantes et régénérantes, ils peuvent <strong>atténuer l'apparence des cicatrices</strong> avec une utilisation régulière.</p>"
+            "title": "Combien de fois puis-je utiliser Visionero PRO avant de devoir le recharger ?",
+            "content": "<p>Selon l'utilisation, une charge complète peut durer plusieurs séances de nettoyage. En moyenne, il peut être utilisé pendant environ 1 à 2 semaines avant de nécessiter une recharge.</p>"
           }
         },
         "item_Vfcr4D": {
           "type": "item",
           "settings": {
-            "title": "Ce produit est-il adapté à tous les types de peau ?",
-            "content": "<p>Oui, il convient à <strong>toutes les peaux</strong>, y compris les peaux sensibles. Un <strong>test cutané</strong> est recommandé avant la première utilisation.</p>"
+            "title": "Puis-je l'utiliser sur mes enfants ?",
+            "content": "<p>Visionero PRO peut être utilisé sur des enfants sous la supervision d'un adulte. Assurez-vous de ne pas insérer l'appareil trop profondément dans l'oreille et de vérifier régulièrement la propreté de l'embout.</p>"
           }
         },
         "item_DRqjnt": {
