@@ -530,6 +530,18 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "essential_countdown_app_block_fL4xpC": {
+          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
+        "essential_countdown_app_block_TJzzmA": {
+          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cm9ez2la1009x3mqa5z4maze5"
+          }
+        },
         "buy_buttons_TpHQPx": {
           "type": "buy_buttons",
           "settings": {
@@ -541,22 +553,10 @@
             "payment_button_text_color": "#030303"
           }
         },
-        "essential_countdown_app_block_VxVWwP": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "122"
-          }
-        },
-        "essential_countdown_app_block_g9cGBj": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "disabled": true,
-          "settings": {
-            "id": ""
-          }
-        },
         "image_WAXiBD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/badgetrust2.webp",
             "alignment": "center",
             "max_width": 390
           }
@@ -608,9 +608,9 @@
         "badges",
         "price",
         "kaching_bundles_app_block_eypnhr",
+        "essential_countdown_app_block_fL4xpC",
+        "essential_countdown_app_block_TJzzmA",
         "buy_buttons_TpHQPx",
-        "essential_countdown_app_block_VxVWwP",
-        "essential_countdown_app_block_g9cGBj",
         "image_WAXiBD",
         "rating",
         "description",
