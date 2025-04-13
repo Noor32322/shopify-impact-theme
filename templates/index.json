@@ -732,37 +732,8 @@
         "button_text_color": ""
       }
     },
-    "images_with_text_scrolling_93kt3m": {
-      "type": "images-with-text-scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "rich_text_hAXBLH": {
       "type": "rich-text",
-      "blocks": {
-        "heading_xnnXaC": {
-          "type": "heading",
-          "settings": {
-            "text": "Une peau rajeunie en seulement 3 étapes",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_xnnXaC"
-      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
@@ -967,7 +938,6 @@
     "featured-product",
     "tabs_rchMgA",
     "multiple_images_with_text_GWTebi",
-    "images_with_text_scrolling_93kt3m",
     "rich_text_hAXBLH",
     "faq",
     "contact_rFRQqd",
