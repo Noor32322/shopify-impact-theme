@@ -598,7 +598,7 @@
         "liquid_AYAQMM"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "product": "slivor-visioear",
         "desktop_media_width": 55,
         "desktop_media_layout": "grid_highlight",
