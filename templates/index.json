@@ -541,8 +541,15 @@
             "payment_button_text_color": "#030303"
           }
         },
+        "essential_countdown_app_block_VxVWwP": {
+          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "122"
+          }
+        },
         "essential_countdown_app_block_g9cGBj": {
           "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "disabled": true,
           "settings": {
             "id": ""
           }
@@ -602,6 +609,7 @@
         "price",
         "kaching_bundles_app_block_eypnhr",
         "buy_buttons_TpHQPx",
+        "essential_countdown_app_block_VxVWwP",
         "essential_countdown_app_block_g9cGBj",
         "image_WAXiBD",
         "rating",
