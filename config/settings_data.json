@@ -50,6 +50,11 @@
         "type": "shopify://apps/essential-countdown/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {}
+      },
+      "14634761946738920563": {
+        "type": "shopify://apps/lunachat-conversion-ai-chatbot/blocks/app-embed/39b9d4f3-15bc-4813-bbc5-26754512ef5a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
