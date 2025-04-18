@@ -836,6 +836,13 @@
             "title": "Offrez-vous une garantie ?",
             "content": "<p>Oui, nous proposons une <strong>garantie de 30 jours satisfait ou remboursé</strong>. Si vous n’êtes pas pleinement satisfait des résultats, vous pouvez nous retourner le produit et obtenir un remboursement complet.</p>"
           }
+        },
+        "item_PrdFwE": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je suivre ma commande",
+            "content": "<p>Oui ! après le passage de votre commande le numéro vous est fourni instantanément et vous pouvez l'appliquer ici <a href=\"/apps/parcelpanel\" title=\"/apps/parcelpanel\">Suivre ma commande</a></p>"
+          }
         }
       },
       "block_order": [
@@ -850,7 +857,8 @@
         "item_UUahEG",
         "item_iHiaA4",
         "item_Vfcr4D",
-        "item_DRqjnt"
+        "item_DRqjnt",
+        "item_PrdFwE"
       ],
       "settings": {
         "full_width": false,
