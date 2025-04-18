@@ -427,6 +427,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "shop_policies": {
+        "cookie_preferences": " "
+      }
     }
   }
 }
