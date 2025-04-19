@@ -740,6 +740,7 @@
         "item_MAf9gG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_medecin.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Recommandé par les spécialistes de la santé",
@@ -751,35 +752,6 @@
       },
       "block_order": [
         "item_MAf9gG"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
-    "multiple_images_with_text_GWTebi": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_67R3qB": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "",
-            "content": "<h3>Rend le nettoyage des oreilles plus sûr et plus intelligent</h3><p>Avec sa caméra HD et son embout en silicone lisse, il rend le nettoyage plus sûr, plus précis et très efficace.</p><p>Pour garantir des résultats optimaux, Slivor VisioEar inclut un guide détaillé via l'application, vous donnant des instructions étape par étape pour un nettoyage sûr et cohérent.</p><p>En une seule utilisation, vous découvrirez :</p><ul><li>Une audition plus claire.</li><li>Confort et confiance améliorés.</li><li>Risque réduit de problèmes liés au cérumen.</li></ul>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_67R3qB"
       ],
       "settings": {
         "full_width": true,
@@ -1012,7 +984,6 @@
     "featured-product",
     "tabs_rchMgA",
     "multiple_images_with_text_yjVKDG",
-    "multiple_images_with_text_GWTebi",
     "rich_text_hAXBLH",
     "faq",
     "174459191616bbf63a",
