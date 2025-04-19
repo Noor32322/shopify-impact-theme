@@ -576,6 +576,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "liquid_aK3peQ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "buy_buttons_TpHQPx": {
           "type": "buy_buttons",
           "settings": {
@@ -642,6 +648,7 @@
         "badges",
         "price",
         "kaching_bundles_app_block_XAzDga",
+        "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
         "image_WAXiBD",
         "rating",
