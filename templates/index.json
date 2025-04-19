@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_19_avr._2025_16_38_45.png",
+            "image": "shopify://shop_images/ChatGPTImage19avr.2025_16_49_05.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -310,54 +310,60 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_6.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
+            "title": "Stéphanie",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_7LDGia": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
+            "title": "Virginie",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_nxhzEL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_7.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
+            "title": "Laeticia",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_TBnLYp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_2.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
+            "title": "Agathe",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_ME6H6L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_4.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
+            "title": "Daniella",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
         "item_bJePYF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_8.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
+            "title": "Sasha",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
