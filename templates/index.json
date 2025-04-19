@@ -810,7 +810,7 @@
           "type": "item",
           "settings": {
             "title": "Comment ça marche ?",
-            "content": "<p>Utiliser le VisioNero PRO est simple et rapide. Suivez simplement ces étapes :</p><ol><li><strong>Téléchargez l'application :</strong><br/>Pour <strong>iOS</strong> , <a href=\"https://apps.apple.com/us/app/air-look/id6683302989\" target=\"_blank\" title=\"https://apps.apple.com/us/app/air-look/id6683302989\"><span style=\"text-decoration:underline\">téléchargez cette application</span></a> .<br/>Pour <strong>Android</strong> , <a href=\"https://play.google.com/store/apps/details?id=com.air.airlook&hl=en\" target=\"_blank\" title=\"https://play.google.com/store/apps/details?id=com.air.airlook&hl=en\"><span style=\"text-decoration:underline\">téléchargez cette application</span></a> .</li><li><strong>Connectez la caméra :</strong><br/>ouvrez l'application et connectez le Slivor VisioEar à votre appareil via Wi-Fi pour une vue claire et en direct de votre conduit auditif.</li><li><strong>Ajustez l'embout en silicone :</strong><br/>assurez-vous que l'embout en silicone souple et arrondi est solidement fixé pour un nettoyage en douceur.</li><li><strong>Commencez le nettoyage :<br/></strong>Introduisez délicatement l'outil dans l'oreille externe.<br/>Utilisez l'application pour surveiller et éliminer en toute sécurité le cérumen ou les débris.<br/>Évitez d'insérer l'outil trop profondément.</li><li><strong>Nettoyer l'appareil :</strong><br/>Détachez l'embout et nettoyez-le avec de l'eau tiède ou une lingette désinfectante après chaque utilisation.</li><li><strong>Résultats du suivi :</strong><br/>une utilisation régulière aide à maintenir des oreilles plus propres et une audition plus claire.</li></ol>"
+            "content": "<p>Il s’utilise le soir, sur peau propre, juste avant de dormir. Appliquez une fine couche du masque, laissez-le agir toute la nuit pendant que votre peau se régénère naturellement. Au réveil, retirez-le : votre teint est plus lumineux, vos traits sont reposés, et votre peau visiblement plus lisse.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -823,15 +823,15 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je l'utiliser ?",
-            "content": "<p>Nous recommandons d'utiliser le VisioNero PRO une fois par semaine ou selon vos besoins, en fonction de l'accumulation de cérumen. Pour les porteurs d'appareils auditifs ou d'écouteurs intra-auriculaires, une utilisation deux fois par semaine est idéale pour des oreilles propres et confortables.</p><p>La plupart des utilisateurs remarquent :</p><ul><li>Amélioration de l'audition et du confort dès la première utilisation.</li><li>Réduction de l'accumulation de cire et de l'irritation grâce à un nettoyage hebdomadaire régulier.</li></ul>"
+            "title": "À quelle fréquence dois-je appliquer le Masque Kiari ?",
+            "content": "<p>Nous recommandons 2 à 3 fois par semaine pour des résultats visibles et durables. Il peut être utilisé en soin régulier ou en cure intensive.</p>"
           }
         },
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
-            "title": "Puis-je utiliser Visionero PRO si je porte des appareils auditifs ?",
-            "content": "<p>Oui, Visionero PRO est adapté aux utilisateurs d'appareils auditifs, en aidant à maintenir une hygiène auriculaire optimale sans endommager vos appareils.</p>"
+            "title": "Convient-il à tous les types de peau ?",
+            "content": "<p>Oui, que votre peau soit claire, foncée, sèche, grasse, mixte ou mature, le masque s’adapte comme un vêtement sur-mesure.</p>"
           }
         },
         "item_wFFrxc": {
