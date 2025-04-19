@@ -15,8 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_12_avr._2025_21_59_43.png",
-            "mobile_image": "shopify://shop_images/ChatGPT_Image_12_avr._2025_21_59_43.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -172,7 +170,6 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -180,7 +177,6 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -188,7 +184,6 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -196,7 +191,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -297,7 +291,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Estompe_les_rides_a_long_terme.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -330,7 +323,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre__2_-removebg-preview.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -462,36 +454,6 @@
         "text_color": ""
       }
     },
-    "multiple_images_with_text_yjVKDG": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_MAf9gG": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/image_medecin.webp",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Recommandé par les spécialistes de la santé",
-            "content": "<p>« J'ai vu d'innombrables personnes souffrir des conséquences de l'accumulation de cérumen : perte auditive, inconfort et même infections. Le nouveau VisioNero est un outil innovant et non invasif que je recommande en toute confiance.</p><p>La caméra HD intégrée et l'embout en silicone souple permettent un nettoyage précis et sûr des oreilles à domicile. En seulement quelques minutes par semaine, mes patients ont constaté une nette amélioration de la propreté, du confort et de la clarté auditive. C'est une véritable révolution pour l'hygiène des oreilles !</p><p>– Dr Maxime Li, audiologiste certifié</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_MAf9gG"
-      ],
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -531,24 +493,6 @@
             "show_taxes_notice": false
           }
         },
-        "kaching_bundles_app_block_eypnhr": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
-        "essential_countdown_app_block_fL4xpC": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": ""
-          }
-        },
-        "essential_countdown_app_block_TJzzmA": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cm9ez2la1009x3mqa5z4maze5"
-          }
-        },
         "buy_buttons_TpHQPx": {
           "type": "buy_buttons",
           "settings": {
@@ -563,7 +507,6 @@
         "image_WAXiBD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badgetrust2.webp",
             "alignment": "center",
             "max_width": 390
           }
@@ -615,9 +558,6 @@
         "title",
         "badges",
         "price",
-        "kaching_bundles_app_block_eypnhr",
-        "essential_countdown_app_block_fL4xpC",
-        "essential_countdown_app_block_TJzzmA",
         "buy_buttons_TpHQPx",
         "image_WAXiBD",
         "rating",
@@ -629,7 +569,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "visionero-pro",
+        "product": "lumeor-masque-au-collagene-pour-une-peau-eclatante",
         "desktop_media_width": 55,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
@@ -710,13 +650,41 @@
         "heading_gradient": ""
       }
     },
+    "multiple_images_with_text_yjVKDG": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_MAf9gG": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Recommandé par les spécialistes de la santé",
+            "content": "<p>« J'ai vu d'innombrables personnes souffrir des conséquences de l'accumulation de cérumen : perte auditive, inconfort et même infections. Le nouveau VisioNero est un outil innovant et non invasif que je recommande en toute confiance.</p><p>La caméra HD intégrée et l'embout en silicone souple permettent un nettoyage précis et sûr des oreilles à domicile. En seulement quelques minutes par semaine, mes patients ont constaté une nette amélioration de la propreté, du confort et de la clarté auditive. C'est une véritable révolution pour l'hygiène des oreilles !</p><p>– Dr Maxime Li, audiologiste certifié</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_MAf9gG"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "multiple_images_with_text_GWTebi": {
       "type": "multiple-images-with-text",
       "blocks": {
         "item_67R3qB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/GIF_2_VisioEar.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "",
@@ -885,23 +853,6 @@
     },
     "174459191616bbf63a": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_KXT4rk": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_KXT4rk"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -938,23 +889,6 @@
     },
     "17445525616f85bc44": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_iRRk6P": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_iRRk6P"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
