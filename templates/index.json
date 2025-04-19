@@ -837,50 +837,57 @@
         "item_wFFrxc": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que le nettoyage avec Visionero PRO peut causer des douleurs ?",
-            "content": "<p>Non, grâce à ses embouts en silicone doux et sa conception ergonomique, Visionero PRO est conçu pour offrir un nettoyage confortable, sans douleur ni irritation.</p>"
+            "title": "Est-ce que je verrai une différence dès la première utilisation ?",
+            "content": "<p>Oui, beaucoup remarquent une peau plus lisse et lumineuse dès le premier matin. Imaginez arroser une plante fanée — elle retrouve très vite son éclat.</p>"
           }
         },
         "item_9brXVX": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps faut-il pour nettoyer mes oreilles avec Visionero PRO ?",
-            "content": "<p>Le nettoyage des oreilles avec Visionero PRO prend généralement de 20 secondes à plus, selon la quantité de cérumen à éliminer. L'application vous aide à diriger le nettoyage en toute sécurité.</p>"
+            "title": "Ces masques bloquent t-ils les ports ?",
+            "content": "<p>Non, il ne bouche pas les pores. Il laisse la peau respirer tout en la nourrissant en profondeur.</p>"
           }
         },
         "item_VaRedm": {
           "type": "item",
           "settings": {
-            "title": "Comment nettoyer Visionero PRO après utilisation ?",
-            "content": "<p>Après chaque utilisation, retirez simplement l'embout en silicone et lavez-le à l'eau tiède avec un savon doux ou une lingette désinfectante. Vous pouvez aussi nettoyer le dispositif principal avec un chiffon doux.</p>"
+            "title": "Quels sont les ingrédients clés ?",
+            "content": "<p>Collagène hydrolysé, niacinamide, filtrat de ferment (Galactomyces), allantoïne et algue rouge — une combinaison naturelle qui agit comme une potion magique pour votre peau.</p>"
           }
         },
         "item_Bd7jyK": {
           "type": "item",
           "settings": {
-            "title": "Visionero PRO est-il rechargeable ?",
-            "content": "<p>Oui, Visionero PRO est équipé d’une batterie rechargeable via un port USB-C, offrant une charge rapide pour une utilisation pratique.</p>"
+            "title": "Est-ce que je peux utiliser d'autres soins après le masque ?",
+            "content": "<p>Ce n’est pas nécessaire, mais si vous le souhaitez, attendez que le masque soit complètement absorbé. Pensez à lui comme une base ultra-riche : votre peau sera déjà comblée.</p>"
           }
         },
         "item_UUahEG": {
           "type": "item",
           "settings": {
-            "title": "Visionero PRO est-il écologique ?",
-            "content": "<p>Oui, Visionero PRO est réutilisable, ce qui le rend beaucoup plus écologique que les cotons-tiges jetables qui contribuent aux déchets plastiques.</p>"
+            "title": "Peut-on l’utiliser avant le maquillage ?",
+            "content": "<p>Nous conseillons plutôt une utilisation de nuit. Mais si votre peau est très sèche, il peut être utilisé 2 heures avant le maquillage, pour un effet “glow” naturel.</p>"
           }
         },
         "item_iHiaA4": {
           "type": "item",
           "settings": {
-            "title": "Combien de fois puis-je utiliser Visionero PRO avant de devoir le recharger ?",
-            "content": "<p>Selon l'utilisation, une charge complète peut durer plusieurs séances de nettoyage. En moyenne, il peut être utilisé pendant environ 1 à 2 semaines avant de nécessiter une recharge.</p>"
+            "title": "Le masque aide-t-il à réduire les rides profondes ?",
+            "content": "<p>Oui, avec une utilisation régulière. C’est comme repasser une chemise froissée : cela ne se fait pas en un seul coup, mais les plis s’estompent petit à petit.</p>"
           }
         },
         "item_Vfcr4D": {
           "type": "item",
           "settings": {
-            "title": "Puis-je l'utiliser sur mes enfants ?",
-            "content": "<p>Visionero PRO peut être utilisé sur des enfants sous la supervision d'un adulte. Assurez-vous de ne pas insérer l'appareil trop profondément dans l'oreille et de vérifier régulièrement la propreté de l'embout.</p>"
+            "title": "Aide-t-il aussi contre les taches ou le teint terne ?",
+            "content": "<p>Tout à fait. Grâce à la niacinamide, le teint est unifié et la peau retrouve de la lumière, comme si elle se réveillait d’un long hiver.</p>"
+          }
+        },
+        "item_cThyt4": {
+          "type": "item",
+          "settings": {
+            "title": "Peut-il être utilisé sur le cou ou le décolleté ?",
+            "content": "<p>Oui, et c’est même recommandé ! Ces zones sont souvent oubliées, alors qu’elles trahissent facilement l’âge.</p>"
           }
         },
         "item_DRqjnt": {
@@ -910,6 +917,7 @@
         "item_UUahEG",
         "item_iHiaA4",
         "item_Vfcr4D",
+        "item_cThyt4",
         "item_DRqjnt",
         "item_PrdFwE"
       ],
