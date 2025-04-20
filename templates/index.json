@@ -796,6 +796,45 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_MwWnrg": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_t9DD4y": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_MaDNjb": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_t9DD4y",
+        "item_MaDNjb"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -1006,6 +1045,7 @@
     "tabs_rchMgA",
     "multiple_images_with_text_yjVKDG",
     "rich_text_hAXBLH",
+    "images_with_text_scrolling_MwWnrg",
     "faq",
     "174459191616bbf63a",
     "contact_rFRQqd",
