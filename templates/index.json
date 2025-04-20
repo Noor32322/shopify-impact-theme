@@ -608,6 +608,7 @@
         "image_WAXiBD": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/badgetrust2_8b0135fa-b7b1-424d-8511-644f9dfac47e.webp",
             "alignment": "center",
             "max_width": 390
           }
