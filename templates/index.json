@@ -822,6 +822,7 @@
         "item_t9DD4y",
         "item_MaDNjb"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
