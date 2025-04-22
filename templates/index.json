@@ -787,6 +787,20 @@
     },
     "rich_text_hAXBLH": {
       "type": "rich-text",
+      "blocks": {
+        "image_dhb9UA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/screen-removebg-preview.png",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 530
+          }
+        }
+      },
+      "block_order": [
+        "image_dhb9UA"
+      ],
       "settings": {
         "full_width": true,
         "content_width": "small",
