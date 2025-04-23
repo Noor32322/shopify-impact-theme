@@ -307,16 +307,6 @@
     "images_with_text_scrolling_mdcqD6": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "item_bJePYF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_8.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Sasha",
-            "content": "<p>« J’ai une peau mixte avec des imperfections régulières. Depuis que j’utilise ce masque, ma peau est beaucoup plus nette. Mes boutons ont diminué en 5-6 jours, mes rougeurs aussi. Ma peau est plus équilibrée, sans être agressée. »</p>"
-          }
-        },
         "item_BQCPXh": {
           "type": "item",
           "settings": {
@@ -325,6 +315,16 @@
             "icon_width": 48,
             "title": "Célia",
             "content": "<p><em>\"Je ne supportais plus mes pores dilatés et l’excès de sébum, mais ce produit a complètement changé ma peau. Elle est désormais plus lisse, nette et visiblement purifiée !\"</em></p>"
+          }
+        },
+        "item_7LDGia": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Virginie",
+            "content": "<p><em>« J’étais sceptique au début, mais après trois semaines d’utilisation régulière, mes rides profondes ont visiblement diminué. Même mon entourage m’a fait des remarques positives. Me voila après 6 mois de cure Kiari.\"</em></p>"
           }
         },
         "item_JT7VjL": {
@@ -337,14 +337,14 @@
             "content": "<p>« J’ai commencé à voir mes rides s’estomper au bout de deux semaines seulement. Ma peau est plus souple, plus lumineuse… c’est bluffant ! Je n’avais pas vu un tel résultat depuis des années. »</p>"
           }
         },
-        "item_7LDGia": {
+        "item_bJePYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES.jpg",
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_8.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Virginie",
-            "content": "<p><em>« J’étais sceptique au début, mais après trois semaines d’utilisation régulière, mes rides profondes ont visiblement diminué. Même mon entourage m’a fait des remarques positives. Me voila après 6 mois de cure Kiari.\"</em></p>"
+            "title": "Sasha",
+            "content": "<p>« J’ai une peau mixte avec des imperfections régulières. Depuis que j’utilise ce masque, ma peau est beaucoup plus nette. Mes boutons ont diminué en 5-6 jours, mes rougeurs aussi. Ma peau est plus équilibrée, sans être agressée. »</p>"
           }
         },
         "item_nxhzEL": {
@@ -379,10 +379,10 @@
         }
       },
       "block_order": [
-        "item_bJePYF",
         "item_BQCPXh",
-        "item_JT7VjL",
         "item_7LDGia",
+        "item_JT7VjL",
+        "item_bJePYF",
         "item_nxhzEL",
         "item_TBnLYp",
         "item_ME6H6L"
