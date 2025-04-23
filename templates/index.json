@@ -616,6 +616,12 @@
             "liquid": ""
           }
         },
+        "essential_countdown_app_block_PXtMCp": {
+          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cm9ukcf7i0053pd7xp8i9nlmf"
+          }
+        },
         "buy_buttons_TpHQPx": {
           "type": "buy_buttons",
           "settings": {
@@ -650,12 +656,6 @@
             "image": "shopify://shop_images/Kiari__2_-removebg-preview.png",
             "alignment": "center",
             "max_width": 500
-          }
-        },
-        "essential_countdown_app_block_PXtMCp": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cm9ukcf7i0053pd7xp8i9nlmf"
           }
         },
         "rating": {
@@ -709,11 +709,11 @@
         "liquid_kNfAcH",
         "kaching_bundles_app_block_XAzDga",
         "liquid_aK3peQ",
+        "essential_countdown_app_block_PXtMCp",
         "buy_buttons_TpHQPx",
         "image_zqwGic",
         "image_WAXiBD",
         "image_AwKaRx",
-        "essential_countdown_app_block_PXtMCp",
         "rating",
         "description",
         "variant-picker",
@@ -724,7 +724,7 @@
       "settings": {
         "full_width": true,
         "product": "kiari-masque-au-collagene",
-        "desktop_media_width": 55,
+        "desktop_media_width": 45,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "thumbnails",
