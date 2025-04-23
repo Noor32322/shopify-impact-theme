@@ -55,6 +55,11 @@
         "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
+      },
+      "14634761946738920563": {
+        "type": "shopify://apps/lunachat-conversion-ai-chatbot/blocks/app-embed/39b9d4f3-15bc-4813-bbc5-26754512ef5a",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
