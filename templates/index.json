@@ -844,6 +844,47 @@
         "heading_gradient": ""
       }
     },
+    "images_with_text_scrolling_XRrxM7": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_Wb3iDF": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "",
+            "content": ""
+          }
+        },
+        "item_XGn9eM": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Wb3iDF",
+        "item_XGn9eM"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "multiple_images_with_text_yjVKDG": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -1254,6 +1295,7 @@
     "multi_column_J9xarm",
     "featured-product",
     "tabs_rchMgA",
+    "images_with_text_scrolling_XRrxM7",
     "multiple_images_with_text_yjVKDG",
     "images_with_text_scrolling_fKHdVT",
     "rich_text_hAXBLH",
