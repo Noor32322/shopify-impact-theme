@@ -376,6 +376,16 @@
             "title": "Daniella",
             "content": "<p><em>« Une vraie révélation. En 30 jours, ma peau était plus lisse, mes ridules autour des yeux moins marquées. Je me sens rajeunie et ça me redonne confiance. Voila après 4 mois ce que sa donne :) »</em></p><p></p>"
           }
+        },
+        "item_T4qNQj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/AVANT_KIARI.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Stella",
+            "content": "<p>Ma peau n'a jamais été aussi douce et éclatante. Je ne peux plus m'en passer !</p>"
+          }
         }
       },
       "block_order": [
@@ -385,7 +395,8 @@
         "item_bJePYF",
         "item_nxhzEL",
         "item_TBnLYp",
-        "item_ME6H6L"
+        "item_ME6H6L",
+        "item_T4qNQj"
       ],
       "settings": {
         "full_width": true,
