@@ -785,6 +785,65 @@
         "button_text_color": ""
       }
     },
+    "images_with_text_scrolling_fKHdVT": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_7nKNy6": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Collagène hydrolisé",
+            "content": "<p>Le collagène hydrolysé stimule la synthèse endogène de collagène, favorisant une meilleure élasticité cutanée. Il contribue à la réduction visible des ridules et des rides en renforçant la structure dermique. Par ailleurs, il améliore la fermeté de la peau et homogénéise sa texture en soutenant le réseau de fibres de collagène et d’élastine.</p>"
+          }
+        },
+        "item_8axKy3": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Niacinamide",
+            "content": "<p>La niacinamide (vitamine B3) est un actif dermatologique aux multiples bénéfices. Elle régule la production de sébum, améliore la fonction barrière de la peau et atténue les inflammations cutanées. Elle participe également à l’uniformisation du teint en réduisant l’hyperpigmentation et les rougeurs. En stimulant la synthèse de céramides, elle renforce l’hydratation de la peau, tout en lissant visiblement sa texture.</p>"
+          }
+        },
+        "item_JjWhAX": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Allantoïne",
+            "content": "<p>L’allantoïne est un actif apaisant et réparateur, largement utilisé en dermatologie pour ses propriétés kératolytiques douces. Elle favorise la régénération cellulaire, calme les irritations et aide à restaurer l’intégrité de la barrière cutanée. Grâce à son action hydratante et adoucissante, elle améliore le confort des peaux sensibles, abîmées ou sujettes aux rougeur</p>"
+          }
+        },
+        "item_waiABA": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Élastine",
+            "content": "<p>L’élastine est une protéine fibreuse essentielle à la souplesse et à la résilience de la peau. Lorsqu’elle est appliquée sous forme hydrolysée, elle aide à renforcer la matrice extracellulaire et améliore la capacité de la peau à retrouver sa forme après étirement. Elle contribue ainsi à la fermeté cutanée, réduit le relâchement et participe à une texture de peau plus tonique et lisse.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_7nKNy6",
+        "item_8axKy3",
+        "item_JjWhAX",
+        "item_waiABA"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "rich_text_hAXBLH": {
       "type": "rich-text",
       "blocks": {
@@ -1092,6 +1151,7 @@
     "featured-product",
     "tabs_rchMgA",
     "multiple_images_with_text_yjVKDG",
+    "images_with_text_scrolling_fKHdVT",
     "rich_text_hAXBLH",
     "images_with_text_scrolling_MwWnrg",
     "faq",
