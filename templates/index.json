@@ -307,6 +307,16 @@
     "images_with_text_scrolling_mdcqD6": {
       "type": "images-with-text-scrolling",
       "blocks": {
+        "item_bJePYF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/RIDES_ET_RIDULES_8.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Sasha",
+            "content": "<p>« J’ai une peau mixte avec des imperfections régulières. Depuis que j’utilise ce masque, ma peau est beaucoup plus nette. Mes boutons ont diminué en 5-6 jours, mes rougeurs aussi. Ma peau est plus équilibrée, sans être agressée. »</p>"
+          }
+        },
         "item_JT7VjL": {
           "type": "item",
           "settings": {
@@ -356,25 +366,15 @@
             "title": "Daniella",
             "content": "<p><em>« Une vraie révélation. En 30 jours, ma peau était plus lisse, mes ridules autour des yeux moins marquées. Je me sens rajeunie et ça me redonne confiance. Voila après 4 mois ce que sa donne :) »</em></p><p></p>"
           }
-        },
-        "item_bJePYF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_8.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Sasha",
-            "content": "<p>« J’ai une peau mixte avec des imperfections régulières. Depuis que j’utilise ce masque, ma peau est beaucoup plus nette. Mes boutons ont diminué en 5-6 jours, mes rougeurs aussi. Ma peau est plus équilibrée, sans être agressée. »</p>"
-          }
         }
       },
       "block_order": [
+        "item_bJePYF",
         "item_JT7VjL",
         "item_7LDGia",
         "item_nxhzEL",
         "item_TBnLYp",
-        "item_ME6H6L",
-        "item_bJePYF"
+        "item_ME6H6L"
       ],
       "settings": {
         "full_width": true,
