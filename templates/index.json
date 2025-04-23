@@ -616,12 +616,6 @@
             "liquid": ""
           }
         },
-        "essential_countdown_app_block_PXtMCp": {
-          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cm9ukcf7i0053pd7xp8i9nlmf"
-          }
-        },
         "buy_buttons_TpHQPx": {
           "type": "buy_buttons",
           "settings": {
@@ -647,6 +641,47 @@
             "image": "shopify://shop_images/Capture_d_ecran_2025-04-24_a_01.33.24-removebg-preview_1.png",
             "alignment": "center",
             "max_width": 390
+          }
+        },
+        "essential_countdown_app_block_PXtMCp": {
+          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cm9ukcf7i0053pd7xp8i9nlmf"
+          }
+        },
+        "collapsible_text_bXzLPe": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "🌟 Présentation du Masque au Collagène BIO Kiari",
+            "content": "<p>Le <strong>Masque au Collagène BIO Kiari</strong>est un soin de nuit innovant qui hydrate, raffermit et illumine la peau en profondeur. Sa formule enrichie en collagène hydrolysé, niacinamide et extraits marins offre un effet lifting et régénérant dès la première application.​ </p>"
+          }
+        },
+        "collapsible_text_ciFznN": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "✨  Ingrédients clés et composition",
+            "content": "<p><strong>Collagène hydrolysé</strong> : Raffermit et revitalise la peau en boostant la production naturelle de collagène.</p><p><strong>Niacinamide</strong> : Unifie le teint, resserre les pores et illumine la peau pour un éclat naturel.</p><p><strong>Filtrat de ferment Galactomyces</strong> : Un puissant antioxydant qui améliore l’éclat et la texture de la peau.</p><p><strong>Allantoïne</strong> : Apaise, régénère et protège même les peaux les plus sensibles.</p><p><strong>Chondrus Crispus (algue rouge)</strong> : Nourrit intensément et infuse la peau en minéraux essentiels.<br/></p>"
+          }
+        },
+        "collapsible_text_zUmezh": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Guide d'utilisation",
+            "content": "<p><strong>Préparation</strong><br/></p><p><br/>1 . Appliquez le masque à l'aide du pinceau fourni, en une couche uniforme sur l'ensemble du visage.<br/></p><p>2 . Laissez poser toute la nuit (environ 6 à 8 heures) pour un effet optimal.<br/></p><p><br/>3 . Le matin, retirez délicatement le masque et profitez d’une peau revitalisée et éclatante.<br/></p><p><strong>Cela permet de profiter pleinement des bienfaits du masque pendant votre sommeil, pour une peau nourrie et reposée dès le réveil.</strong></p>"
+          }
+        },
+        "collapsible_text_crMyEE": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "30 jours Satisfait ou remboursé",
+            "content": "<p>Que faire si je ne suis pas satisfait(e) ?<br/><br/>➤ Profitez de notre garantie <strong>30 jours Satisfait ou Remboursé</strong>.</p><p>Comment vous contacter ?<br/><br/>➤ Notre <strong>Service Client est disponible 7J/7</strong> pour répondre à toutes vos questions.</p>"
+          }
+        },
+        "collapsible_text_BcPRWY": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison à domicile Offerte !",
+            "content": "<p>La livraison à domicile est <strong>gratuite</strong>. Le délai de livraison est estimé entre <strong>6 et 9 jours ouvrés.</strong></p><p>Pour suivre votre commande, veuillez nous laisser un message avec<strong> votre nom et votre numéro de commande</strong> dans la page <strong>\"Suivre Ma Commande\"</strong></p>"
           }
         },
         "image_AwKaRx": {
@@ -709,10 +744,15 @@
         "liquid_kNfAcH",
         "kaching_bundles_app_block_XAzDga",
         "liquid_aK3peQ",
-        "essential_countdown_app_block_PXtMCp",
         "buy_buttons_TpHQPx",
         "image_zqwGic",
         "image_WAXiBD",
+        "essential_countdown_app_block_PXtMCp",
+        "collapsible_text_bXzLPe",
+        "collapsible_text_ciFznN",
+        "collapsible_text_zUmezh",
+        "collapsible_text_crMyEE",
+        "collapsible_text_BcPRWY",
         "image_AwKaRx",
         "rating",
         "description",
@@ -790,6 +830,7 @@
         "tab_izfayy",
         "tab_gKGDRN"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
