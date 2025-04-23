@@ -645,10 +645,17 @@
         },
         "image_AwKaRx": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Kiari__2_-removebg-preview.png",
             "alignment": "center",
             "max_width": 500
+          }
+        },
+        "essential_countdown_app_block_PXtMCp": {
+          "type": "shopify://apps/essential-countdown/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cm9ukcf7i0053pd7xp8i9nlmf"
           }
         },
         "rating": {
@@ -706,6 +713,7 @@
         "image_zqwGic",
         "image_WAXiBD",
         "image_AwKaRx",
+        "essential_countdown_app_block_PXtMCp",
         "rating",
         "description",
         "variant-picker",
