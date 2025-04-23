@@ -317,6 +317,16 @@
             "content": "<p>« J’ai une peau mixte avec des imperfections régulières. Depuis que j’utilise ce masque, ma peau est beaucoup plus nette. Mes boutons ont diminué en 5-6 jours, mes rougeurs aussi. Ma peau est plus équilibrée, sans être agressée. »</p>"
           }
         },
+        "item_BQCPXh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-04-23_a_16.17.10.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Célia",
+            "content": "<p><em>\"Je ne supportais plus mes pores dilatés et l’excès de sébum, mais ce produit a complètement changé ma peau. Elle est désormais plus lisse, nette et visiblement purifiée !\"</em></p>"
+          }
+        },
         "item_JT7VjL": {
           "type": "item",
           "settings": {
@@ -370,6 +380,7 @@
       },
       "block_order": [
         "item_bJePYF",
+        "item_BQCPXh",
         "item_JT7VjL",
         "item_7LDGia",
         "item_nxhzEL",
