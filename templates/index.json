@@ -791,15 +791,27 @@
         "item_7nKNy6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/collagene.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Collagène hydrolisé",
             "content": "<p>Le collagène hydrolysé stimule la synthèse endogène de collagène, favorisant une meilleure élasticité cutanée. Il contribue à la réduction visible des ridules et des rides en renforçant la structure dermique. Par ailleurs, il améliore la fermeté de la peau et homogénéise sa texture en soutenant le réseau de fibres de collagène et d’élastine.</p>"
           }
         },
+        "item_xt4zUc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/acide_hya.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Acide Hyaluronique",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
         "item_8axKy3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/nyami.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Niacinamide",
@@ -808,6 +820,7 @@
         },
         "item_JjWhAX": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
@@ -817,6 +830,7 @@
         },
         "item_waiABA": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
@@ -827,6 +841,7 @@
       },
       "block_order": [
         "item_7nKNy6",
+        "item_xt4zUc",
         "item_8axKy3",
         "item_JjWhAX",
         "item_waiABA"
