@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPTImage19avr.2025_16_49_05.png",
+            "image": "shopify://shop_images/4_20b72262-e1c0-4d05-a136-6a3a4dc436c6.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -253,7 +253,7 @@
         "heading_mkEbAY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Kiari ?",
+            "text": "Pourquoi choisir l'AcroLift Nerolyne ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -296,7 +296,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -310,7 +309,6 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Virginie",
@@ -320,7 +318,6 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-04-23_a_16.17.10.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Célia",
@@ -330,7 +327,6 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_6.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Stéphanie",
@@ -340,7 +336,6 @@
         "item_bJePYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_8.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Sasha",
@@ -350,7 +345,6 @@
         "item_nxhzEL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_7.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Laeticia",
@@ -360,7 +354,6 @@
         "item_TBnLYp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_2.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Agathe",
@@ -370,7 +363,6 @@
         "item_ME6H6L": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/RIDES_ET_RIDULES_4.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Daniella",
@@ -380,7 +372,6 @@
         "item_T4qNQj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/AVANT_KIARI.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Stella",
@@ -643,7 +634,6 @@
         "image_zqwGic": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-04-24_a_01.10.11.png",
             "alignment": "center",
             "max_width": 270
           }
@@ -651,7 +641,6 @@
         "image_WAXiBD": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-04-24_a_01.33.24-removebg-preview_1.png",
             "alignment": "center",
             "max_width": 390
           }
@@ -701,7 +690,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Kiari__2_-removebg-preview.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -936,7 +924,6 @@
         "item_7nKNy6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/collagene.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Collagène hydrolisé",
@@ -946,7 +933,6 @@
         "item_xt4zUc": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/acide_hya.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Acide Hyaluronique",
@@ -956,7 +942,6 @@
         "item_8axKy3": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/nyami.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Niacinamide",
@@ -1010,7 +995,6 @@
         "image_dhb9UA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/screen-removebg-preview.png",
             "width_mode": "full_width",
             "max_width": 600,
             "mobile_max_width": 530
