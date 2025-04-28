@@ -821,71 +821,6 @@
         "input_text_color": ""
       }
     },
-    "tabs_rchMgA": {
-      "type": "tabs",
-      "blocks": {
-        "tab_WxbApe": {
-          "type": "tab",
-          "settings": {
-            "title": "🌟 Présentation du Masque au Collagène BIO Kiari",
-            "content": "<p>Le <strong>Masque au Collagène BIO Kiari</strong> est un soin de nuit innovant qui hydrate, raffermit et illumine la peau en profondeur. Sa formule enrichie en collagène hydrolysé, niacinamide et extraits marins offre un effet lifting et régénérant dès la première application.​</p>",
-            "page": ""
-          }
-        },
-        "tab_BcGW4d": {
-          "type": "tab",
-          "settings": {
-            "title": "✨  Ingrédients clés et composition",
-            "content": "<p><strong>Collagène hydrolysé</strong> : Raffermit et revitalise la peau en boostant la production naturelle de collagène.</p><p><strong>Niacinamide</strong> : Unifie le teint, resserre les pores et illumine la peau pour un éclat naturel.</p><p><strong>Filtrat de ferment Galactomyces</strong> : Un puissant antioxydant qui améliore l’éclat et la texture de la peau.</p><p><strong>Allantoïne</strong> : Apaise, régénère et protège même les peaux les plus sensibles.</p><p><strong>Chondrus Crispus (algue rouge)</strong> : Nourrit intensément et infuse la peau en minéraux essentiels.<br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_VKcAdL": {
-          "type": "tab",
-          "settings": {
-            "title": "Guide d'utilisation",
-            "content": "<p><strong>Préparation</strong><br/></p><p><br/>1 . Appliquez le masque à l'aide du pinceau fourni, en une couche uniforme sur l'ensemble du visage.<br/></p><p><br/>2 . Laissez poser toute la nuit (environ 6 à 8 heures) pour un effet optimal.<br/></p><p><br/>3 . Le matin, retirez délicatement le masque et profitez d’une peau revitalisée et éclatante.<br/></p><p><strong>Cela permet de profiter pleinement des bienfaits du masque pendant votre sommeil, pour une peau nourrie et reposée dès le réveil.</strong></p>",
-            "page": ""
-          }
-        },
-        "tab_izfayy": {
-          "type": "tab",
-          "settings": {
-            "title": "30 jours Satisfait ou Remboursé.",
-            "content": "<p>Que faire si je ne suis pas satisfait(e) ?<br/><br/>➤ Profitez de notre garantie <strong>30 jours Satisfait ou Remboursé</strong>.</p><p>Comment vous contacter ?<br/><br/>➤ Notre <strong>Service Client est disponible 7J/7</strong> pour répondre à toutes vos questions.</p>",
-            "page": ""
-          }
-        },
-        "tab_gKGDRN": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison à domicile Offerte !",
-            "content": "<p>La livraison à domicile est <strong>gratuite</strong>. Le délai de livraison est estimé entre <strong>6 et 9 jours ouvrés.</strong></p><p>Pour suivre votre commande, veuillez nous laisser un message avec<strong> votre nom et votre numéro de commande</strong> dans la page <strong>\"Suivre Ma Commande\"</strong></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_WxbApe",
-        "tab_BcGW4d",
-        "tab_VKcAdL",
-        "tab_izfayy",
-        "tab_gKGDRN"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "first_tab_open": false,
-        "background": "#f0f0f0",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "images_with_text_scrolling_XRrxM7": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -963,19 +898,11 @@
         "item_7nKNy6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ssstik.io_1736694745880-ezgif.com-optimize_1_3600x_e576a30b-1ca7-4594-882f-0aedee968685.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Collagène hydrolisé",
-            "content": "<p>Le collagène hydrolysé stimule la synthèse endogène de collagène, favorisant une meilleure élasticité cutanée. Il contribue à la réduction visible des ridules et des rides en renforçant la structure dermique. Par ailleurs, il améliore la fermeté de la peau et homogénéise sa texture en soutenant le réseau de fibres de collagène et d’élastine.</p>"
-          }
-        },
-        "item_xt4zUc": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Acide Hyaluronique",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Des résultats visibles en quelques jours",
+            "content": "<p>En <strong>4 à 12 jours seulement</strong>, vos acrochordons se dessèchent et tombent naturellement. Vous retrouvez une peau <strong>lisse et nette</strong>, sans effort.</p>"
           }
         },
         "item_8axKy3": {
@@ -1011,7 +938,6 @@
       },
       "block_order": [
         "item_7nKNy6",
-        "item_xt4zUc",
         "item_8axKy3",
         "item_JjWhAX",
         "item_waiABA"
@@ -1334,7 +1260,6 @@
     "impact_text_kmcaEp",
     "multi_column_J9xarm",
     "featured-product",
-    "tabs_rchMgA",
     "images_with_text_scrolling_XRrxM7",
     "multiple_images_with_text_yjVKDG",
     "images_with_text_scrolling_fKHdVT",
