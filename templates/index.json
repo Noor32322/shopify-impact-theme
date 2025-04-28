@@ -980,6 +980,7 @@
         },
         "item_8axKy3": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
@@ -1017,7 +1018,7 @@
       ],
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": true,
         "desktop_image_effect": "reveal",
         "image_position": "end",
@@ -1099,7 +1100,7 @@
           "type": "item",
           "settings": {
             "title": "Comment ça marche ?",
-            "content": "<p>Il s’utilise le soir, sur peau propre, juste avant de dormir. Appliquez une fine couche du masque, laissez-le agir toute la nuit pendant que votre peau se régénère naturellement. Au réveil, retirez-le : votre teint est plus lumineux, vos traits sont reposés, et votre peau visiblement plus lisse.</p>"
+            "content": "<p>L'appareil utilise une petite bande élastique qui coupe l'apport sanguin à la base de l'acrochordon. Privé de sang, l'acrochordon sèche naturellement et tombe en 4 à 12 jours, sans douleur ni cicatrice.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -1112,71 +1113,71 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "À quelle fréquence dois-je appliquer le Masque Kiari ?",
-            "content": "<p>Nous recommandons 2 à 3 fois par semaine pour des résultats visibles et durables. Il peut être utilisé en soin régulier ou en cure intensive.</p>"
+            "title": "Est-ce douloureux ?",
+            "content": "<p>Non, l'application est indolore. Certaines personnes peuvent ressentir une légère sensation de tiraillement ou d'inconfort les premiers jours, mais rien de comparable à une intervention chirurgicale.</p>"
           }
         },
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
             "title": "Convient-il à tous les types de peau ?",
-            "content": "<p>Oui, que votre peau soit claire, foncée, sèche, grasse, mixte ou mature, le masque s’adapte comme un vêtement sur-mesure.</p>"
+            "content": "<p>Oui, que votre peau soit claire, foncée, sèche, grasse, mixte ou mature.</p>"
           }
         },
         "item_wFFrxc": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que je verrai une différence dès la première utilisation ?",
-            "content": "<p>Oui, beaucoup remarquent une peau plus lisse et lumineuse dès le premier matin. Imaginez arroser une plante fanée — elle retrouve très vite son éclat.</p>"
+            "title": "🔹 Combien de temps faut-il pour voir les résultats ?",
+            "content": "<p>La majorité des utilisateurs constatent la chute de leurs acrochordons entre 4 et 12 jours après l'application de la bande.</p>"
           }
         },
         "item_9brXVX": {
           "type": "item",
           "settings": {
-            "title": "Ces masques bloquent t-ils les ports ?",
-            "content": "<p>Non, il ne bouche pas les pores. Il laisse la peau respirer tout en la nourrissant en profondeur.</p>"
+            "title": "🔹 Peut-on l'utiliser sur n'importe quelle partie du corps ?",
+            "content": "<p>Le kit est conçu pour les acrochordons situés sur le cou, le torse, les aisselles et les zones non sensibles. Il n'est <strong>pas recommandé</strong> pour le visage (proche des yeux), les muqueuses ou les zones génitales.</p>"
           }
         },
         "item_VaRedm": {
           "type": "item",
           "settings": {
-            "title": "Quels sont les ingrédients clés ?",
-            "content": "<p>Collagène hydrolysé, niacinamide, filtrat de ferment (Galactomyces), allantoïne et algue rouge — une combinaison naturelle qui agit comme une potion magique pour votre peau.</p>"
+            "title": "🔹 Y a-t-il un risque de cicatrice ?",
+            "content": "<p>Non, si le protocole est respecté, le processus est doux et laisse rarement des marques. Après la chute de l'acrochordon, il est conseillé d’appliquer un pansement fourni pour optimiser la cicatrisation.</p>"
           }
         },
         "item_Bd7jyK": {
           "type": "item",
           "settings": {
-            "title": "Est-ce que je peux utiliser d'autres soins après le masque ?",
-            "content": "<p>Ce n’est pas nécessaire, mais si vous le souhaitez, attendez que le masque soit complètement absorbé. Pensez à lui comme une base ultra-riche : votre peau sera déjà comblée.</p>"
+            "title": "🔹 À partir de quelle taille d’acrochordon le kit est-il efficace ?",
+            "content": "<p>Le kit est efficace pour les acrochordons de <strong>2 mm à 8 mm</strong> de diamètre. Il contient des bandes de tailles différentes pour s’adapter, ne vous en faites pas.</p>"
           }
         },
         "item_UUahEG": {
           "type": "item",
           "settings": {
-            "title": "Peut-on l’utiliser avant le maquillage ?",
+            "title": "🔹 Est-ce adapté aux peaux sensibles ?",
             "content": "<p>Nous conseillons plutôt une utilisation de nuit. Mais si votre peau est très sèche, il peut être utilisé 2 heures avant le maquillage, pour un effet “glow” naturel.</p>"
           }
         },
         "item_iHiaA4": {
           "type": "item",
           "settings": {
-            "title": "Le masque aide-t-il à réduire les rides profondes ?",
-            "content": "<p>Oui, avec une utilisation régulière. C’est comme repasser une chemise froissée : cela ne se fait pas en un seul coup, mais les plis s’estompent petit à petit.</p>"
+            "title": "🔹 Combien d’acrochordons peut-on traiter avec un kit ?",
+            "content": "<p>Un kit standard permet de traiter jusqu’à <strong>40 acrochordons</strong> (20 petits + 20 grands élastiques fournis).</p>"
           }
         },
         "item_Vfcr4D": {
           "type": "item",
           "settings": {
-            "title": "Aide-t-il aussi contre les taches ou le teint terne ?",
-            "content": "<p>Tout à fait. Grâce à la niacinamide, le teint est unifié et la peau retrouve de la lumière, comme si elle se réveillait d’un long hiver.</p>"
+            "title": "🔹 Faut-il consulter un médecin avant utilisation ?",
+            "content": "<p>Non, il n'est généralement pas nécessaire de consulter un médecin pour utiliser le kit ™ sur de petits acrochordons classiques. Cependant, si l’excroissance paraît particulièrement grosse, inhabituelle ou évolutive, il est conseillé de demander l’avis d’un professionnel de santé avant de commencer le traitement.</p>"
           }
         },
         "item_cThyt4": {
           "type": "item",
           "settings": {
-            "title": "Peut-il être utilisé sur le cou ou le décolleté ?",
-            "content": "<p>Oui, et c’est même recommandé ! Ces zones sont souvent oubliées, alors qu’elles trahissent facilement l’âge.</p>"
+            "title": "🔹Peut-il être utilisé sur le cou ou le décolleté ?",
+            "content": "<p>Oui, le kit Nerolyne est parfaitement adapté pour traiter les acrochordons situés sur le cou et le décolleté. Ce sont même parmi les zones les plus courantes. Il suffit simplement de suivre attentivement les instructions pour assurer une application précise et sécurisée.</p>"
           }
         },
         "item_DRqjnt": {
