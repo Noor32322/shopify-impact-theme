@@ -1099,7 +1099,7 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Comment ça marche ?",
+            "title": "🔹Comment ça marche ?",
             "content": "<p>L'appareil utilise une petite bande élastique qui coupe l'apport sanguin à la base de l'acrochordon. Privé de sang, l'acrochordon sèche naturellement et tombe en 4 à 12 jours, sans douleur ni cicatrice.</p>"
           }
         },
@@ -1113,14 +1113,14 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Est-ce douloureux ?",
+            "title": "🔹Est-ce douloureux ?",
             "content": "<p>Non, l'application est indolore. Certaines personnes peuvent ressentir une légère sensation de tiraillement ou d'inconfort les premiers jours, mais rien de comparable à une intervention chirurgicale.</p>"
           }
         },
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
-            "title": "Convient-il à tous les types de peau ?",
+            "title": "🔹Convient-il à tous les types de peau ?",
             "content": "<p>Oui, que votre peau soit claire, foncée, sèche, grasse, mixte ou mature.</p>"
           }
         },
