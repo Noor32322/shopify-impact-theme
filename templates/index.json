@@ -337,16 +337,6 @@
     "images_with_text_scrolling_mdcqD6": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "item_7LDGia": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/avant_apres_nero_4.png",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Virginie",
-            "content": "<p><em>« J’étais sceptique au début, mais après trois semaines d’utilisation régulière, mes rides profondes ont visiblement diminué. Même mon entourage m’a fait des remarques positives. Me voila après 6 mois de cure Kiari.\"</em></p>"
-          }
-        },
         "item_BQCPXh": {
           "type": "item",
           "settings": {
@@ -355,6 +345,16 @@
             "icon_width": 48,
             "title": "Célia",
             "content": "<p><em>\"Je ne supportais plus mes pores dilatés et l’excès de sébum, mais ce produit a complètement changé ma peau. Elle est désormais plus lisse, nette et visiblement purifiée !\"</em></p>"
+          }
+        },
+        "item_7LDGia": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avant_apres_nero_4.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Virginie",
+            "content": "<p><em>« J’étais sceptique au début, mais après trois semaines d’utilisation régulière, mes rides profondes ont visiblement diminué. Même mon entourage m’a fait des remarques positives. Me voila après 6 mois de cure Kiari.\"</em></p>"
           }
         },
         "item_JT7VjL": {
@@ -419,8 +419,8 @@
         }
       },
       "block_order": [
-        "item_7LDGia",
         "item_BQCPXh",
+        "item_7LDGia",
         "item_JT7VjL",
         "item_bJePYF",
         "item_nxhzEL",
