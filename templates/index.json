@@ -1106,6 +1106,13 @@
             "content": "<p>Oui, le kit Nerolyne est parfaitement adapté pour traiter les acrochordons situés sur le cou et le décolleté. Ce sont même parmi les zones les plus courantes. Il suffit simplement de suivre attentivement les instructions pour assurer une application précise et sécurisée.</p>"
           }
         },
+        "item_kCy7QV": {
+          "type": "item",
+          "settings": {
+            "title": "🔹Peut-il être utilisé sur des grains de beauté ?",
+            "content": "<p>OUI, sur des grains de beauté jugés bénins, vous pouvez utiliser l'AcroLift PRO sans aucun soucis</p>"
+          }
+        },
         "item_DRqjnt": {
           "type": "item",
           "settings": {
@@ -1134,6 +1141,7 @@
         "item_iHiaA4",
         "item_Vfcr4D",
         "item_cThyt4",
+        "item_kCy7QV",
         "item_DRqjnt",
         "item_PrdFwE"
       ],
