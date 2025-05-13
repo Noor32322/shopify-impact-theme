@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_2.png",
+            "image": "shopify://shop_images/Design_sans_titre_3_db266ed2-b04a-4598-aa5a-a99ff6539c4b.jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -171,7 +171,6 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -179,7 +178,6 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -187,7 +185,6 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -195,7 +192,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -291,20 +287,6 @@
     },
     "1745797421f88fc34a": {
       "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_F8KLXh": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "kit-de-suppression-acrochordons",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_F8KLXh"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -340,7 +322,6 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_nero_3.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Célia",
@@ -350,7 +331,6 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_nero_4.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Virginie",
@@ -360,7 +340,6 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Jour14.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Stéphanie",
@@ -370,7 +349,6 @@
         "item_bJePYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_nero_2.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Sasha",
@@ -380,7 +358,6 @@
         "item_nxhzEL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres_nero.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Laeticia",
@@ -390,7 +367,6 @@
         "item_TBnLYp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/fed.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Agathe",
@@ -400,7 +376,6 @@
         "item_ME6H6L": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Augustin",
@@ -410,7 +385,6 @@
         "item_T4qNQj": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avant_apres.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Stella",
@@ -634,12 +608,6 @@
             "liquid": ""
           }
         },
-        "kaching_bundles_app_block_XAzDga": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "liquid_aK3peQ": {
           "type": "liquid",
           "settings": {
@@ -682,12 +650,6 @@
           "settings": {
             "alignment": "center",
             "max_width": 390
-          }
-        },
-        "essential_countdown_app_block_PXtMCp": {
-          "type": "shopify://apps/essential-countdown-timer/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cm9ukcf7i0053pd7xp8i9nlmf"
           }
         },
         "collapsible_text_bXzLPe": {
@@ -782,14 +744,12 @@
         "price",
         "liquid_TJAJij",
         "liquid_kNfAcH",
-        "kaching_bundles_app_block_XAzDga",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
         "liquid_HrU7C8",
         "liquid_w9LEdf",
         "image_zqwGic",
         "image_WAXiBD",
-        "essential_countdown_app_block_PXtMCp",
         "collapsible_text_bXzLPe",
         "collapsible_text_ciFznN",
         "collapsible_text_zUmezh",
@@ -868,7 +828,6 @@
         "item_MAf9gG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/image_medecin.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Recommandé par les spécialistes de la santé",
@@ -898,7 +857,6 @@
         "item_7nKNy6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ssstik.io_1736694745880-ezgif.com-optimize_1_3600x_e576a30b-1ca7-4594-882f-0aedee968685.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Des résultats visibles en quelques jours",
@@ -1169,23 +1127,6 @@
     },
     "17458716313bac3698": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_GD9LHp": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_GD9LHp"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1202,24 +1143,6 @@
     },
     "17452918495fc7c1b0": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_wG4WPn": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "disabled": true,
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_wG4WPn"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
