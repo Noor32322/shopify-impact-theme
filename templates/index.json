@@ -15,7 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_3_db266ed2-b04a-4598-aa5a-a99ff6539c4b.jpg",
+            "image": "shopify://shop_images/ChatGPT_Image_15_juin_2025_03_57_58.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -171,7 +171,6 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Capture_d_ecran_2025-05-13_a_12.17.48-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -179,7 +178,6 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_10.png",
             "logo_width": 120,
             "link": ""
           }
@@ -187,7 +185,6 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Capture_d_ecran_2025-05-13_a_12.19.11-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -195,7 +192,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/png-clipart-gq-logo-magazine-others-text-trademark-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
