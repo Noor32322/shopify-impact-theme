@@ -15,8 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_15_juin_2025_03_57_58.png",
-            "mobile_image": "shopify://shop_images/ChatGPT_Image_15_juin_2025_03_57_58.png",
+            "image": "shopify://shop_images/ChatGPT_Image_24_juin_2025_17_29_04.png",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -172,7 +171,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/healthline_logo.png",
+            "logo": "shopify://shop_images/logo-santemagazine.66c002f8_1.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -180,7 +179,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-inserm.svg",
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -188,7 +187,7 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-santemagazine.66c002f8.svg",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -196,7 +195,7 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo.svg",
+            "logo": "shopify://shop_images/Design_sans_titre_12.png",
             "logo_width": 120,
             "link": ""
           }
@@ -285,7 +284,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -413,7 +412,7 @@
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -779,7 +778,7 @@
         "enable_video_looping": false,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
@@ -849,7 +848,7 @@
         "full_width": true,
         "images_layout": "stacked",
         "collage_images_alignment": "middle",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "button_background": "",
@@ -911,7 +910,7 @@
         "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "end",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -937,7 +936,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -1119,7 +1118,7 @@
         "button_text": "",
         "button_url": "",
         "text_position": "start",
-        "background": "#f0f0f0",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -1187,7 +1186,7 @@
         "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
