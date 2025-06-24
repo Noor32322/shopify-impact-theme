@@ -326,41 +326,46 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/avis.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Célia",
-            "content": "<p><em>\"Je n’osais plus me regarder de profil à cause de cet acrochordon sur le dessus de ma joue. En quelques jours seulement avec le kit , il a complètement disparu, sans douleur et sans trace. Aujourd'hui, ma peau est lisse et nette, et je me sens tellement plus confiante !\"</em></p>"
+            "title": "Virginie",
+            "content": "<p>\"Je ne connaissais pas le concept avant de tomber sur les lunettes Opthys<br/>Dès les premières utilisations, ma vue de près est plus nette, surtout pour lire ou bosser à l’ordi. Je sens aussi beaucoup moins de fatigue oculaire à la fin de la journée.Lunettes légères, confortables, service client réactif…<br/>Franchement, rien à redire.<br/><br/>Je recommande vivement à celles et ceux qui veulent améliorer leur vision naturellement.\"</p>"
           }
         },
         "item_7LDGia": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/vincent.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Virginie",
-            "content": "<p><em>\"J’étais sceptique au début, mais une solution incroyable ! En moins d'une semaine, mes acrochordons se sont détachés tout seuls. C’est propre, efficace, et je n’ai ressenti aucune gêne.\"</em></p>"
+            "title": "Vincent",
+            "content": "<p>\"Je suis à la fois myope et hypermétrope, donc mes yeux se fatiguent vite, surtout entre écran et lecture.<br/>J’ai testé les lunettes Opthys un peu par curiosité… et franchement, je suis bluffé.En les portant 15-20 minutes par jour, j’ai senti une vraie différence : moins de fatigue, meilleure netteté, surtout de près.<br/>Ce n’est pas miraculeux, mais ça aide clairement les yeux à se rééduquer naturellement.Simple, léger, utile. Je recommande.\"</p>"
           }
         },
         "item_JT7VjL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/eae32oTLKl.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Stéphanie",
-            "content": "<p>\"Un détail qui semblait insignifiant pour les autres, mais qui me détruisait ma confiance chaque jour. voici en 8 jours, grâce à Nerolyne, ce poids a disparu. \"</p>"
+            "content": "<p>\"Franchement pour le prix, je ne pensais pas que ça aurait un vrai effet… et pourtant.<br/>Depuis que j’utilise les lunettes Opthys, mes yeux fatiguent beaucoup moins.<br/>Je les porte un peu chaque jour, et je vois déjà la différence.<br/>Simple, efficace, pas besoin de dépenser une fortune chez l’opticien. \"</p>"
           }
         },
         "item_bJePYF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/R96R0MhZ3r.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Sasha",
-            "content": "<p>\"Ce n’est pas qu’un soin, c’est une délivrance. Voir cet acrochordon tomber naturellement m’a libérée d’un complexe que je traînais depuis trop longtemps. Ma peau est lisse, et mon cœur plus léger.\"</p>"
+            "content": "<p>\"J’étais sceptique, mais à ce prix-là, je me suis dit “pourquoi pas”.<br/>Résultat : je les utilise tous les soirs en lisant, et j’ai clairement moins de flou et de tensions oculaires. C’est simple, ça ne coûte rien ou presque, et ça fonctionne.\"</p>"
           }
         },
         "item_nxhzEL": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
@@ -370,6 +375,7 @@
         },
         "item_TBnLYp": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
@@ -379,6 +385,7 @@
         },
         "item_ME6H6L": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
@@ -388,6 +395,7 @@
         },
         "item_T4qNQj": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
