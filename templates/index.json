@@ -608,6 +608,12 @@
             "show_taxes_notice": false
           }
         },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
         "liquid_TJAJij": {
           "type": "liquid",
           "settings": {
@@ -635,6 +641,14 @@
             "atc_button_text_color": "#030303",
             "payment_button_background": "#000000",
             "payment_button_text_color": "#030303"
+          }
+        },
+        "image_mBrmAi": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/badgetrust2.png",
+            "alignment": "center",
+            "max_width": 290
           }
         },
         "liquid_HrU7C8": {
@@ -713,12 +727,6 @@
             "show_empty": false
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -754,10 +762,12 @@
         "title",
         "badges",
         "price",
+        "description",
         "liquid_TJAJij",
         "liquid_kNfAcH",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
+        "image_mBrmAi",
         "liquid_HrU7C8",
         "liquid_w9LEdf",
         "image_zqwGic",
@@ -769,7 +779,6 @@
         "collapsible_text_BcPRWY",
         "image_AwKaRx",
         "rating",
-        "description",
         "variant-picker",
         "quantity-selector",
         "image_KNXbfr",
