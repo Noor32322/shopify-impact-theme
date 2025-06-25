@@ -323,37 +323,6 @@
         "overlay_opacity": 0
       }
     },
-    "multiple_images_with_text_bR9Cij": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_PCHwkD": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Client_satisfait.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_PCHwkD"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "images_with_text_scrolling_mdcqD6": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -459,6 +428,37 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
+      }
+    },
+    "multiple_images_with_text_bR9Cij": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_PCHwkD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Client_satisfait.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "",
+            "content": "",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_PCHwkD"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "impact_text_kmcaEp": {
@@ -1239,8 +1239,8 @@
     "rich_text_jKf74k",
     "1745797421f88fc34a",
     "image_with_text_overlay_4J6ABL",
-    "multiple_images_with_text_bR9Cij",
     "images_with_text_scrolling_mdcqD6",
+    "multiple_images_with_text_bR9Cij",
     "impact_text_kmcaEp",
     "multi_column_J9xarm",
     "featured-product",
