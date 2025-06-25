@@ -897,6 +897,7 @@
         "item_7nKNy6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-06-25_a_20.06.25.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Des résultats visibles en quelques jours",
@@ -1099,7 +1100,7 @@
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "",
         "content": "",
         "team_avatar_width": 160,
         "support_hours": "",
