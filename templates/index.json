@@ -259,6 +259,14 @@
             "gradient": ""
           }
         },
+        "image_CPfNwt": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "richtext_Mgcafc": {
           "type": "richtext",
           "settings": {
@@ -277,6 +285,7 @@
       "block_order": [
         "subheading_kBbiaT",
         "heading_mkEbAY",
+        "image_CPfNwt",
         "richtext_Mgcafc",
         "image_4q9cPR"
       ],
@@ -1055,36 +1064,8 @@
         "item_UUahEG": {
           "type": "item",
           "settings": {
-            "title": "🔹 Est-ce adapté aux peaux sensibles ?",
-            "content": "<p>Nous conseillons plutôt une utilisation de nuit. Mais si votre peau est très sèche, il peut être utilisé 2 heures avant le maquillage, pour un effet “glow” naturel.</p>"
-          }
-        },
-        "item_iHiaA4": {
-          "type": "item",
-          "settings": {
-            "title": "🔹 Combien d’acrochordons peut-on traiter avec un kit ?",
-            "content": "<p>Un kit standard permet de traiter jusqu’à <strong>40 acrochordons</strong> (20 petits + 20 grands élastiques fournis).</p>"
-          }
-        },
-        "item_Vfcr4D": {
-          "type": "item",
-          "settings": {
-            "title": "🔹 Faut-il consulter un médecin avant utilisation ?",
-            "content": "<p>Non, il n'est généralement pas nécessaire de consulter un médecin pour utiliser le kit ™ sur de petits acrochordons classiques. Cependant, si l’excroissance paraît particulièrement grosse, inhabituelle ou évolutive, il est conseillé de demander l’avis d’un professionnel de santé avant de commencer le traitement.</p>"
-          }
-        },
-        "item_cThyt4": {
-          "type": "item",
-          "settings": {
-            "title": "🔹Peut-il être utilisé sur le cou ou le décolleté ?",
-            "content": "<p>Oui, le kit Nerolyne est parfaitement adapté pour traiter les acrochordons situés sur le cou et le décolleté. Ce sont même parmi les zones les plus courantes. Il suffit simplement de suivre attentivement les instructions pour assurer une application précise et sécurisée.</p>"
-          }
-        },
-        "item_kCy7QV": {
-          "type": "item",
-          "settings": {
-            "title": "🔹Peut-il être utilisé sur des grains de beauté ?",
-            "content": "<p>OUI, sur des grains de beauté jugés bénins, vous pouvez utiliser l'AcroLift PRO sans aucun soucis</p>"
+            "title": "Devrai-je continuer à utiliser les lunettes Opthys indéfiniment ?",
+            "content": "<p>Non, mais une utilisation régulière (quelques minutes par jour) permet de <strong>renforcer et entretenir</strong> la performance des yeux. Vous pouvez les intégrer durablement dans votre routine visuelle.</p>"
           }
         },
         "item_DRqjnt": {
@@ -1112,10 +1093,6 @@
         "item_VaRedm",
         "item_Bd7jyK",
         "item_UUahEG",
-        "item_iHiaA4",
-        "item_Vfcr4D",
-        "item_cThyt4",
-        "item_kCy7QV",
         "item_DRqjnt",
         "item_PrdFwE"
       ],
