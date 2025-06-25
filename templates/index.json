@@ -49,22 +49,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -259,6 +243,15 @@
             "gradient": ""
           }
         },
+        "image_UK9BY3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Copie_de_Template_section_benefice.jpg",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
         "image_CPfNwt": {
           "type": "image",
           "settings": {
@@ -285,6 +278,7 @@
       "block_order": [
         "subheading_kBbiaT",
         "heading_mkEbAY",
+        "image_UK9BY3",
         "image_CPfNwt",
         "richtext_Mgcafc",
         "image_4q9cPR"
@@ -1206,7 +1200,6 @@
   },
   "order": [
     "slideshow",
-    "scrolling-text",
     "impact-text",
     "before-after-image",
     "press",
