@@ -713,6 +713,14 @@
             "content": "<p>La livraison à domicile est <strong>gratuite</strong>. Le délai de livraison est estimé entre <strong>6 et 9 jours ouvrés.</strong></p><p>Pour suivre votre commande, veuillez nous laisser un message avec<strong> votre nom et votre numéro de commande</strong> dans la page <strong>\"Suivre Ma Commande\"</strong></p>"
           }
         },
+        "image_f9NKCG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Opthys.jpg",
+            "alignment": "center",
+            "max_width": 450
+          }
+        },
         "image_AwKaRx": {
           "type": "image",
           "disabled": true,
@@ -777,6 +785,7 @@
         "collapsible_text_zUmezh",
         "collapsible_text_crMyEE",
         "collapsible_text_BcPRWY",
+        "image_f9NKCG",
         "image_AwKaRx",
         "rating",
         "variant-picker",
@@ -849,10 +858,11 @@
         "item_MAf9gG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gempages_548991951790146583-54c8b4c3-0aa0-4e13-ab34-d3ecae465764.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Recommandé par les spécialistes de la santé",
-            "content": "<p>« En tant que dermatologue, je reste naturellement prudent face aux dispositifs grand public pour traiter les problèmes de peau. Cependant, le kit de Nerolyne AcroLift™  m’a agréablement surpris. Utilisé correctement, il permet une élimination précise et sans douleur des acrochordons, avec un risque minimal de cicatrice. Mes patients ont apprécié la simplicité d'utilisation et l’efficacité rapide du traitement, souvent en moins de dix jours. La méthode est sûre, bien conçue et représente une vraie alternative aux interventions en cabinet. C’est un dispositif que je peux recommander en toute confiance. »</p><p>– Dr Maxime Li, dermatologue certifié</p>",
+            "title": "Testé cliniquement",
+            "content": "<p>Les lunettes Opthys s’appuient sur le <strong>principe optique sténopéïque</strong>, une méthode utilisée depuis des décennies dans le domaine de l’ophtalmologie.<br/>Cette technologie a été <strong>étudiée cliniquement</strong> pour son efficacité à améliorer la netteté de la vision et réduire la fatigue oculaire, sans correction optique ni intervention.</p><p>✔️ <strong>Basé sur des données scientifiques reconnues</strong><br/>✔️ <strong>Sans risque, sans ordonnance</strong><br/>✔️ <strong>Méthode naturelle validée par des professionnels de la vision</strong></p><p>Les résultats parlent d’eux-mêmes : une vision plus nette, un confort visuel renforcé, et des milliers d’utilisateurs satisfaits.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -881,7 +891,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Des résultats visibles en quelques jours",
-            "content": "<p>En <strong>4 à 12 jours seulement</strong>, vos acrochordons se dessèchent et tombent naturellement. Vous retrouvez une peau <strong>lisse et nette</strong>, sans effort.</p>"
+            "content": ""
           }
         },
         "item_8axKy3": {
@@ -934,6 +944,31 @@
         "heading_gradient": ""
       }
     },
+    "before_after_image_dAqyAM": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "before_image": "shopify://shop_images/fa35edf9-633c-4cf4-bd89-2c713c43a306.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-06-25_a_02.08.53.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "",
+        "after_text": "",
+        "drag_initial_position": 50,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "rich_text_hAXBLH": {
       "type": "rich-text",
       "blocks": {
@@ -958,54 +993,14 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_MwWnrg": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_t9DD4y": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_MaDNjb": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_t9DD4y",
-        "item_MaDNjb"
-      ],
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "🔹Comment ça marche ?",
-            "content": "<p>L'appareil utilise une petite bande élastique qui coupe l'apport sanguin à la base de l'acrochordon. Privé de sang, l'acrochordon sèche naturellement et tombe en 4 à 12 jours, sans douleur ni cicatrice.</p>"
+            "title": "Combien de temps dois-je porter les lunettes de correction Opthys chaque jour ?",
+            "content": "<p><strong>15 à 30 minutes par jour</strong> suffisent. Le but est d'entraîner vos yeux progressivement, pendant des moments calmes : lecture, ordinateur, télé… La régularité est plus importante que la durée.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -1018,43 +1013,43 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "🔹Est-ce douloureux ?",
-            "content": "<p>Non, l'application est indolore. Certaines personnes peuvent ressentir une légère sensation de tiraillement ou d'inconfort les premiers jours, mais rien de comparable à une intervention chirurgicale.</p>"
+            "title": "Dans combien de temps vais-je remarquer des changements dans ma vision ?",
+            "content": "<p>Certains utilisateurs remarquent des <strong>améliorations dès la première semaine</strong>, notamment une meilleure concentration et moins de fatigue visuelle. Les résultats varient selon la régularité d’usage.</p>"
           }
         },
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
-            "title": "🔹Convient-il à tous les types de peau ?",
-            "content": "<p>Oui, que votre peau soit claire, foncée, sèche, grasse, mixte ou mature.</p>"
+            "title": "Sont-elles adaptées à tous les âges ?",
+            "content": "<p>Les lunettes Opthys conviennent à <strong>tous les âges</strong> à partir de 10 ans, sous surveillance d’un adulte. Elles sont sans danger, sans correction, et ne projettent aucune lumière ni onde.</p>"
           }
         },
         "item_wFFrxc": {
           "type": "item",
           "settings": {
-            "title": "🔹 Combien de temps faut-il pour voir les résultats ?",
-            "content": "<p>La majorité des utilisateurs constatent la chute de leurs acrochordons entre 4 et 12 jours après l'application de la bande.</p>"
+            "title": "Faut-il une ordonnance ?",
+            "content": "<p>Non. Opthys est un dispositif de bien-être visuel basé sur une méthode naturelle, sans prescription. Vous pouvez les commander et les utiliser directement à la maison.</p>"
           }
         },
         "item_9brXVX": {
           "type": "item",
           "settings": {
-            "title": "🔹 Peut-on l'utiliser sur n'importe quelle partie du corps ?",
-            "content": "<p>Le kit est conçu pour les acrochordons situés sur le cou, le torse, les aisselles et les zones non sensibles. Il n'est <strong>pas recommandé</strong> pour le visage (proche des yeux), les muqueuses ou les zones génitales.</p>"
+            "title": "Peut-on les utiliser avec des lunettes de vue ?",
+            "content": "<p>Pas en même temps. Il est recommandé de les utiliser <strong>en remplacement temporaire</strong>, pendant les sessions d’entraînement visuel (lecture, travail, etc.). Retirez vos lunettes classiques durant ces moments.</p>"
           }
         },
         "item_VaRedm": {
           "type": "item",
           "settings": {
-            "title": "🔹 Y a-t-il un risque de cicatrice ?",
-            "content": "<p>Non, si le protocole est respecté, le processus est doux et laisse rarement des marques. Après la chute de l'acrochordon, il est conseillé d’appliquer un pansement fourni pour optimiser la cicatrisation.</p>"
+            "title": "Que faire si je ne vois pas d’amélioration ?",
+            "content": "<p>Vous bénéficiez d’une <strong>garantie 90 jours satisfait ou remboursé</strong>. Si vous ne constatez aucun effet, contactez-nous et nous vous rembourserons sans discuter. C’est sans risque.</p>"
           }
         },
         "item_Bd7jyK": {
           "type": "item",
           "settings": {
-            "title": "🔹 À partir de quelle taille d’acrochordon le kit est-il efficace ?",
-            "content": "<p>Le kit est efficace pour les acrochordons de <strong>2 mm à 8 mm</strong> de diamètre. Il contient des bandes de tailles différentes pour s’adapter, ne vous en faites pas.</p>"
+            "title": "Fonctionnent-elles pour tous les problèmes de vue ?",
+            "content": "<p>Conçues pour <strong>stimuler les muscles oculaires en profondeur</strong>, elles favorisent une meilleure netteté naturelle de la vision, notamment en cas de <strong>fatigue visuelle, myopie, hypermétropie ou début de presbytie</strong>.</p><p>Grâce au principe sténopéïque, elles <strong>forcent les yeux à se recentrer, à corriger activement leur mise au point</strong>, et à <strong>retrouver leur capacité naturelle d’adaptation</strong>.<br/><br/>C’est une <strong>méthode douce, progressive et non invasive</strong>, utilisée depuis des années par des professionnels de la vision.</p>"
           }
         },
         "item_UUahEG": {
@@ -1249,8 +1244,8 @@
     "images_with_text_scrolling_XRrxM7",
     "multiple_images_with_text_yjVKDG",
     "images_with_text_scrolling_fKHdVT",
+    "before_after_image_dAqyAM",
     "rich_text_hAXBLH",
-    "images_with_text_scrolling_MwWnrg",
     "faq",
     "17458716313bac3698",
     "17452918495fc7c1b0",
