@@ -20,7 +20,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "",
+            "title": "Sauver votre vision dès maintenant",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -1145,7 +1145,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "button_background": "",
+        "button_background": "#f0f0f0",
         "button_text_color": "",
         "accordion_background": "",
         "accordion_text_color": ""
