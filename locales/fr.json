@@ -431,6 +431,9 @@
     "checkout": {
       "shop_policies": {
         "cookie_preferences": " "
+      },
+      "general": {
+        "continue_to_review": "Acheter maintenant"
       }
     }
   }
