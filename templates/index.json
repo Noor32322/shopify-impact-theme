@@ -247,7 +247,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Design_sans_titre_6.jpg",
-            "width_mode": "custom",
+            "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
           }
