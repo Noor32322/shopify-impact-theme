@@ -78,7 +78,7 @@
           "type": "links",
           "settings": {
             "menu": "menu-bas-de-page",
-            "show_menu_title": true
+            "show_menu_title": false
           }
         },
         "text": {
