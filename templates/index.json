@@ -1011,30 +1011,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "rich_text_hAXBLH": {
-      "type": "rich-text",
-      "blocks": {
-        "image_dhb9UA": {
-          "type": "image",
-          "settings": {
-            "width_mode": "full_width",
-            "max_width": 600,
-            "mobile_max_width": 530
-          }
-        }
-      },
-      "block_order": [
-        "image_dhb9UA"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -1255,7 +1231,6 @@
     "multiple_images_with_text_yjVKDG",
     "images_with_text_scrolling_fKHdVT",
     "before_after_image_dAqyAM",
-    "rich_text_hAXBLH",
     "faq",
     "17458716313bac3698",
     "17452918495fc7c1b0",
