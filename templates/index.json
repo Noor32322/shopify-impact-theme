@@ -15,12 +15,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_24_juin_2025_17_29_04.png",
+            "image": "shopify://shop_images/Arrugas_visibles_Eliminalas_definitivamente._33236db0-ac40-4da8-a0bb-a6c4d4f2eca1.jpg",
+            "mobile_image": "shopify://shop_images/Arrugas_visibles_Eliminalas_definitivamente..jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Sauver votre vision dès maintenant",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -155,7 +156,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-santemagazine.66c002f8_1.svg",
+            "logo": "shopify://shop_images/telva.png",
             "logo_width": 120,
             "link": ""
           }
@@ -163,7 +164,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo": "shopify://shop_images/vogue_revista.png",
             "logo_width": 120,
             "link": ""
           }
@@ -171,15 +172,15 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/healyhline_logo.png",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/ba-logo-fondo-blanco-removebg-preview.png",
+            "logo_width": 200,
             "link": ""
           }
         },
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_12.png",
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -194,7 +195,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur:",
+        "title": "Visto en :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -237,16 +238,24 @@
         "heading_mkEbAY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir Opthys ?",
+            "text": "¿Por qué elegir Celynova?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
         },
+        "image_VMe4Pf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Alisa_las_arrugas_a_largo_plazo_1.png",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
         "image_TYXQ8L": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_6.jpg",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -278,6 +287,7 @@
       "block_order": [
         "subheading_kBbiaT",
         "heading_mkEbAY",
+        "image_VMe4Pf",
         "image_TYXQ8L",
         "image_CPfNwt",
         "richtext_Mgcafc",
@@ -329,7 +339,6 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/avis.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Virginie",
@@ -339,7 +348,6 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/vincent.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Vincent",
@@ -349,7 +357,6 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/eae32oTLKl.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Stéphanie",
@@ -359,7 +366,6 @@
         "item_bJePYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/R96R0MhZ3r.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Sasha",
@@ -436,7 +442,6 @@
         "item_PCHwkD": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Client_satisfait.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "",
@@ -654,12 +659,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\"> 7 paires restante .</div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_D6c9wp": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "liquid_kNfAcH": {
           "type": "liquid",
           "settings": {
@@ -686,7 +685,6 @@
         "image_mBrmAi": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/badgetrust2.png",
             "alignment": "center",
             "max_width": 350
           }
@@ -756,7 +754,6 @@
         "image_f9NKCG": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Opthys.jpg",
             "alignment": "center",
             "max_width": 450
           }
@@ -812,7 +809,6 @@
         "price",
         "description",
         "liquid_TJAJij",
-        "kaching_bundles_app_block_D6c9wp",
         "liquid_kNfAcH",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
@@ -899,7 +895,6 @@
         "item_MAf9gG": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/gempages_548991951790146583-54c8b4c3-0aa0-4e13-ab34-d3ecae465764.webp",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Testé cliniquement",
@@ -929,7 +924,6 @@
         "item_7nKNy6": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-06-25_a_20.06.25.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Des résultats visibles en quelques jours",
@@ -994,8 +988,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "before_image": "shopify://shop_images/fa35edf9-633c-4cf4-bd89-2c713c43a306.png",
-        "after_image": "shopify://shop_images/Capture_d_ecran_2025-06-25_a_02.08.53.png",
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",

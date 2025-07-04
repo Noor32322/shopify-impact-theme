@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Livraison Express offerte",
+            "text": "Envío premium gratuito",
             "url": ""
           }
         },
         "message_wxtQ7p": {
           "type": "message",
           "settings": {
-            "text": "Fin de l'offre à minuit",
+            "text": "Fin de la oferta a medianoche",
             "url": ""
           }
         }
@@ -38,7 +38,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#165628",
+        "background": "#3d575e",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -48,8 +48,8 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/ChatGPT_Image_15_juin_2025_02_06_59.png",
-        "logo_max_width": 300,
+        "logo": "shopify://shop_images/Capture_d_ecran_2025-07-04_a_05.38.13-removebg-preview.png",
+        "logo_max_width": 180,
         "logo_mobile_max_width": 90,
         "menu": "main-menu",
         "sidebar_menu": "",
