@@ -713,6 +713,12 @@
             "max_width": 200
           }
         },
+        "liquid_YTrhHw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .video-scroll-container {\n    display: flex;\n    gap: 12px;\n    overflow-x: auto;\n    padding: 16px;\n    scroll-snap-type: x mandatory;\n  }\n\n  .video-scroll-container video {\n    flex: 0 0 auto;\n    width: 40vw;\n    max-width: 200px;\n    height: auto;\n    aspect-ratio: 9/16;\n    border-radius: 12px;\n    object-fit: cover;\n    scroll-snap-align: start;\n  }\n\n  @media(min-width: 768px) {\n    .video-scroll-container {\n      display: grid;\n      grid-template-columns: repeat(3, 1fr);\n      overflow-x: unset;\n    }\n\n    .video-scroll-container video {\n      width: 100%;\n      max-width: 100%;\n    }\n  }\n</style>\n\n<div class=\"video-scroll-container\">\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/4ffa549e11f244cd8c02476ec60a504a.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/49cea789745e41a480c71f77f24eb05c.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/235ba7572cb6422f9f509e0bbc1fec46.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/d287c42760d3465e90ba7f01fd549bba.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/ab3809e026ef456f858edbe60e3421e3.mp4\" autoplay muted loop playsinline controls></video> <!-- remplacée -->\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/631636cc0e8e415781f02dc6d756101e.mp4\" autoplay muted loop playsinline controls></video>\n</div>"
+          }
+        },
         "image_mBrmAi": {
           "type": "image",
           "settings": {
@@ -844,6 +850,7 @@
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
         "image_ykgAyR",
+        "liquid_YTrhHw",
         "image_mBrmAi",
         "liquid_HrU7C8",
         "liquid_w9LEdf",
