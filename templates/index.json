@@ -705,6 +705,14 @@
             "payment_button_text_color": "#030303"
           }
         },
+        "image_ykgAyR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-05_a_23.22.08.png",
+            "alignment": "center",
+            "max_width": 200
+          }
+        },
         "image_mBrmAi": {
           "type": "image",
           "settings": {
@@ -835,6 +843,7 @@
         "liquid_kNfAcH",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
+        "image_ykgAyR",
         "image_mBrmAi",
         "liquid_HrU7C8",
         "liquid_w9LEdf",
