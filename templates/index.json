@@ -271,6 +271,14 @@
             "mobile_max_width": 600
           }
         },
+        "image_D9mpwK": {
+          "type": "image",
+          "settings": {
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "image_EqFDpB": {
           "type": "image",
           "settings": {
@@ -316,6 +324,7 @@
         "image_VMe4Pf",
         "heading_dVFLJ3",
         "image_EC8Jjn",
+        "image_D9mpwK",
         "image_EqFDpB",
         "image_TYXQ8L",
         "image_CPfNwt",
