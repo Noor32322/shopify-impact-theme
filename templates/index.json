@@ -253,6 +253,24 @@
             "mobile_max_width": 600
           }
         },
+        "heading_dVFLJ3": {
+          "type": "heading",
+          "settings": {
+            "text": "Nuestras clientas lo dicen mejor que nadie",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_EC8Jjn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1_d69cdf7d-f349-41b9-b4f4-b93a0c92146b.png",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
         "image_TYXQ8L": {
           "type": "image",
           "settings": {
@@ -288,6 +306,8 @@
         "subheading_kBbiaT",
         "heading_mkEbAY",
         "image_VMe4Pf",
+        "heading_dVFLJ3",
+        "image_EC8Jjn",
         "image_TYXQ8L",
         "image_CPfNwt",
         "richtext_Mgcafc",
@@ -434,36 +454,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "multiple_images_with_text_bR9Cij": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_PCHwkD": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "",
-            "content": "",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_PCHwkD"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
       }
     },
     "impact_text_kmcaEp": {
@@ -1215,7 +1205,6 @@
     "1745797421f88fc34a",
     "image_with_text_overlay_4J6ABL",
     "images_with_text_scrolling_mdcqD6",
-    "multiple_images_with_text_bR9Cij",
     "impact_text_kmcaEp",
     "multi_column_J9xarm",
     "featured-product",
