@@ -363,7 +363,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Veronica",
-            "content": "<p>\"Je ne connaissais pas le concept avant de tomber sur les lunettes Opthys<br/>Dès les premières utilisations, ma vue de près est plus nette, surtout pour lire ou bosser à l’ordi. Je sens aussi beaucoup moins de fatigue oculaire à la fin de la journée.Lunettes légères, confortables, service client réactif…<br/>Franchement, rien à redire.<br/><br/>Je recommande vivement à celles et ceux qui veulent améliorer leur vision naturellement.\"</p>"
+            "content": "<p><strong>\"Tenía miedo de que fuera doloroso, ¡pero para nada! Ya no soportaba mis arrugas en la frente y pensaba en un tratamiento en una clínica, hasta que probé Celynova. ¡Estoy tan feliz!\"</strong></p>"
           }
         },
         "item_7LDGia": {
@@ -373,7 +373,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Ana",
-            "content": "<p>\"Je suis à la fois myope et hypermétrope, donc mes yeux se fatiguent vite, surtout entre écran et lecture.<br/>J’ai testé les lunettes Opthys un peu par curiosité… et franchement, je suis bluffé.En les portant 15-20 minutes par jour, j’ai senti une vraie différence : moins de fatigue, meilleure netteté, surtout de près.<br/>Ce n’est pas miraculeux, mais ça aide clairement les yeux à se rééduquer naturellement.Simple, léger, utile. Je recommande.\"</p>"
+            "content": "<p><strong>\"Para quienes se lo preguntan, ¡no es doloroso! Con solo cuatro aplicaciones, siento que he recuperado la piel que tenía a los 30 años. ¡Mi tono está más luminoso, mi piel más lisa y firme! Estoy encantada.\"</strong></p>"
           }
         },
         "item_JT7VjL": {
@@ -383,7 +383,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Carmen",
-            "content": "<p>\"Franchement pour le prix, je ne pensais pas que ça aurait un vrai effet… et pourtant.<br/>Depuis que j’utilise les lunettes Opthys, mes yeux fatiguent beaucoup moins.<br/>Je les porte un peu chaque jour, et je vois déjà la différence.<br/>Simple, efficace, pas besoin de dépenser une fortune chez l’opticien. \"</p>"
+            "content": "<p><strong>\"Pensaba que el láser era mi única solución, pero gracias a la microinfusión, ¡mi piel por fin está uniforme y radiante! Y además, ¡el tratamiento no duele!\"</strong></p>"
           }
         },
         "item_bJePYF": {
@@ -393,7 +393,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Gabriela",
-            "content": "<p>\"J’étais sceptique, mais à ce prix-là, je me suis dit “pourquoi pas”.<br/>Résultat : je les utilise tous les soirs en lisant, et j’ai clairement moins de flou et de tensions oculaires. C’est simple, ça ne coûte rien ou presque, et ça fonctionne.\"</p>"
+            "content": "<p><strong>¡Es increíble! Nunca habría creído que mis patas de gallo desaparecerían tan rápido y que la aplicación sería tan sencilla.</strong></p>"
           }
         },
         "item_nxhzEL": {
@@ -403,7 +403,7 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Laeticia",
-            "content": "<p>\"Je redoutais une intervention en cabinet, mais avec ce kit, tout a été simple et discret. Mes acrochordons sont tombés naturellement et il n'y a même pas eu de cicatrice !\"</p>"
+            "content": "<p><strong>\"Desde la primera aplicación, noté que las líneas finas alrededor de mis labios empezaban a difuminarse. Después de aproximadamente un mes, mis labios estaban más lisos y con más volumen.\"</strong></p>"
           }
         },
         "item_TBnLYp": {
@@ -413,22 +413,24 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Agathe",
-            "content": "<p>\"Je cachais mon cou avec des foulards, des cols montants… Je pensais sérieusement passer par une opération. Finalement, nerolyne a transformé ma peau sans aucune douleur. Aujourd'hui, cela fais 12 jours que tout est intégralement tombé, les marques blanches commence à disparaitre peu à peu\"</p>"
+            "content": "<p><strong>\"Odiaba las arrugas y la piel flácida de mi cuello, y el único producto que realmente marcó la diferencia fue este. ¡Mi piel está tan lisa y firme que el resultado es impresionante!\"</strong></p>"
           }
         },
         "item_ME6H6L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_22_03_26.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Augustin",
-            "content": "<p><em>« Une vraie révélation. En 30 jours, ma peau était plus lisse, mes ridules autour des yeux moins marquées. Je me sens rajeunie et ça me redonne confiance. Voila après 4 mois ce que sa donne :) »</em></p><p></p>"
+            "content": "<p><strong>\"Las patas de gallo alrededor de mis ojos eran mi mayor complejo, pero en pocas semanas prácticamente desaparecieron. Lo recomiendo a toda mi familia.\"</strong></p>"
           }
         },
         "item_T4qNQj": {
           "type": "item",
           "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_22_06_03.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Stella",
@@ -451,7 +453,7 @@
         "stack_on_mobile": false,
         "show_counter": false,
         "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "image_position": "start",
         "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
