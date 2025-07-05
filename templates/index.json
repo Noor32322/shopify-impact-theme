@@ -359,43 +359,47 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_42_43.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Virginie",
+            "title": "Veronica",
             "content": "<p>\"Je ne connaissais pas le concept avant de tomber sur les lunettes Opthys<br/>Dès les premières utilisations, ma vue de près est plus nette, surtout pour lire ou bosser à l’ordi. Je sens aussi beaucoup moins de fatigue oculaire à la fin de la journée.Lunettes légères, confortables, service client réactif…<br/>Franchement, rien à redire.<br/><br/>Je recommande vivement à celles et ceux qui veulent améliorer leur vision naturellement.\"</p>"
           }
         },
         "item_7LDGia": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_44_01.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Vincent",
+            "title": "Ana",
             "content": "<p>\"Je suis à la fois myope et hypermétrope, donc mes yeux se fatiguent vite, surtout entre écran et lecture.<br/>J’ai testé les lunettes Opthys un peu par curiosité… et franchement, je suis bluffé.En les portant 15-20 minutes par jour, j’ai senti une vraie différence : moins de fatigue, meilleure netteté, surtout de près.<br/>Ce n’est pas miraculeux, mais ça aide clairement les yeux à se rééduquer naturellement.Simple, léger, utile. Je recommande.\"</p>"
           }
         },
         "item_JT7VjL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_45_58.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Stéphanie",
+            "title": "Carmen",
             "content": "<p>\"Franchement pour le prix, je ne pensais pas que ça aurait un vrai effet… et pourtant.<br/>Depuis que j’utilise les lunettes Opthys, mes yeux fatiguent beaucoup moins.<br/>Je les porte un peu chaque jour, et je vois déjà la différence.<br/>Simple, efficace, pas besoin de dépenser une fortune chez l’opticien. \"</p>"
           }
         },
         "item_bJePYF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_48_54.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Sasha",
+            "title": "Gabriela",
             "content": "<p>\"J’étais sceptique, mais à ce prix-là, je me suis dit “pourquoi pas”.<br/>Résultat : je les utilise tous les soirs en lisant, et j’ai clairement moins de flou et de tensions oculaires. C’est simple, ça ne coûte rien ou presque, et ça fonctionne.\"</p>"
           }
         },
         "item_nxhzEL": {
           "type": "item",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_21_03_51.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Laeticia",
@@ -404,8 +408,8 @@
         },
         "item_TBnLYp": {
           "type": "item",
-          "disabled": true,
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_22_00_41.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Agathe",
@@ -414,7 +418,6 @@
         },
         "item_ME6H6L": {
           "type": "item",
-          "disabled": true,
           "settings": {
             "icon": "none",
             "icon_width": 48,
