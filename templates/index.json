@@ -15,7 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Arrugas_visibles_Eliminalas_definitivamente._33236db0-ac40-4da8-a0bb-a6c4d4f2eca1.jpg",
             "mobile_image": "shopify://shop_images/Arrugas_visibles_Eliminalas_definitivamente..jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
@@ -156,7 +155,6 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telva.png",
             "logo_width": 120,
             "link": ""
           }
@@ -164,7 +162,6 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/vogue_revista.png",
             "logo_width": 120,
             "link": ""
           }
@@ -180,7 +177,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
             "logo_width": 120,
             "link": ""
           }
@@ -253,6 +249,14 @@
             "mobile_max_width": 600
           }
         },
+        "image_X6xYiJ": {
+          "type": "image",
+          "settings": {
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "heading_dVFLJ3": {
           "type": "heading",
           "settings": {
@@ -265,7 +269,6 @@
         "image_EC8Jjn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1_d69cdf7d-f349-41b9-b4f4-b93a0c92146b.png",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -274,7 +277,6 @@
         "image_Ke4dqE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/vidio-ezgif.com-video-to-gif-converter_0864005a-66d5-4958-bc58-2423035c7d06.gif",
             "width_mode": "full_width",
             "max_width": 960,
             "mobile_max_width": 570
@@ -331,6 +333,7 @@
         "subheading_kBbiaT",
         "heading_mkEbAY",
         "image_VMe4Pf",
+        "image_X6xYiJ",
         "heading_dVFLJ3",
         "image_EC8Jjn",
         "image_Ke4dqE",
@@ -397,7 +400,6 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_44_01.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Ana",
@@ -682,12 +684,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">restante : 6 kits </div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_MFzGTt": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "liquid_kNfAcH": {
           "type": "liquid",
           "settings": {
@@ -714,7 +710,6 @@
         "image_ykgAyR": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-07-05_a_23.22.08.png",
             "alignment": "center",
             "max_width": 200
           }
@@ -852,7 +847,6 @@
         "price",
         "description",
         "liquid_TJAJij",
-        "kaching_bundles_app_block_MFzGTt",
         "liquid_kNfAcH",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
