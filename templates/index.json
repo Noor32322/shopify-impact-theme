@@ -250,6 +250,15 @@
             "mobile_max_width": 600
           }
         },
+        "image_geibrr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/vidio-ezgif.com-video-to-gif-converter.gif",
+            "width_mode": "custom",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        },
         "image_X6xYiJ": {
           "type": "image",
           "settings": {
@@ -334,6 +343,7 @@
         "subheading_kBbiaT",
         "heading_mkEbAY",
         "image_VMe4Pf",
+        "image_geibrr",
         "image_X6xYiJ",
         "heading_dVFLJ3",
         "image_EC8Jjn",
