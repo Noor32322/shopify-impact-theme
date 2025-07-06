@@ -156,7 +156,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1.png",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -164,6 +164,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/telva.png",
             "logo_width": 120,
             "link": ""
           }
@@ -179,6 +180,7 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Capture_d_ecran_2025-05-13_a_12.17.48-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
