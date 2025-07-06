@@ -884,7 +884,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "micro-infusion-lift-pro-suero-extra-ofrecido",
+        "product": "microinfusion-lift-pro-serum-extra-offerto",
         "desktop_media_width": 45,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
@@ -1353,26 +1353,6 @@
         "review_button_text_color": "#ffffff"
       }
     },
-    "contact_rFRQqd": {
-      "type": "contact",
-      "settings": {
-        "full_width": true,
-        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 12 heures.",
-        "title": "Une question ?",
-        "content": "<p>Écrivez-nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
-        "text_position": "center",
-        "contact_form_size": "large",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "#1a1a1a",
-        "button_text_color": ""
-      }
-    },
     "17445525616f85bc44": {
       "type": "apps",
       "settings": {
@@ -1413,7 +1393,6 @@
     "17458716313bac3698",
     "17452918495fc7c1b0",
     "174459191616bbf63a",
-    "contact_rFRQqd",
     "17445525616f85bc44"
   ]
 }
