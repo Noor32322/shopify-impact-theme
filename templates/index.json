@@ -15,6 +15,7 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_4_juil._2025_06_02_24.png",
             "mobile_image": "shopify://shop_images/Arrugas_visibles_Eliminalas_definitivamente..jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
@@ -400,6 +401,7 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/A1.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Ana",
