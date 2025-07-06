@@ -1181,7 +1181,7 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Combien de temps dois-je porter les lunettes de correction Opthys chaque jour ?",
+            "title": "¿Cuáles son los plazos de entrega?",
             "content": "<p><strong>15 à 30 minutes par jour</strong> suffisent. Le but est d'entraîner vos yeux progressivement, pendant des moments calmes : lecture, ordinateur, télé… La régularité est plus importante que la durée.</p>"
           }
         },
@@ -1195,57 +1195,85 @@
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Dans combien de temps vais-je remarquer des changements dans ma vision ?",
+            "title": "¿Cómo funciona la microinfusión?",
             "content": "<p>Certains utilisateurs remarquent des <strong>améliorations dès la première semaine</strong>, notamment une meilleure concentration et moins de fatigue visuelle. Les résultats varient selon la régularité d’usage.</p>"
           }
         },
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
-            "title": "Sont-elles adaptées à tous les âges ?",
+            "title": "¿Es indoloro y seguro?",
             "content": "<p>Les lunettes Opthys conviennent à <strong>tous les âges</strong> à partir de 10 ans, sous surveillance d’un adulte. Elles sont sans danger, sans correction, et ne projettent aucune lumière ni onde.</p>"
           }
         },
         "item_wFFrxc": {
           "type": "item",
           "settings": {
-            "title": "Faut-il une ordonnance ?",
+            "title": "¿Se pueden reutilizar las cabezas de aguja?",
             "content": "<p>Non. Opthys est un dispositif de bien-être visuel basé sur une méthode naturelle, sans prescription. Vous pouvez les commander et les utiliser directement à la maison.</p>"
           }
         },
         "item_9brXVX": {
           "type": "item",
           "settings": {
-            "title": "Peut-on les utiliser avec des lunettes de vue ?",
+            "title": "¿Dónde puedo usarlo?",
             "content": "<p>Pas en même temps. Il est recommandé de les utiliser <strong>en remplacement temporaire</strong>, pendant les sessions d’entraînement visuel (lecture, travail, etc.). Retirez vos lunettes classiques durant ces moments.</p>"
           }
         },
         "item_VaRedm": {
           "type": "item",
           "settings": {
-            "title": "Que faire si je ne vois pas d’amélioration ?",
+            "title": "¿Es eficaz para los hombres?",
             "content": "<p>Vous bénéficiez d’une <strong>garantie 90 jours satisfait ou remboursé</strong>. Si vous ne constatez aucun effet, contactez-nous et nous vous rembourserons sans discuter. C’est sans risque.</p>"
           }
         },
         "item_Bd7jyK": {
           "type": "item",
           "settings": {
-            "title": "Fonctionnent-elles pour tous les problèmes de vue ?",
+            "title": "¿Es seguro para todo tipo de piel?",
             "content": "<p>Conçues pour <strong>stimuler les muscles oculaires en profondeur</strong>, elles favorisent une meilleure netteté naturelle de la vision, notamment en cas de <strong>fatigue visuelle, myopie, hypermétropie ou début de presbytie</strong>.</p><p>Grâce au principe sténopéïque, elles <strong>forcent les yeux à se recentrer, à corriger activement leur mise au point</strong>, et à <strong>retrouver leur capacité naturelle d’adaptation</strong>.<br/><br/>C’est une <strong>méthode douce, progressive et non invasive</strong>, utilisée depuis des années par des professionnels de la vision.</p>"
           }
         },
         "item_UUahEG": {
           "type": "item",
           "settings": {
-            "title": "Devrai-je continuer à utiliser les lunettes Opthys indéfiniment ?",
+            "title": "¿Es eficaz alrededor de los ojos, los párpados y en el cuello?",
             "content": "<p>Non, mais une utilisation régulière (quelques minutes par jour) permet de <strong>renforcer et entretenir</strong> la performance des yeux. Vous pouvez les intégrer durablement dans votre routine visuelle.</p>"
           }
         },
         "item_DRqjnt": {
           "type": "item",
           "settings": {
-            "title": "Offrez-vous une garantie ?",
+            "title": "¿Hay que dejar un tiempo de descanso entre cada uso?",
             "content": "<p>Oui, nous proposons une <strong>garantie de 30 jours satisfait ou remboursé</strong>. Si vous n’êtes pas pleinement satisfait des résultats, vous pouvez nous retourner le produit et obtenir un remboursement complet.</p>"
+          }
+        },
+        "item_k3zrQf": {
+          "type": "item",
+          "settings": {
+            "title": "¿Este producto se renueva y se envía automáticamente cada mes?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_c3GRyK": {
+          "type": "item",
+          "settings": {
+            "title": "¿Este producto ayuda a reducir las arrugas muy profundas?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_Bx4H9C": {
+          "type": "item",
+          "settings": {
+            "title": "¿Puedo usar ácido hialurónico o retinol después de usar el Micro Infusion Kit?",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_iX7XRd": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
         },
         "item_PrdFwE": {
@@ -1267,6 +1295,10 @@
         "item_Bd7jyK",
         "item_UUahEG",
         "item_DRqjnt",
+        "item_k3zrQf",
+        "item_c3GRyK",
+        "item_Bx4H9C",
+        "item_iX7XRd",
         "item_PrdFwE"
       ],
       "settings": {
