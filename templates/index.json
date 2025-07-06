@@ -156,6 +156,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -250,6 +251,15 @@
             "mobile_max_width": 600
           }
         },
+        "heading_mHmxWk": {
+          "type": "heading",
+          "settings": {
+            "text": "Un método de infusión simple e indoloro.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
         "image_geibrr": {
           "type": "image",
           "settings": {
@@ -267,13 +277,13 @@
             "mobile_max_width": 400
           }
         },
-        "heading_dVFLJ3": {
-          "type": "heading",
+        "image_mNLtc9": {
+          "type": "image",
           "settings": {
-            "text": "Nuestras clientas lo dicen mejor que nadie",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1.png",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         },
         "image_EC8Jjn": {
@@ -343,9 +353,10 @@
         "subheading_kBbiaT",
         "heading_mkEbAY",
         "image_VMe4Pf",
+        "heading_mHmxWk",
         "image_geibrr",
         "image_X6xYiJ",
-        "heading_dVFLJ3",
+        "image_mNLtc9",
         "image_EC8Jjn",
         "image_Ke4dqE",
         "image_D9mpwK",
