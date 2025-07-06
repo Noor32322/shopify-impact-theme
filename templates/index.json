@@ -1159,7 +1159,7 @@
           "type": "item",
           "settings": {
             "title": "¿Cuáles son los plazos de entrega?",
-            "content": "<p><strong>15 à 30 minutes par jour</strong> suffisent. Le but est d'entraîner vos yeux progressivement, pendant des moments calmes : lecture, ordinateur, télé… La régularité est plus importante que la durée.</p>"
+            "content": "<p>Debido al gran éxito de nuestro producto, los plazos de entrega son los siguientes: plazo de procesamiento de 1 a 3 días laborables y plazo de entrega de 6 a 14 días laborables.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -1173,91 +1173,84 @@
           "type": "item",
           "settings": {
             "title": "¿Cómo funciona la microinfusión?",
-            "content": "<p>Certains utilisateurs remarquent des <strong>améliorations dès la première semaine</strong>, notamment une meilleure concentration et moins de fatigue visuelle. Les résultats varient selon la régularité d’usage.</p>"
+            "content": "<p>Nuestro sistema de microinfusión revolucionario utiliza microagujas ultrafinas e indoloras para crear microcanales en la superficie de la piel.</p><p>Gracias a esta tecnología, un sérum concentrado en ácido hialurónico y péptidos de colágeno penetra en profundidad, donde los tratamientos antiedad tradicionales no llegan.</p><p><strong>¿El resultado?</strong> Se estimula la producción de colágeno, reduciendo arrugas, líneas de expresión y flacidez, para una piel más firme y radiante.</p><p><strong>Úsalo cada dos semanas y disfruta de una piel más lisa y tonificada desde la comodidad de tu casa, ¡en solo unas pocas sesiones!</strong></p><p>1️⃣ <strong>Preparación:</strong> Llena el aplicador con el sérum y coloca una cabeza de microagujas estéril de un solo uso.<br/><br/>2️⃣ <strong>Activación:</strong> Gira el dispositivo y deja que el sérum se impregne durante 1 a 2 minutos.<br/><br/>3️⃣ <strong>Aplicación:</strong> Da suaves toques sobre la piel (rostro, cuello, labios), realizando de 2 a 3 pasadas para una absorción óptima.<br/><br/>4️⃣ <strong>Cuidado posterior:</strong> Masajea el exceso de sérum sobre la piel y déjalo actuar toda la noche. Evita el maquillaje y la exposición prolongada al sol durante 24 horas. Puedes completar con tu rutina de cuidado habitual.</p><p>Demander à ChatGPT</p>"
           }
         },
         "item_Pcw4cJ": {
           "type": "item",
           "settings": {
             "title": "¿Es indoloro y seguro?",
-            "content": "<p>Les lunettes Opthys conviennent à <strong>tous les âges</strong> à partir de 10 ans, sous surveillance d’un adulte. Elles sont sans danger, sans correction, et ne projettent aucune lumière ni onde.</p>"
+            "content": "<p>Voici la traduction en espagnol :</p><p><strong>Gracias a sus microagujas ultrafinas de 0,05 mm, tan finas como un cabello, la aplicación es prácticamente imperceptible y 100 % indolora.</strong><br/><br/>La mayoría de los usuarios solo sienten un ligero cosquilleo.</p><p><strong>Nuestro sistema de microinfusión está aprobado por dermatólogos, es fácil de usar, estéril y formulado sin pruebas en animales, sin sulfatos ni parabenos.</strong></p><p>Además, <strong>nuestro sérum está compuesto por ingredientes de alta gama, rigurosamente seleccionados</strong>, cumpliendo con los estándares de calidad más estrictos del sector y garantizando cero riesgo de efectos adversos.</p><p>✔ Sin perfume<br/><br/>✔ No testado en animales<br/><br/>✔ Sin BHA<br/><br/>✔ Sin parabenos</p>"
           }
         },
         "item_wFFrxc": {
           "type": "item",
           "settings": {
             "title": "¿Se pueden reutilizar las cabezas de aguja?",
-            "content": "<p>Non. Opthys est un dispositif de bien-être visuel basé sur une méthode naturelle, sans prescription. Vous pouvez les commander et les utiliser directement à la maison.</p>"
+            "content": "<p>Voici la traduction en espagnol :</p><p><strong>Sí, por supuesto. Sin embargo, una vez completadas las tres sesiones de tratamiento en un período de 45 días, la cabeza de aguja debe ser desechada obligatoriamente.</strong></p><p>Para limpiar la cabeza de aguja, enjuágala con agua tibia y luego aplica un antiséptico o alcohol suave (70°) por aspersión o inmersión.<br/><br/>Vuelve a enjuagar con agua tibia y deja secar completamente al aire libre.</p>"
           }
         },
         "item_9brXVX": {
           "type": "item",
           "settings": {
             "title": "¿Dónde puedo usarlo?",
-            "content": "<p>Pas en même temps. Il est recommandé de les utiliser <strong>en remplacement temporaire</strong>, pendant les sessions d’entraînement visuel (lecture, travail, etc.). Retirez vos lunettes classiques durant ces moments.</p>"
+            "content": "<p><strong>Este sistema funciona en casi cualquier zona, ya que el envejecimiento de la piel en todo el cuerpo se debe a la pérdida de colágeno.</strong><br/><br/>Úsalo cada dos semanas para estimular la producción natural de colágeno.</p><p>✔ Arrugas de la frente<br/><br/>✔ Líneas del entrecejo (\"líneas de expresión\")<br/><br/>✔ Patas de gallo<br/><br/>✔ Arrugas alrededor de los ojos<br/><br/>✔ Líneas nasales (\"bunny lines\")<br/><br/>✔ Barbilla irregular (\"barbilla de fresa\")<br/><br/>✔ Surcos nasogenianos<br/><br/>✔ Arrugas del fumador (alrededor de la boca)<br/><br/>✔ Líneas de marioneta (en las comisuras de los labios)<br/><br/>✔ Flacidez del cuello (\"cuello de pavo\")</p><p>Demander à ChatGPT</p>"
+          }
+        },
+        "item_iwxAag": {
+          "type": "item",
+          "settings": {
+            "title": "¿Qué tan rápido veré los resultados?",
+            "content": "<p><strong>Desde el primer tratamiento notarás que tu piel se vuelve más lisa, más firme y más hidratada.</strong><br/><br/>Muchos usuarios incluso observan una reducción visible de las líneas finas después de una sola sesión.</p><p>Aunque los resultados pueden aparecer rápidamente, <strong>la transformación más significativa suele producirse después de unos 4 a 6 tratamientos distribuidos en 12 semanas (3 meses).</strong></p><p>La razón es simple: los estudios demuestran que este tratamiento puede <strong>aumentar la producción de colágeno en un 76 % con el tiempo.</strong></p><p>Esto significa que tus arrugas, líneas de expresión y flacidez se reducirán considerablemente.<br/><br/><strong>Por eso los dermatólogos recomiendan continuar el tratamiento durante al menos 3 meses para obtener los mejores resultados.</strong></p>"
           }
         },
         "item_VaRedm": {
           "type": "item",
           "settings": {
             "title": "¿Es eficaz para los hombres?",
-            "content": "<p>Vous bénéficiez d’une <strong>garantie 90 jours satisfait ou remboursé</strong>. Si vous ne constatez aucun effet, contactez-nous et nous vous rembourserons sans discuter. C’est sans risque.</p>"
+            "content": "<p><strong>¡Absolutamente!</strong></p><p>El Micro Infusion Kit está diseñado para todo tipo de piel y funciona igual de bien para hombres y mujeres.</p><p>Actúa eficazmente sobre problemas comunes de la piel como las líneas finas, las arrugas, las manchas oscuras y la textura irregular, sin importar el género.<br/><br/><strong>Los hombres pueden obtener los mismos beneficios de regeneración y mejora de la piel que las mujeres.</strong></p>"
           }
         },
         "item_Bd7jyK": {
           "type": "item",
           "settings": {
             "title": "¿Es seguro para todo tipo de piel?",
-            "content": "<p>Conçues pour <strong>stimuler les muscles oculaires en profondeur</strong>, elles favorisent une meilleure netteté naturelle de la vision, notamment en cas de <strong>fatigue visuelle, myopie, hypermétropie ou début de presbytie</strong>.</p><p>Grâce au principe sténopéïque, elles <strong>forcent les yeux à se recentrer, à corriger activement leur mise au point</strong>, et à <strong>retrouver leur capacité naturelle d’adaptation</strong>.<br/><br/>C’est une <strong>méthode douce, progressive et non invasive</strong>, utilisée depuis des années par des professionnels de la vision.</p>"
+            "content": "<p><strong>¡Sí! Nuestro sistema de microneedling está diseñado para ser seguro para todo tipo de piel, incluidas las pieles sensibles.</strong></p><p>Sin embargo, si tienes una afección cutánea grave, se recomienda consultar a tu médico antes de usar el producto.</p>"
           }
         },
         "item_UUahEG": {
           "type": "item",
           "settings": {
             "title": "¿Es eficaz alrededor de los ojos, los párpados y en el cuello?",
-            "content": "<p>Non, mais une utilisation régulière (quelques minutes par jour) permet de <strong>renforcer et entretenir</strong> la performance des yeux. Vous pouvez les intégrer durablement dans votre routine visuelle.</p>"
+            "content": "<p><strong>Sí, funciona prácticamente en todas partes, ya que el envejecimiento de la piel en todo el cuerpo es causado por la pérdida de colágeno, algo que nuestro sistema trata en solo unas pocas sesiones.</strong></p><p>Sin embargo, evita aplicar el dispositivo demasiado cerca de la zona delicada de los ojos, especialmente directamente sobre los párpados o la línea de las pestañas. Mantén una distancia de al menos 3 cm (1,5 pulgadas) de los ojos.</p><p>Para los labios, aplica el dispositivo suavemente directamente sobre los labios para obtener mejores resultados.</p><p>También puedes seguir nuestra guía en video paso a paso que recibirás con tu pedido.</p>"
           }
         },
         "item_DRqjnt": {
           "type": "item",
           "settings": {
             "title": "¿Hay que dejar un tiempo de descanso entre cada uso?",
-            "content": "<p>Oui, nous proposons une <strong>garantie de 30 jours satisfait ou remboursé</strong>. Si vous n’êtes pas pleinement satisfait des résultats, vous pouvez nous retourner le produit et obtenir un remboursement complet.</p>"
+            "content": "<p><strong>Prácticamente no hay tiempo de recuperación después de usar el Micro Infusion Kit.</strong></p><p>Podrías notar un leve enrojecimiento o una ligera sensibilidad justo después del tratamiento, pero estos efectos suelen desaparecer en pocas horas o en el transcurso de un día.</p><p>Se recomienda evitar el maquillaje, la exposición directa al sol y los productos de cuidado agresivos durante al menos 24 horas después del tratamiento, para permitir que la piel se regenere adecuadamente.</p>"
           }
         },
         "item_k3zrQf": {
           "type": "item",
           "settings": {
             "title": "¿Este producto se renueva y se envía automáticamente cada mes?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "content": "<p><strong>No, el Micro Infusion Kit no forma parte de un programa de renovación automática ni de una suscripción mensual.</strong></p><p>Cada compra es una transacción única y los productos se envían según ese pedido.</p><p>Si deseas recibir kits adicionales en el futuro, deberás realizar un nuevo pedido cada vez.</p>"
           }
         },
         "item_c3GRyK": {
           "type": "item",
           "settings": {
             "title": "¿Este producto ayuda a reducir las arrugas muy profundas?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_Bx4H9C": {
-          "type": "item",
-          "settings": {
-            "title": "¿Puedo usar ácido hialurónico o retinol después de usar el Micro Infusion Kit?",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
-          }
-        },
-        "item_iX7XRd": {
-          "type": "item",
-          "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "content": "<p>Sí, el Micro Infusion Kit puede mejorar la apariencia de las arrugas profundas al estimular la producción de colágeno e hidratar la piel.</p><p>Sin embargo, es importante tener en cuenta que los resultados en arrugas muy profundas pueden tardar más en aparecer, generalmente entre 3 y 6 meses de uso regular.</p><p><strong>La paciencia y la constancia en los tratamientos son clave para observar mejoras notables.</strong></p>"
           }
         },
         "item_PrdFwE": {
           "type": "item",
           "settings": {
-            "title": "Puis-je suivre ma commande",
-            "content": "<p>Oui ! après le passage de votre commande le numéro vous est fourni instantanément et vous pouvez l'appliquer ici <a href=\"/apps/parcelpanel\" title=\"/apps/parcelpanel\">Suivre ma commande</a></p>"
+            "title": "¿Puedo hacer el seguimiento de mi pedido?",
+            "content": "<p>¡Sí! Después de realizar tu pedido, se te proporciona el número de seguimiento de forma instantánea y puedes ingresarlo aquí<strong>.</strong><a href=\"/apps/parcelpanel\" title=\"/apps/parcelpanel\">Suivre ma commande</a></p>"
           }
         }
       },
@@ -1268,14 +1261,13 @@
         "item_Pcw4cJ",
         "item_wFFrxc",
         "item_9brXVX",
+        "item_iwxAag",
         "item_VaRedm",
         "item_Bd7jyK",
         "item_UUahEG",
         "item_DRqjnt",
         "item_k3zrQf",
         "item_c3GRyK",
-        "item_Bx4H9C",
-        "item_iX7XRd",
         "item_PrdFwE"
       ],
       "settings": {
