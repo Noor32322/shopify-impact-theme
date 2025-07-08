@@ -433,7 +433,11 @@
         "cookie_preferences": " "
       },
       "general": {
-        "continue_to_review": "Acheter maintenant"
+        "continue_to_review": "Pagar ahora",
+        "pay_now_button_label": "Pagar ahora",
+        "choose_shipping_method": "Elige el método de envío.",
+        "choose_payment_method": "Elige el método de pago",
+        "choose_billing_address": "Elige la dirección de facturación."
       }
     }
   }
