@@ -437,7 +437,8 @@
         "pay_now_button_label": "Pagar ahora",
         "choose_shipping_method": "Elige el método de envío.",
         "choose_payment_method": "Elige el método de pago",
-        "choose_billing_address": "Elige la dirección de facturación."
+        "choose_billing_address": "Elige la dirección de facturación.",
+        "complete_purchase_button_label": "Pagar ahora"
       }
     }
   }
