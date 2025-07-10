@@ -738,6 +738,14 @@
             "payment_button_text_color": "#030303"
           }
         },
+        "image_VJCArE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_serum_adicional_ofrecido_1.png",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
         "image_ykgAyR": {
           "type": "image",
           "settings": {
@@ -882,6 +890,7 @@
         "liquid_kNfAcH",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
+        "image_VJCArE",
         "image_ykgAyR",
         "liquid_YTrhHw",
         "image_mBrmAi",
