@@ -746,6 +746,14 @@
             "payment_button_text_color": "#030303"
           }
         },
+        "image_bpWJG9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/PAGO_SEGURO.jpg",
+            "alignment": "center",
+            "max_width": 290
+          }
+        },
         "image_ykgAyR": {
           "type": "image",
           "settings": {
@@ -891,6 +899,7 @@
         "liquid_aK3peQ",
         "image_VJCArE",
         "buy_buttons_TpHQPx",
+        "image_bpWJG9",
         "image_ykgAyR",
         "liquid_YTrhHw",
         "image_mBrmAi",
