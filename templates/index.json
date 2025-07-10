@@ -727,6 +727,14 @@
             "liquid": ""
           }
         },
+        "image_VJCArE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/1_serum_adicional_ofrecido_1.png",
+            "alignment": "center",
+            "max_width": 400
+          }
+        },
         "buy_buttons_TpHQPx": {
           "type": "buy_buttons",
           "settings": {
@@ -736,14 +744,6 @@
             "atc_button_text_color": "#030303",
             "payment_button_background": "#000000",
             "payment_button_text_color": "#030303"
-          }
-        },
-        "image_VJCArE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/1_serum_adicional_ofrecido_1.png",
-            "alignment": "center",
-            "max_width": 400
           }
         },
         "image_ykgAyR": {
@@ -889,8 +889,8 @@
         "kaching_bundles_app_block_B3dWPw",
         "liquid_kNfAcH",
         "liquid_aK3peQ",
-        "buy_buttons_TpHQPx",
         "image_VJCArE",
+        "buy_buttons_TpHQPx",
         "image_ykgAyR",
         "liquid_YTrhHw",
         "image_mBrmAi",
