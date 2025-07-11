@@ -15,8 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_2.jpg",
-            "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_2_8578e440-29a9-408e-97b5-3b3bb7e30540.jpg",
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_3.jpg",
+            "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_3_8699a796-e958-48c3-a01a-a53b99d930d7.jpg",
             "content_max_width": 400,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
