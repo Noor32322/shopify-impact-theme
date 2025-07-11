@@ -284,8 +284,8 @@
           "settings": {
             "image": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1.png",
             "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
+            "max_width": 1000,
+            "mobile_max_width": 600
           }
         },
         "image_EC8Jjn": {
