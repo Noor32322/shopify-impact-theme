@@ -658,6 +658,70 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_dDCzDG": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_AQFQHt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/videoetapa1-ezgif.com-video-to-gif-converter.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Paso 1",
+            "content": "<p>Abra el frasco y llénelo con el sérum. Ciérrelo sin apretar para una aplicación óptima.</p><p></p>"
+          }
+        },
+        "item_GKpyLT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/etapa2-ezgif.com-video-to-gif-converter.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Paso 2",
+            "content": "<p>Dé la vuelta al frasco y déjelo boca abajo durante 2 minutos para que las microagujas se impregnen perfectamente del sérum.</p>"
+          }
+        },
+        "item_JeyNih": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/etapa3-ezgif.com-video-to-gif-converter.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Paso 3",
+            "content": "<p>Toque suavemente su piel (rostro, labios, cuello, etc.). Repita 2 a 3 veces para obtener resultados visibles más rápidamente.</p>"
+          }
+        },
+        "item_y7itxF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/etapa4-ezgif.com-video-to-gif-converter.gif",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Paso 4",
+            "content": "<p>Masajee el exceso de sérum sobre su piel y déjelo actuar durante toda la noche. Para una rutina completa, aplique después sus tratamientos habituales.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_AQFQHt",
+        "item_GKpyLT",
+        "item_JeyNih",
+        "item_y7itxF"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -1060,70 +1124,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_dDCzDG": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_AQFQHt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/videoetapa1-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 1",
-            "content": "<p>Abra el frasco y llénelo con el sérum. Ciérrelo sin apretar para una aplicación óptima.</p><p></p>"
-          }
-        },
-        "item_GKpyLT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa2-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 2",
-            "content": "<p>Dé la vuelta al frasco y déjelo boca abajo durante 2 minutos para que las microagujas se impregnen perfectamente del sérum.</p>"
-          }
-        },
-        "item_JeyNih": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa3-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 3",
-            "content": "<p>Toque suavemente su piel (rostro, labios, cuello, etc.). Repita 2 a 3 veces para obtener resultados visibles más rápidamente.</p>"
-          }
-        },
-        "item_y7itxF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa4-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 4",
-            "content": "<p>Masajee el exceso de sérum sobre su piel y déjelo actuar durante toda la noche. Para una rutina completa, aplique después sus tratamientos habituales.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_AQFQHt",
-        "item_GKpyLT",
-        "item_JeyNih",
-        "item_y7itxF"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "images_with_text_scrolling_XRrxM7": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -1469,10 +1469,10 @@
     "images_with_text_scrolling_mdcqD6",
     "impact_text_kmcaEp",
     "multi_column_J9xarm",
+    "images_with_text_scrolling_dDCzDG",
     "featured-product",
     "images_with_text_scrolling_y49Y4C",
     "rich_text_WFiMtE",
-    "images_with_text_scrolling_dDCzDG",
     "images_with_text_scrolling_XRrxM7",
     "images_with_text_scrolling_fKHdVT",
     "faq",
