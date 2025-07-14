@@ -60,6 +60,11 @@
         "type": "shopify://apps/rt-page-speed-booster/blocks/app-embed/4a6fa896-93b0-4e15-9d32-c2311aca53bb",
         "disabled": false,
         "settings": {}
+      },
+      "11532412952436166569": {
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
