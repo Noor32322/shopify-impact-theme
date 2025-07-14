@@ -1103,6 +1103,7 @@
       "blocks": {
         "heading_9UMwEd": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "text": "Una piel rejuvenecida en solo 4 pasos",
             "heading_tag": "h2",
@@ -1112,6 +1113,7 @@
         },
         "subheading_L8wCPp": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
             "text": "Los dermatólogos recomiendan un tratamiento cada 2 semanas para obtener resultados óptimos."
           }
@@ -1166,58 +1168,6 @@
         "desktop_image_effect": "reveal",
         "image_position": "end",
         "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "images_with_text_scrolling_fKHdVT": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_8axKy3": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Niacinamide",
-            "content": "<p>La niacinamide (vitamine B3) est un actif dermatologique aux multiples bénéfices. Elle régule la production de sébum, améliore la fonction barrière de la peau et atténue les inflammations cutanées. Elle participe également à l’uniformisation du teint en réduisant l’hyperpigmentation et les rougeurs. En stimulant la synthèse de céramides, elle renforce l’hydratation de la peau, tout en lissant visiblement sa texture.</p>"
-          }
-        },
-        "item_JjWhAX": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Allantoïne",
-            "content": "<p>L’allantoïne est un actif apaisant et réparateur, largement utilisé en dermatologie pour ses propriétés kératolytiques douces. Elle favorise la régénération cellulaire, calme les irritations et aide à restaurer l’intégrité de la barrière cutanée. Grâce à son action hydratante et adoucissante, elle améliore le confort des peaux sensibles, abîmées ou sujettes aux rougeur</p>"
-          }
-        },
-        "item_waiABA": {
-          "type": "item",
-          "disabled": true,
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Élastine",
-            "content": "<p>L’élastine est une protéine fibreuse essentielle à la souplesse et à la résilience de la peau. Lorsqu’elle est appliquée sous forme hydrolysée, elle aide à renforcer la matrice extracellulaire et améliore la capacité de la peau à retrouver sa forme après étirement. Elle contribue ainsi à la fermeté cutanée, réduit le relâchement et participe à une texture de peau plus tonique et lisse.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_8axKy3",
-        "item_JjWhAX",
-        "item_waiABA"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
@@ -1360,7 +1310,7 @@
         "heading_gradient": "",
         "button_background": "#f0f0f0",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#f0f0f0",
         "accordion_text_color": ""
       }
     },
@@ -1514,7 +1464,6 @@
     "images_with_text_scrolling_y49Y4C",
     "rich_text_WFiMtE",
     "images_with_text_scrolling_XRrxM7",
-    "images_with_text_scrolling_fKHdVT",
     "faq",
     "1752111244602846a6",
     "17458716313bac3698",
