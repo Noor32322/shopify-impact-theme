@@ -722,70 +722,6 @@
         "heading_gradient": ""
       }
     },
-    "images_with_text_scrolling_LNey9d": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_HPXDpj": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/videoetapa1-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 1",
-            "content": "<p>Abra el frasco y llénelo con el sérum. Ciérrelo sin apretar para una aplicación óptima.</p><p></p>"
-          }
-        },
-        "item_H6Pyrp": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa2-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 2",
-            "content": "<p>Dé la vuelta al frasco y déjelo boca abajo durante 2 minutos para que las microagujas se impregnen perfectamente del sérum.</p>"
-          }
-        },
-        "item_D8fgF9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa3-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 3",
-            "content": "<p>Toque suavemente su piel (rostro, labios, cuello, etc.). Repita 2 a 3 veces para obtener resultados visibles más rápidamente.</p>"
-          }
-        },
-        "item_4pQBVf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa4-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 4",
-            "content": "<p>Masajee el exceso de sérum sobre su piel y déjelo actuar durante toda la noche. Para una rutina completa, aplique después sus tratamientos habituales.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_HPXDpj",
-        "item_H6Pyrp",
-        "item_D8fgF9",
-        "item_4pQBVf"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -1525,6 +1461,39 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "1752452695690fe189": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_y6eNhz": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": false,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": false
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_y6eNhz"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -1544,7 +1513,6 @@
     "featured-product",
     "images_with_text_scrolling_y49Y4C",
     "rich_text_WFiMtE",
-    "images_with_text_scrolling_LNey9d",
     "images_with_text_scrolling_XRrxM7",
     "images_with_text_scrolling_fKHdVT",
     "faq",
@@ -1552,6 +1520,7 @@
     "17458716313bac3698",
     "17452918495fc7c1b0",
     "174459191616bbf63a",
-    "17445525616f85bc44"
+    "17445525616f85bc44",
+    "1752452695690fe189"
   ]
 }
