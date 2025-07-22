@@ -156,6 +156,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO_1.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -163,6 +164,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Glamour_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -170,6 +172,7 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 200,
             "link": ""
           }
@@ -177,6 +180,7 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo_1.svg",
             "logo_width": 120,
             "link": ""
           }
