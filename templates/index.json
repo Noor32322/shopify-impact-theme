@@ -15,9 +15,9 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe_2.jpg",
-            "mobile_image": "shopify://shop_images/Votre_texte_de_paragraphe_2_8578e440-29a9-408e-97b5-3b3bb7e30540.jpg",
-            "content_max_width": 400,
+            "image": "shopify://shop_images/istockphoto-1496615021-612x612_57fad601-19cf-4462-bfc0-e77de3fd9b2d.jpg",
+            "mobile_image": "shopify://shop_images/istockphoto-1496615021-612x612.jpg",
+            "content_max_width": 760,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
@@ -156,7 +156,6 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -164,7 +163,6 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -172,7 +170,6 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ba-logo-fondo-blanco-removebg-preview.png",
             "logo_width": 200,
             "link": ""
           }
@@ -180,7 +177,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/telva.png",
             "logo_width": 120,
             "link": ""
           }
@@ -195,7 +191,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Visto en :",
+        "title": "Gesehen bei :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
@@ -247,7 +243,6 @@
         "image_VMe4Pf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Alisa_las_arrugas_a_largo_plazo_1.png",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -265,7 +260,6 @@
         "image_geibrr": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/vidio-ezgif.com-video-to-gif-converter.gif",
             "width_mode": "custom",
             "max_width": 1000,
             "mobile_max_width": 600
@@ -282,7 +276,6 @@
         "image_mNLtc9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Votre_texte_de_paragraphe__1_-removebg-preview_1.png",
             "width_mode": "custom",
             "max_width": 600,
             "mobile_max_width": 400
@@ -414,7 +407,6 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_42_43.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Veronica",
@@ -424,7 +416,6 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/A1.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Ana",
@@ -434,7 +425,6 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_45_58.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Carmen",
@@ -444,7 +434,6 @@
         "item_bJePYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_20_48_54.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Gabriela",
@@ -454,7 +443,6 @@
         "item_nxhzEL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_21_03_51.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Leonor",
@@ -464,7 +452,6 @@
         "item_TBnLYp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_22_00_41.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Faustina",
@@ -474,7 +461,6 @@
         "item_ME6H6L": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_22_03_26.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Agustina",
@@ -485,7 +471,6 @@
           "type": "item",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_5_juil._2025_22_06_03.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Stella",
@@ -658,70 +643,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_dDCzDG": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_AQFQHt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/videoetapa1-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 1",
-            "content": "<p>Abra el frasco y llénelo con el sérum. Ciérrelo sin apretar para una aplicación óptima.</p><p></p>"
-          }
-        },
-        "item_GKpyLT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa2-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 2",
-            "content": "<p>Dé la vuelta al frasco y déjelo boca abajo durante 2 minutos para que las microagujas se impregnen perfectamente del sérum.</p>"
-          }
-        },
-        "item_JeyNih": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa3-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 3",
-            "content": "<p>Toque suavemente su piel (rostro, labios, cuello, etc.). Repita 2 a 3 veces para obtener resultados visibles más rápidamente.</p>"
-          }
-        },
-        "item_y7itxF": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/etapa4-ezgif.com-video-to-gif-converter.gif",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Paso 4",
-            "content": "<p>Masajee el exceso de sérum sobre su piel y déjelo actuar durante toda la noche. Para una rutina completa, aplique después sus tratamientos habituales.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_AQFQHt",
-        "item_GKpyLT",
-        "item_JeyNih",
-        "item_y7itxF"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": false,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -773,12 +694,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">restante : 6 kits </div>\n</div>"
           }
         },
-        "kaching_bundles_app_block_B3dWPw": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "{{section.settings.product}}"
-          }
-        },
         "liquid_kNfAcH": {
           "type": "liquid",
           "settings": {
@@ -788,15 +703,8 @@
         "image_VJCArE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/1_serum_adicional_ofrecido_1.png",
             "alignment": "center",
             "max_width": 400
-          }
-        },
-        "countdown_timer_essential_app_block_tQe3my": {
-          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cmd0tknth000bqdj8rrdgnq5h"
           }
         },
         "button_itMjzE": {
@@ -832,7 +740,6 @@
         "image_bpWJG9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/PAGO_SEGURO.jpg",
             "alignment": "center",
             "max_width": 290
           }
@@ -977,10 +884,8 @@
         "price",
         "description",
         "liquid_TJAJij",
-        "kaching_bundles_app_block_B3dWPw",
         "liquid_kNfAcH",
         "image_VJCArE",
-        "countdown_timer_essential_app_block_tQe3my",
         "button_itMjzE",
         "liquid_aK3peQ",
         "buy_buttons_TpHQPx",
@@ -1029,7 +934,6 @@
         "item_zDiXNn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_6_juil._2025_01_14_32.png",
             "icon": "none",
             "icon_width": 48,
             "title": "",
@@ -1039,7 +943,6 @@
         "item_aLYRMe": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_6_juil._2025_01_16_40.png",
             "icon": "none",
             "icon_width": 48,
             "title": "",
@@ -1049,7 +952,6 @@
         "item_widhrp": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_6_juil._2025_01_19_24.png",
             "icon": "none",
             "icon_width": 48,
             "title": "",
@@ -1059,7 +961,6 @@
         "item_CgpVa9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_6_juil._2025_01_21_54.png",
             "icon": "none",
             "icon_width": 48,
             "title": "",
@@ -1069,7 +970,6 @@
         "item_LfrWmF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_6_juil._2025_01_24_48.png",
             "icon": "none",
             "icon_width": 48,
             "title": "",
@@ -1316,24 +1216,6 @@
     },
     "1752111244602846a6": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_4Md6am": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "disabled": true,
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_4Md6am"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1414,23 +1296,6 @@
     },
     "1752452695690fe189": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_y6eNhz": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": false,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_y6eNhz"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -1459,7 +1324,6 @@
     "images_with_text_scrolling_mdcqD6",
     "impact_text_kmcaEp",
     "multi_column_J9xarm",
-    "images_with_text_scrolling_dDCzDG",
     "featured-product",
     "images_with_text_scrolling_y49Y4C",
     "rich_text_WFiMtE",
