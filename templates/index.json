@@ -772,6 +772,7 @@
         },
         "liquid_YTrhHw": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<style>\n  .video-scroll-container {\n    display: flex;\n    gap: 12px;\n    overflow-x: auto;\n    padding: 16px;\n    scroll-snap-type: x mandatory;\n  }\n\n  .video-scroll-container video {\n    flex: 0 0 auto;\n    width: 40vw;\n    max-width: 200px;\n    height: auto;\n    aspect-ratio: 9/16;\n    border-radius: 12px;\n    object-fit: cover;\n    scroll-snap-align: start;\n  }\n\n  @media(min-width: 768px) {\n    .video-scroll-container {\n      display: grid;\n      grid-template-columns: repeat(3, 1fr);\n      overflow-x: unset;\n    }\n\n    .video-scroll-container video {\n      width: 100%;\n      max-width: 100%;\n    }\n  }\n</style>\n\n<div class=\"video-scroll-container\">\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/7a506afda55e426db6d5e6e7b2f9c599.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/17e3de26720e43b3b7d491a8474a896e.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/bd31bcb268774c5a982ca706a2235964.mp4\" autoplay muted loop playsinline controls></video>\n  <video src=\"https://cdn.shopify.com/videos/c/o/v/383d29ef0fae44bbb3d914ebece2a7ce.mp4\" autoplay muted loop playsinline controls></video>\n</video>\n</div>"
           }
@@ -931,7 +932,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "microinfusion-kit",
+        "product": "secret-ananas",
         "desktop_media_width": 45,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
