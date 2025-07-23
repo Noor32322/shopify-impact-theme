@@ -421,6 +421,7 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_14_53_14.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Veronica",
@@ -430,6 +431,7 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_15_11_55.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Ana",
@@ -439,6 +441,7 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/YUMIA_photo_cropped_clean.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Carmen",
@@ -448,6 +451,7 @@
         "item_bJePYF": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_15_50_32.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Gabriela",
@@ -457,6 +461,7 @@
         "item_nxhzEL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_16_34_16.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Leonor",
