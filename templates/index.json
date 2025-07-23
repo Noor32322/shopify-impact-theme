@@ -204,7 +204,7 @@
         "text_color": "",
         "heading_color": "#1a1a1a",
         "heading_gradient": "",
-        "logo_item_background": "#f4f9fa",
+        "logo_item_background": "#ffffff",
         "logo_item_border": ""
       }
     },
@@ -238,10 +238,19 @@
         "heading_mkEbAY": {
           "type": "heading",
           "settings": {
-            "text": "¿Por qué elegir Celynova?",
+            "text": "Warum Yumia?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "image_nzLRit": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/YUMIA_german_visual.png",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 510
           }
         },
         "image_VMe4Pf": {
@@ -255,7 +264,7 @@
         "heading_mHmxWk": {
           "type": "heading",
           "settings": {
-            "text": "Un método de infusión simple e indoloro.",
+            "text": "Unsere fruchtigen    Bomben sprechen für sich…",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -351,6 +360,7 @@
       "block_order": [
         "subheading_kBbiaT",
         "heading_mkEbAY",
+        "image_nzLRit",
         "image_VMe4Pf",
         "heading_mHmxWk",
         "image_geibrr",
