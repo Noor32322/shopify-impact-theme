@@ -954,55 +954,16 @@
         "item_zDiXNn": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Neutralisiert_mikrobielle_Ungleichgewichte_die_schlechte_Geruche_verursachen..jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "",
-            "content": "<p><strong>Estimulan la producción de colágeno para una piel más firme y elástica</strong></p><p><strong>Reducen la aparición de líneas finas y arrugas.</strong></p><p><strong>Sostienen la estructura de la piel y unifican su textura.</strong></p>"
-          }
-        },
-        "item_aLYRMe": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p><strong>Complemento natural del colágeno, garantiza suavidad y elasticidad a la piel, previniendo la flacidez y ayudando a mantener una tez rellena y resistente frente a las agresiones externas.</strong></p>"
-          }
-        },
-        "item_widhrp": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p><strong>Hidratación profunda.</strong></p><p><strong>Favorece la reparación y regeneración de la piel.</strong></p><p><strong>Rellena la piel y reduce la visibilidad de líneas finas y arrugas.</strong></p>"
-          }
-        },
-        "item_CgpVa9": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p><strong>Refuerza la barrera protectora natural de la piel.</strong></p><p><strong>Alisa y suaviza la piel.</strong></p><p><strong>Protege contra la sequedad y las irritaciones.</strong></p>"
-          }
-        },
-        "item_LfrWmF": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "",
-            "content": "<p><strong>Un potente emoliente natural que restaura la barrera cutánea, nutre intensamente sin efecto graso, protege contra la deshidratación y ayuda a la piel a recuperar su suavidad y luminosidad natural.</strong></p>"
+            "content": ""
           }
         }
       },
       "block_order": [
-        "item_zDiXNn",
-        "item_aLYRMe",
-        "item_widhrp",
-        "item_CgpVa9",
-        "item_LfrWmF"
+        "item_zDiXNn"
       ],
       "name": "Images and text scrolling",
       "settings": {
