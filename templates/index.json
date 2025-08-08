@@ -154,6 +154,7 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/sante-magazine-logo.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -161,6 +162,7 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo_seniors_magazine.png",
             "logo_width": 120,
             "link": ""
           }
@@ -168,6 +170,7 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Vogue-logo.png",
             "logo_width": 200,
             "link": ""
           }
@@ -175,6 +178,7 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/allure-logo-png_seeklogo-210379.png",
             "logo_width": 120,
             "link": ""
           }
@@ -236,14 +240,6 @@
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "image_nzLRit": {
-          "type": "image",
-          "settings": {
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 510
           }
         },
         "image_VMe4Pf": {
@@ -353,7 +349,6 @@
       "block_order": [
         "subheading_kBbiaT",
         "heading_mkEbAY",
-        "image_nzLRit",
         "image_VMe4Pf",
         "heading_mHmxWk",
         "image_geibrr",
