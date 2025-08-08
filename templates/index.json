@@ -15,8 +15,6 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/istockphoto-1496615021-612x612_57fad601-19cf-4462-bfc0-e77de3fd9b2d.jpg",
-            "mobile_image": "shopify://shop_images/istockphoto-1496615021-612x612.jpg",
             "content_max_width": 760,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -156,7 +154,6 @@
         "logo_MNFk7d": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/VOGUE_LOGO_1.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -164,7 +161,6 @@
         "logo_6wzkVh": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Glamour_logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -172,7 +168,6 @@
         "logo_D6by36": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo_svg.png",
             "logo_width": 200,
             "link": ""
           }
@@ -180,7 +175,6 @@
         "logo_4gKkFn": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ELLE_Magazine_Logo_1.svg",
             "logo_width": 120,
             "link": ""
           }
@@ -247,7 +241,6 @@
         "image_nzLRit": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/YUMIA_german_visual.png",
             "width_mode": "full_width",
             "max_width": 1000,
             "mobile_max_width": 510
@@ -421,7 +414,6 @@
         "item_BQCPXh": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_14_53_14.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Veronica",
@@ -431,7 +423,6 @@
         "item_7LDGia": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_15_11_55.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Ana",
@@ -441,7 +432,6 @@
         "item_JT7VjL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/YUMIA_photo_cropped_clean.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Carmen",
@@ -451,7 +441,6 @@
         "item_bJePYF": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_15_50_32.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Gabriela",
@@ -461,7 +450,6 @@
         "item_nxhzEL": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_23_juil._2025_16_34_16.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Leonor",
@@ -932,7 +920,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "secret-ananas",
+        "product": "boxer-incontinence-ultra-absorbant",
         "desktop_media_width": 45,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
@@ -954,7 +942,6 @@
         "item_zDiXNn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Neutralisiert_mikrobielle_Ungleichgewichte_die_schlechte_Geruche_verursachen..jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "",
