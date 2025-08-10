@@ -253,7 +253,7 @@
         "heading_mHmxWk": {
           "type": "heading",
           "settings": {
-            "text": "Nos clients en parlent le mieux",
+            "text": "Nos clients en parlent le mieux !",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -411,7 +411,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Veronica",
+            "title": "Alexandre",
             "content": "<p><strong>\"Tenía miedo de que fuera doloroso, ¡pero para nada! Ya no soportaba mis arrugas en la frente y pensaba en un tratamiento en una clínica, hasta que probé Celynova. ¡Estoy tan feliz!\"</strong></p>"
           }
         },
@@ -420,7 +420,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Ana",
+            "title": "Bernard",
             "content": "<p><strong>\"Para quienes se lo preguntan, ¡no es doloroso! Con solo cuatro aplicaciones, siento que he recuperado la piel que tenía a los 30 años. ¡Mi tono está más luminoso, mi piel más lisa y firme! Estoy encantada.\"</strong></p>"
           }
         },
@@ -429,7 +429,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Carmen",
+            "title": "Samuel",
             "content": "<p><strong>\"Pensaba que el láser era mi única solución, pero gracias a la microinfusión, ¡mi piel por fin está uniforme y radiante! Y además, ¡el tratamiento no duele!\"</strong></p>"
           }
         },
@@ -438,7 +438,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Gabriela",
+            "title": "Charles",
             "content": "<p><strong>¡Es increíble! Nunca habría creído que mis patas de gallo desaparecerían tan rápido y que la aplicación sería tan sencilla.</strong></p>"
           }
         },
@@ -447,7 +447,7 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Leonor",
+            "title": "Léon",
             "content": "<p><strong>\"Desde la primera aplicación, noté que las líneas finas alrededor de mis labios empezaban a difuminarse. Después de aproximadamente un mes, mis labios estaban más lisos y con más volumen.\"</strong></p>"
           }
         },
