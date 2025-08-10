@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Envío premium gratuito",
+            "text": "Livraison express Offerte",
             "url": ""
           }
         },
         "message_wxtQ7p": {
           "type": "message",
           "settings": {
-            "text": "Fin de la oferta a medianoche",
+            "text": "Fin de l'offre à minuit",
             "url": ""
           }
         }
