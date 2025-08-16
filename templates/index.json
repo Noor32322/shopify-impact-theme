@@ -721,7 +721,7 @@
           "type": "button",
           "settings": {
             "link": "https://celynovabeauty.com/checkouts/cn/Z2NwLWV1cm9wZS13ZXN0NDowMUpaVFg1S1gzMEtEWFQ2UzE0UFFYR0tYMA?auto_redirect=false&edge_redirect=true&locale=es-ES&preview_theme_id=183880253814&skip_shop_pay=true",
-            "text": "Pagar ahora",
+            "text": "Acheter maintenant",
             "size": "xl",
             "style": "fill",
             "stretch": true,
@@ -805,35 +805,35 @@
         "collapsible_text_bXzLPe": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Contenido del kit Micro-Infusion Serum Lift Pro",
-            "content": "<p><strong>Contenido de cada kit</strong>:</p><ul><li><br/>: 1 cabezal estéril + 2 frascos de suero (2 tratamientos) + 1 suero extra de regalo<br/></li><li><br/>: 2 cabezales estériles + 4 frascos de suero (4 tratamientos) + 2 sueros extra de regalo<br/></li><li><br/>: 3 cabezales estériles + 6 frascos de suero (6 tratamientos) + 3 sueros extra de regalo<br/></li></ul><p>Cada kit de microinfusión está diseñado para un número preciso de tratamientos.<br/><br/>Los cabezales con microagujas (profundidad de 0,5 mm) son estériles y reutilizables hasta <strong>tres veces</strong>.<br/><br/>Deben limpiarse entre cada uso para garantizar una <strong>higiene impecable</strong> y resultados óptimos.</p><p><strong>SE INCLUIRÁ UNA GUÍA DE USO Y LIMPIEZA EN EL CORREO DE CONFIRMACIÓN DEL PEDIDO.</strong></p>"
+            "title": "Description",
+            "content": "<p></p><p></p>"
           }
         },
         "collapsible_text_ciFznN": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Composición del suero Celynova",
-            "content": "<p><strong>Nuestro sérum Peptide Ceralyne está formulado con ingredientes de alta calidad. Hidrata, rellena y revitaliza la piel en profundidad para un efecto antiedad visible desde las primeras aplicaciones.</strong></p><h3>Ingredientes clave:</h3><p>• <strong>Ácido hialurónico (Sodium Hyaluronate)</strong>: Hidrata intensamente y ayuda a mantener la elasticidad de la piel.<br/><br/>• <strong>Colágeno hidrolizado (Hydrolyzed Collagen)</strong>: Refuerza la estructura cutánea y atenúa arrugas y líneas de expresión.<br/><br/>• <strong>Oligopéptido-1</strong>: Favorece la renovación celular para una piel más firme y luminosa.<br/><br/>• <strong>Acetyl Hexapeptide-8</strong>: Conocido por su efecto relajante sobre los rasgos, ayuda a alisar las arrugas de expresión.<br/><br/>• <strong>Acetyl Octapeptide-3</strong>: Actúa en sinergia con los péptidos para potenciar el efecto antiedad y alisar visiblemente la piel.<br/><br/>• <strong>Carnosina</strong>: Potente antioxidante que protege la piel del estrés oxidativo y del envejecimiento prematuro.<br/><br/>• <strong>Dipotassium Glycyrrhizinate</strong>: Activo calmante que alivia el enrojecimiento y reduce la inflamación.<br/><br/>• <strong>Cloruro de sodio (Sodium Chloride)</strong>: Equilibra la fórmula y facilita la penetración de los activos.<br/><br/>• <strong>Colágeno soluble (Soluble Collagen)</strong>: Mejora la hidratación y la elasticidad de la piel.</p><p><strong>Gracias a esta composición enriquecida con péptidos y colágeno, el sérum Peptide Ceralyne estimula la producción natural de colágeno y elastina, para una piel más firme, más lisa y visiblemente rejuvenecida.</strong></p>"
+            "title": "Comment est produit notre boxer Nektoros ?",
+            "content": "<p></p><p></p>"
           }
         },
         "collapsible_text_zUmezh": {
           "type": "collapsible_text",
           "settings": {
-            "title": "¿Es indoloro y seguro?",
-            "content": "<p><strong>Gracias a sus microagujas ultrafinas de 0,05 mm, tan finas como un cabello, la aplicación es prácticamente imperceptible y 100 % indolora. La mayoría de los usuarios solo sienten un ligero cosquilleo.</strong></p><p>Nuestro sistema de microinfusión está aprobado por dermatólogos, es fácil de usar, estéril y formulado sin pruebas en animales, sin sulfatos ni parabenos.</p><p>Además, nuestro sérum está compuesto por ingredientes de alta gama rigurosamente seleccionados, que cumplen con los estándares de calidad más exigentes del sector y garantizan cero riesgo de efectos adversos.</p><p>✔ Sin perfume<br/><br/>✔ No testado en animales<br/><br/>✔ Sin BHA<br/><br/>✔ Sin parabenos</p>"
+            "title": "Le boxer est t-il confortable ?",
+            "content": ""
           }
         },
         "collapsible_text_crMyEE": {
           "type": "collapsible_text",
           "settings": {
-            "title": "30 días Satisfecho o reembolsado",
-            "content": "<p><strong>¿Qué hacer si no estoy satisfecho(a)?</strong><br/><br/>➤ Aprovecha nuestra garantía de <strong>30 días: Satisfecho o Reembolsado</strong>.</p><p><strong>¿Cómo contactarnos?</strong><br/><br/>➤ Nuestro <strong>Servicio de Atención al Cliente está disponible los 7 días de la semana</strong> para responder a todas tus preguntas.</p>"
+            "title": "Satisfait ou remboursé 90 jours",
+            "content": ""
           }
         },
         "collapsible_text_BcPRWY": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Envío a domicilio gratuito !",
+            "title": "Envoi à dmicile offert !",
             "content": "<p><strong>La entrega a domicilio es gratuita.</strong><br/><br/>El plazo de entrega estimado es de <strong>6 a 9 días laborables</strong>.</p><p>Para seguir su pedido, por favor déjenos un mensaje con <strong>su nombre y número de pedido</strong> en la página <strong>\"Rastrear mi pedido\"</strong>.</p>"
           }
         },
