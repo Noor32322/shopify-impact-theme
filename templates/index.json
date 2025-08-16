@@ -15,6 +15,8 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/TEST-HP_e3e0dda7-6eff-4eec-bf1e-6563a092c6b3_1.jpg",
+            "mobile_image": "shopify://shop_images/TEST-HP_1_bf5aebc9-62fb-41ae-ad95-a38434c622b3.jpg",
             "content_max_width": 760,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
