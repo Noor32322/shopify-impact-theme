@@ -820,14 +820,14 @@
           "type": "collapsible_text",
           "settings": {
             "title": "Le boxer est t-il confortable ?",
-            "content": ""
+            "content": "<p>s</p>"
           }
         },
         "collapsible_text_crMyEE": {
           "type": "collapsible_text",
           "settings": {
             "title": "Satisfait ou remboursé 90 jours",
-            "content": ""
+            "content": "<p>d</p>"
           }
         },
         "collapsible_text_BcPRWY": {
