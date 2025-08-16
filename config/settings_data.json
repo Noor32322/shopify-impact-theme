@@ -45,26 +45,6 @@
         "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
         "disabled": false,
         "settings": {}
-      },
-      "14634761946738920563": {
-        "type": "shopify://apps/lunachat-conversion-ai-chatbot/blocks/app-embed/39b9d4f3-15bc-4813-bbc5-26754512ef5a",
-        "disabled": false,
-        "settings": {}
-      },
-      "12657775114333427046": {
-        "type": "shopify://apps/countdown-timer-essential/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-        "disabled": false,
-        "settings": {}
-      },
-      "17275333509004181440": {
-        "type": "shopify://apps/rt-page-speed-booster/blocks/app-embed/4a6fa896-93b0-4e15-9d32-c2311aca53bb",
-        "disabled": false,
-        "settings": {}
-      },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-        "disabled": false,
-        "settings": {}
       }
     }
   },
