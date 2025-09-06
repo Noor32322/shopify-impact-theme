@@ -15,11 +15,12 @@
         "image_tfyHQn": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/alpha.webp",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "riparra senza tracce",
+            "title": "Retrouvez la fierté de vos ancêtres",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -27,35 +28,14 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_DKnUHY": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 10,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "image_tfyHQn",
-        "image_DKnUHY"
+        "image_tfyHQn"
       ],
       "settings": {
         "full_width": true,
@@ -244,7 +224,7 @@
         "heading_mkEbAY": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi Nektoros ?",
+            "text": "Pourquoi Graanord ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -261,7 +241,7 @@
         "heading_mHmxWk": {
           "type": "heading",
           "settings": {
-            "text": "Nos clients en parlent le mieux !",
+            "text": "Nos clients en parlent le mieux.",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
@@ -419,8 +399,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Alexandre",
-            "content": "<p><strong>\"Tenía miedo de que fuera doloroso, ¡pero para nada! Ya no soportaba mis arrugas en la frente y pensaba en un tratamiento en una clínica, hasta que probé Celynova. ¡Estoy tan feliz!\"</strong></p>"
+            "title": "Louis",
+            "content": "<p>“L’effet est subtil mais réel : je dors mieux et je me sens plus équilibré émotionnellement. L’hématite aide à calmer l’esprit et à mieux gérer les tensions. Et le design viking est top.”</p>"
           }
         },
         "item_7LDGia": {
@@ -428,8 +408,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Bernard",
-            "content": "<p><strong>\"Para quienes se lo preguntan, ¡no es doloroso! Con solo cuatro aplicaciones, siento que he recuperado la piel que tenía a los 30 años. ¡Mi tono está más luminoso, mi piel más lisa y firme! Estoy encantada.\"</strong></p>"
+            "title": "Samuel",
+            "content": "<p>“Au-delà du style, j’ai ressenti une vraie différence sur ma confiance. Porter le Graanord, c’est comme porter un rappel constant de force intérieure. Je me sens plus affirmé, comme si la pierre amplifiait ma présence, moin de stress, meilleur sommeil. je dors avec et je conseil de le porter sur une durée large pour voir les effets positifs.”</p>"
           }
         },
         "item_JT7VjL": {
@@ -437,8 +417,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Samuel",
-            "content": "<p><strong>\"Pensaba que el láser era mi única solución, pero gracias a la microinfusión, ¡mi piel por fin está uniforme y radiante! Y además, ¡el tratamiento no duele!\"</strong></p>"
+            "title": "Kamil",
+            "content": "<p>“Avec le Graanord, j’ai l’impression d’être plus calme même dans les moments tendus. Comme si la pierre absorbait le stress et me gardait ancré.”</p>"
           }
         },
         "item_bJePYF": {
@@ -446,8 +426,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Charles",
-            "content": "<p><strong>¡Es increíble! Nunca habría creído que mis patas de gallo desaparecerían tan rápido y que la aplicación sería tan sencilla.</strong></p>"
+            "title": "Nicolas",
+            "content": "<p>“Je porte le bracelet tous les jours au travail. Résultat : plus de concentration, moins de fatigue en fin de journée. L’hématite m’aide clairement à garder l’esprit clair.”</p>"
           }
         },
         "item_nxhzEL": {
@@ -455,8 +435,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Léon",
-            "content": "<p><strong>\"Desde la primera aplicación, noté que las líneas finas alrededor de mis labios empezaban a difuminarse. Después de aproximadamente un mes, mis labios estaban más lisos y con más volumen.\"</strong></p>"
+            "title": "Beaudoin",
+            "content": "<p>“Au début je pensais que c’était juste un bijou sympa, mais j’ai ressenti un vrai changement après plus de 30 jours : meilleure gestion des émotions et un regain d’énergie le matin.”</p>"
           }
         },
         "item_TBnLYp": {
@@ -464,8 +444,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Faustina",
-            "content": "<p><strong>\"Odiaba las arrugas y la piel flácida de mi cuello, y el único producto que realmente marcó la diferencia fue este. ¡Mi piel está tan lisa y firme que el resultado es impresionante!\"</strong></p>"
+            "title": "Antoine",
+            "content": "<p>“Je le mets pour mes entraînements. J’ai l’impression d’avoir une force intérieure supplémentaire, comme un focus plus intense. Ça motive !”</p>"
           }
         },
         "item_ME6H6L": {
@@ -473,8 +453,8 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "Agustina",
-            "content": "<p><strong>\"Las patas de gallo alrededor de mis ojos eran mi mayor complejo, pero en pocas semanas prácticamente desaparecieron. Lo recomiendo a toda mi familia.\"</strong></p>"
+            "title": "Bruno",
+            "content": "<p>“Je suis de nature anxieux et depuis que je porte ce bracelet, j’arrive à rester plus serein. C’est fou comme une simple pierre peut avoir un tel effet.”</p>"
           }
         },
         "item_T4qNQj": {
