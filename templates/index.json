@@ -15,8 +15,6 @@
         "image_tfyHQn": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/feutre-de-retouche-universel-ref_NC5320_1.jpg",
-            "mobile_image": "shopify://shop_images/feutre-de-retouche-universel-ref_NC5320_1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -33,10 +31,31 @@
             "background": "",
             "background_gradient": ""
           }
+        },
+        "image_DKnUHY": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide title",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
         }
       },
       "block_order": [
-        "image_tfyHQn"
+        "image_tfyHQn",
+        "image_DKnUHY"
       ],
       "settings": {
         "full_width": true,
@@ -114,13 +133,35 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_UUpVnj": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_k4EeCh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em>« Libérez votre avantage naturel — Graanord canalise en permanence le champ magnétique de l'hématite pure, afin que vous conserviez une énergie maximale et une confiance masculine pendant les journées les plus longues et les défis les plus difficiles. »</em></p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_k4EeCh"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#fffcfc",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "logo_list_T7HWhC": {
       "type": "logo-list",
       "blocks": {
         "logo_mdGrjm": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/alvolante.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -128,7 +169,6 @@
         "logo_7YGrnf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/testata_new.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -136,7 +176,6 @@
         "logo_HAtMx4": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/quattroruote-logo-png_seeklogo-114479.png",
             "logo_width": 300,
             "link": ""
           }
@@ -144,7 +183,6 @@
         "logo_GeFENW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo-Caradisiac-RVB-qpaqv9i4mduturtf221crw9mzbmx4x51dmtnnirslg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -659,7 +697,7 @@
         "liquid_TJAJij": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">restant : 6 boxers </div>\n</div>"
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">restant : 6 </div>\n</div>"
           }
         },
         "kaching_bundles_app_block_Cp8QQ6": {
@@ -877,7 +915,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "boxer-incontinence-ultra-absorbant",
+        "product": "hematite-bracelet",
         "desktop_media_width": 45,
         "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
@@ -1240,6 +1278,7 @@
     "slideshow",
     "before-after-image",
     "press",
+    "rich_text_UUpVnj",
     "logo_list_T7HWhC",
     "impact_text_hpHNip",
     "rich_text_jKf74k",
