@@ -151,7 +151,7 @@
         "full_width": true,
         "content_width": "small",
         "text_position": "center",
-        "background": "#fffcfc",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": ""
       }
@@ -162,6 +162,7 @@
         "logo_mdGrjm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/mens-health-logo-png_seeklogo-221955.png",
             "logo_width": 300,
             "link": ""
           }
@@ -169,6 +170,7 @@
         "logo_7YGrnf": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/gq.png",
             "logo_width": 300,
             "link": ""
           }
@@ -176,6 +178,7 @@
         "logo_HAtMx4": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/forbes.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -183,6 +186,7 @@
         "logo_GeFENW": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/280072665_537548048085606_6180670225200830122_n.jpg",
             "logo_width": 300,
             "link": ""
           }
@@ -197,7 +201,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "VISTO SU :",
+        "title": "ILS PARLENT DE GRAANORD :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 4,
