@@ -38,7 +38,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#a3d4da",
+        "background": "#1a2751",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -48,7 +48,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": true,
-        "logo": "shopify://shop_images/Adobe_Express_-_file.png",
         "logo_max_width": 275,
         "logo_mobile_max_width": 90,
         "menu": "main-menu",
