@@ -83,11 +83,10 @@
         },
         "text": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "title": "About",
             "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
+            "enable_follow_on_shop": false
           }
         }
       },
@@ -101,7 +100,7 @@
         "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": true,
-        "show_locale_selector": true
+        "show_locale_selector": false
       }
     }
   },
