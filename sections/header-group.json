@@ -14,13 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
-          "type": "message",
-          "settings": {
-            "text": "Livraison express Offerte",
-            "url": ""
-          }
-        },
         "message_wxtQ7p": {
           "type": "message",
           "settings": {
@@ -30,15 +23,14 @@
         }
       },
       "block_order": [
-        "message",
         "message_wxtQ7p"
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
-        "navigation_mode": "scrolling",
+        "text_size": "text-base",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#1a2751",
+        "background": "#dd2d4a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }

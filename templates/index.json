@@ -87,29 +87,6 @@
         "logo_item_border": ""
       }
     },
-    "rich_text_UUpVnj": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_k4EeCh": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><em>« Libérez votre avantage naturel — Graanord canalise en permanence le champ magnétique de l'hématite pure, afin que vous conserviez une énergie maximale et une confiance masculine pendant les journées les plus longues et les défis les plus difficiles. »</em></p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_k4EeCh"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "logo_list_T7HWhC": {
       "type": "logo-list",
       "blocks": {
@@ -1267,7 +1244,6 @@
     "slideshow",
     "before-after-image",
     "press",
-    "rich_text_UUpVnj",
     "logo_list_T7HWhC",
     "video_Ab39zR",
     "impact_text_hpHNip",
