@@ -30,6 +30,7 @@
         "logo_wVy9kH": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Men_s_Health_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -37,6 +38,7 @@
         "logo_nyRnqd": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Womens-Health-logo-1024x207.png",
             "logo_width": 120,
             "link": ""
           }
@@ -44,6 +46,7 @@
         "logo_LXFhNM": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,6 +54,7 @@
         "logo_ek76Kg": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/gq-logo-png-transparent.png",
             "logo_width": 120,
             "link": ""
           }
@@ -94,21 +98,6 @@
         "overlay_opacity": 30
       }
     },
-    "image_with_text_overlay_T3TazJ": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "rich_text_8c8aKE": {
       "type": "rich-text",
       "blocks": {
@@ -136,6 +125,21 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_T3TazJ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     }
   },
