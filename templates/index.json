@@ -456,39 +456,11 @@
             "text_mt_mobile": 16,
             "text_color": "#000000"
           }
-        },
-        "button_FjDq7k": {
-          "type": "button",
-          "settings": {
-            "button": "LEARN MORE",
-            "button_url": "",
-            "button_custom": false,
-            "button_font": "josefin_sans_n4",
-            "button_size": 13,
-            "button_size_mobile": 13,
-            "button_height": 100,
-            "button_mt": 24,
-            "button_mt_mobile": 24,
-            "button_padding_vertical": 12,
-            "button_padding_vertical_mobile": 12,
-            "button_padding_horizontal": 30,
-            "button_padding_horizontal_mobile": 30,
-            "button_radius": 100,
-            "button_border_thickness": 1,
-            "button_style": "outline",
-            "button_color": "#000000",
-            "button_hover_color": "#FFFFFF",
-            "button_bg_color": "",
-            "button_bg_hover_color": "#000000",
-            "button_border_color": "#000000",
-            "button_border_hover_color": "#000000"
-          }
         }
       },
       "block_order": [
         "heading_wJPWmy",
-        "text_7QyA9L",
-        "button_FjDq7k"
+        "text_7QyA9L"
       ],
       "name": "SS - Image With Text #14",
       "settings": {
@@ -522,6 +494,104 @@
         "section_radius": 0,
         "lazy": true
       }
+    },
+    "imagewith_4tJQGF": {
+      "type": "imagewith",
+      "blocks": {
+        "heading_463wrf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Heading</h2>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 36,
+            "heading_size_mobile": 26,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_mt_mobile": 0,
+            "heading_color": "#000000"
+          }
+        },
+        "text_hdf3rW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 16,
+            "text_size_mobile": 14,
+            "text_mt": 24,
+            "text_mt_mobile": 16,
+            "text_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_463wrf",
+        "text_hdf3rW"
+      ],
+      "name": "SS - Image With Text #14",
+      "settings": {
+        "body_gap": 48,
+        "body_gap_mobile": 0,
+        "content_horizontal_align": "start",
+        "content_horizontal_align_mobile": "start",
+        "content_vertical_align": "end",
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 16,
+        "content_padding_horizontal": 32,
+        "content_padding_horizontal_mobile": 16,
+        "image_position": "right",
+        "image_position_mobile": "top",
+        "image_ratio": "square",
+        "image_ratio_mobile": "square",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 52,
+        "margin_bottom": 52,
+        "margin_horizontal": 0,
+        "margin_horizontal_mobile": 0,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "section_radius": 0,
+        "lazy": true
+      }
+    },
+    "1761436617a437d0a8": {
+      "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_JEgRRT": {
+          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_JEgRRT"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -534,6 +604,8 @@
     "multi_column_JnLcng",
     "featured_product_RdV4HC",
     "tabs_cDtf4f",
-    "imagewith_pT7a4G"
+    "imagewith_pT7a4G",
+    "imagewith_4tJQGF",
+    "1761436617a437d0a8"
   ]
 }
