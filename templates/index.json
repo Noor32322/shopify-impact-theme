@@ -371,6 +371,12 @@
             "heading_tag": "h3"
           }
         },
+        "text_48FcDH": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>27° angle for perfect positioning</strong></li><li><strong>91% report more responsive partners</strong></li><li><strong>Looks like regular décor - discreet</strong></li><li><strong>Makes uncomfortable positions enjoyable</strong></li><li><strong>Discreet packaging</strong></li></ul>"
+          }
+        },
         "liquid_BinVfQ": {
           "type": "liquid",
           "settings": {
@@ -392,6 +398,7 @@
       "block_order": [
         "liquid_7mMHqz",
         "title_pCFr7j",
+        "text_48FcDH",
         "liquid_BinVfQ",
         "buy_buttons_GCepDG"
       ],
