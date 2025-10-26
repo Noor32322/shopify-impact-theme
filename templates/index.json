@@ -283,13 +283,27 @@
     "multi_column_JnLcng": {
       "type": "multi-column",
       "blocks": {
+        "item_HLYfDc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_33.webp",
+            "column_size": "3",
+            "title": "Laura & James, together for 5 years",
+            "heading_tag": "h4",
+            "content": "<p>\"She used to feel pain, and we often had to stop… I felt terrible. But since we started using Liebora, everything has changed. We try new positions, she truly enjoys it, and I’ve gained so much confidence. It completely transformed our intimacy.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_LQXtRN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_28.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Michael & Sarah, married for 11 years",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><em>\"We never thought a simple pillow could make such a difference. It used to be complicated, but now there’s no more pain — and we’re having fun together again. We’re open to trying new things, laughing, and honestly… she’s finally getting everything she deserves every time.\"</em></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -298,10 +312,11 @@
         "item_grJRGw": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_30.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Emily & Ryan, together for 3 years",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"I used to notice she would tense up from pain — it held us both back. With Liebora, everything feels natural. She relaxes, lets go, and I love seeing that. We switch things up and bring excitement back into our intimate moments.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -310,10 +325,11 @@
         "item_gqGUqT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_29.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Jessica & Mark, married for 14 years",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>\"After all these years, we thought we’d seen it all. Liebora proved us wrong. No more pain, no more frustration — just shared pleasure. She completely surrenders, and it feels like we’re reliving the passion from the beginning… only better.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -321,6 +337,7 @@
         }
       },
       "block_order": [
+        "item_HLYfDc",
         "item_LQXtRN",
         "item_grJRGw",
         "item_gqGUqT"
