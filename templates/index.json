@@ -403,6 +403,14 @@
             "liquid": "<div class=\"countdown-timer-block\" countdown-timer-id=\"cm9ez2la1009x3mqa5z4maze5\"></div>"
           }
         },
+        "image_AGwRzC": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/34_90_56.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy_buttons_GCepDG": {
           "type": "buy_buttons",
           "settings": {
@@ -423,6 +431,7 @@
         "liquid_BinVfQ",
         "kaching_bundles_app_block_bTHqFW",
         "liquid_arxiDF",
+        "image_AGwRzC",
         "buy_buttons_GCepDG"
       ],
       "name": "Featured product",
