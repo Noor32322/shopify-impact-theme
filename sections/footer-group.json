@@ -94,7 +94,7 @@
         "wave_animation": true,
         "wave_rotate": false,
         "wave_color": "#dd2d4a",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#dd2d4a",
         "margin_top": 0,
@@ -111,13 +111,6 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "",
-            "show_menu_title": false
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -125,11 +118,26 @@
             "content": "<p>Contact us through the form on our <strong>Contact</strong> page or by email at <a><strong>contact@liebora.com</strong></a>.</p><p><strong>Hours:</strong><br/><br/>Monday–Friday: 9:00 AM–12:00 PM and 2:00 PM–6:00 PM<br/>Saturday–Sunday: 10:00 AM–12:00 PM</p>",
             "enable_follow_on_shop": false
           }
+        },
+        "links_CHYQbh": {
+          "type": "links",
+          "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true
+          }
+        },
+        "links": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
-        "links",
-        "text"
+        "text",
+        "links_CHYQbh",
+        "links"
       ],
       "settings": {
         "show_social_media": true,
