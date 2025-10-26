@@ -752,11 +752,11 @@
         "heading_463wrf": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Heading</h2>",
+            "heading": "<p><strong>Positions you thought were impossible… finally possible.</strong></p>",
             "heading_custom": false,
             "heading_font": "josefin_sans_n4",
             "heading_size": 36,
-            "heading_size_mobile": 26,
+            "heading_size_mobile": 24,
             "heading_height": 130,
             "heading_mt": 0,
             "heading_mt_mobile": 0,
@@ -766,7 +766,7 @@
         "text_hdf3rW": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p>The <strong>Liebora™ Pillow</strong> frees your movements, gently aligns angles, and makes every position feel smooth and natural. Enjoy an <strong>intense missionary</strong>, <strong>effortless cowgirl</strong>, <strong>comfortable 69</strong>, <strong>pain-free side positions</strong>… and that’s just the beginning.</p><p>With our <strong>exclusive eBook — “50 Positions”</strong>, you’ll discover even more ways to surprise your partner and <strong>reignite the spark</strong> in your relationship.</p>",
             "text_custom": false,
             "text_font": "josefin_sans_n4",
             "text_size": 16,
