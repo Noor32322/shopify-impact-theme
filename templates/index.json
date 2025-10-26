@@ -269,7 +269,7 @@
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 56,
-        "margin_bottom": 0,
+        "margin_bottom": 8,
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_horizontal": 0,
@@ -283,19 +283,6 @@
     "multi_column_JnLcng": {
       "type": "multi-column",
       "blocks": {
-        "item_HLYfDc": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sans_titre_800_x_800_px_33.webp",
-            "column_size": "3",
-            "title": "Laura & James, together for 5 years",
-            "heading_tag": "h4",
-            "content": "<p>\"She used to feel pain, and we often had to stop… I felt terrible. But since we started using Liebora, everything has changed. We try new positions, she truly enjoys it, and I’ve gained so much confidence. It completely transformed our intimacy.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_LQXtRN": {
           "type": "item",
           "settings": {
@@ -304,6 +291,19 @@
             "title": "Michael & Sarah, married for 11 years",
             "heading_tag": "h4",
             "content": "<p><em>\"We never thought a simple pillow could make such a difference. It used to be complicated, but now there’s no more pain — and we’re having fun together again. We’re open to trying new things, laughing, and honestly… she’s finally getting everything she deserves every time.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_HLYfDc": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Sans_titre_800_x_800_px_33.webp",
+            "column_size": "3",
+            "title": "Laura & James, together for 5 years",
+            "heading_tag": "h4",
+            "content": "<p>\"She used to feel pain, and we often had to stop… I felt terrible. But since we started using Liebora, everything has changed. We try new positions, she truly enjoys it, and I’ve gained so much confidence. It completely transformed our intimacy.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -337,10 +337,13 @@
         }
       },
       "block_order": [
-        "item_HLYfDc",
         "item_LQXtRN",
+        "item_HLYfDc",
         "item_grJRGw",
         "item_gqGUqT"
+      ],
+      "custom_css": [
+        ".section-full {padding-top: 10px;}"
       ],
       "name": "Multi-column",
       "settings": {
@@ -732,7 +735,7 @@
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 52,
-        "margin_bottom": 52,
+        "margin_bottom": 0,
         "margin_horizontal": 0,
         "margin_horizontal_mobile": 0,
         "padding_top": 0,
@@ -792,6 +795,7 @@
         "content_padding_vertical_mobile": 16,
         "content_padding_horizontal": 32,
         "content_padding_horizontal_mobile": 16,
+        "image": "shopify://shop_images/CosmoLED_-_2025-10-26T220513.480.png",
         "image_position": "left",
         "image_position_mobile": "top",
         "image_ratio": "square",
