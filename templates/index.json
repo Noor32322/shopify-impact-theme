@@ -421,6 +421,14 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_GqmcDD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Vitalisence_14.png",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -432,7 +440,8 @@
         "kaching_bundles_app_block_bTHqFW",
         "liquid_arxiDF",
         "image_AGwRzC",
-        "buy_buttons_GCepDG"
+        "buy_buttons_GCepDG",
+        "image_GqmcDD"
       ],
       "name": "Featured product",
       "settings": {
