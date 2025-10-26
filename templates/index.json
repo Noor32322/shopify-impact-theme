@@ -683,11 +683,11 @@
         "heading_wJPWmy": {
           "type": "heading",
           "settings": {
-            "heading": "<h2>Heading</h2>",
+            "heading": "<p><strong>Why can’t you live without each other anymore?</strong></p>",
             "heading_custom": false,
             "heading_font": "josefin_sans_n4",
             "heading_size": 36,
-            "heading_size_mobile": 26,
+            "heading_size_mobile": 24,
             "heading_height": 130,
             "heading_mt": 0,
             "heading_mt_mobile": 0,
@@ -697,7 +697,7 @@
         "text_7QyA9L": {
           "type": "text",
           "settings": {
-            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "text": "<p><strong>Liebora™</strong> transforms your <strong>intimacy through science</strong>. Say goodbye to <strong>discomfort</strong> and make room for <strong>shared pleasure</strong>. Rediscover that <strong>deep connection</strong> that makes your <strong>heart race</strong> — and the <strong>passion</strong> that makes your <strong>relationship truly unique</strong>.</p>",
             "text_custom": false,
             "text_font": "josefin_sans_n4",
             "text_size": 16,
@@ -723,6 +723,7 @@
         "content_padding_vertical_mobile": 16,
         "content_padding_horizontal": 32,
         "content_padding_horizontal_mobile": 16,
+        "image": "shopify://shop_images/Video.webp",
         "image_position": "right",
         "image_position_mobile": "top",
         "image_ratio": "square",
