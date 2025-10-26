@@ -443,6 +443,9 @@
         "buy_buttons_GCepDG",
         "image_GqmcDD"
       ],
+      "custom_css": [
+        ".section-full {padding-bottom: 6px;}"
+      ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
