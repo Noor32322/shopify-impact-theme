@@ -296,6 +296,19 @@
             "link_style": "link"
           }
         },
+        "item_grJRGw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Native_ADs.webp",
+            "column_size": "3",
+            "title": "Emily & Ryan, together for 3 years",
+            "heading_tag": "h4",
+            "content": "<p>\"I used to notice she would tense up from pain — it held us both back. With Liebora, everything feels natural. She relaxes, lets go, and I love seeing that. We switch things up and bring excitement back into our intimate moments.\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_HLYfDc": {
           "type": "item",
           "settings": {
@@ -304,19 +317,6 @@
             "title": "Laura & James, together for 5 years",
             "heading_tag": "h4",
             "content": "<p>\"She used to feel pain, and we often had to stop… I felt terrible. But since we started using Liebora, everything has changed. We try new positions, she truly enjoys it, and I’ve gained so much confidence. It completely transformed our intimacy.\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_grJRGw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sans_titre_800_x_800_px_30.webp",
-            "column_size": "3",
-            "title": "Emily & Ryan, together for 3 years",
-            "heading_tag": "h4",
-            "content": "<p>\"I used to notice she would tense up from pain — it held us both back. With Liebora, everything feels natural. She relaxes, lets go, and I love seeing that. We switch things up and bring excitement back into our intimate moments.\"</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -338,8 +338,8 @@
       },
       "block_order": [
         "item_LQXtRN",
-        "item_HLYfDc",
         "item_grJRGw",
+        "item_HLYfDc",
         "item_gqGUqT"
       ],
       "custom_css": [
