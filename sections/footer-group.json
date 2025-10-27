@@ -115,7 +115,7 @@
           "type": "text",
           "settings": {
             "title": "Need Help?",
-            "content": "<p>Contact us through the form on our <strong>Contact</strong> page or by email at <a><strong>contact@liebora.com</strong></a>.</p><p><strong>Hours:</strong><br/><br/>Monday–Friday: 9:00 AM–12:00 PM and 2:00 PM–6:00 PM<br/>Saturday–Sunday: 10:00 AM–12:00 PM</p>",
+            "content": "<p>Contact us through the form on our <strong>Contact</strong> page or by email at <a><strong>contact@liebora-us.com</strong></a>.</p><p><strong>Hours:</strong><br/><br/>Monday–Friday: 9:00 AM–12:00 PM and 2:00 PM–6:00 PM<br/>Saturday–Sunday: 10:00 AM–12:00 PM</p>",
             "enable_follow_on_shop": false
           }
         },
