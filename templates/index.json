@@ -957,9 +957,9 @@
           "settings": {
             "only_photos": false,
             "hide_thumbnails": false,
-            "product_handle": "",
+            "product_handle": "the-liebora™-pillow",
             "aggregated": true,
-            "data-limit": 20,
+            "data-limit": 4,
             "maxwidth": 1080,
             "is_sample": true
           }
