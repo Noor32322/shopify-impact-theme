@@ -13,18 +13,6 @@
   "sections": {
     "176298243872a81e3c": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_b4e4e1c_tmTfAm": {
-          "type": "ai_gen_block_b4e4e1c",
-          "settings": {
-            "image": "shopify://shop_images/MEGA_DESTOCKAGE.jpg"
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_b4e4e1c_tmTfAm"
-      ],
       "settings": {}
     },
     "newsletter-popup": {
