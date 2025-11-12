@@ -14,6 +14,22 @@
       "disabled": true,
       "settings": {}
     },
+    "scrolling_text_4YExRQ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "FIN DES OFFRES A MINUIT",
+        "text_size": "small",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 15,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#837f7f",
+        "text_gradient": "linear-gradient(245deg, rgba(33, 60, 249, 1), rgba(44, 249, 189, 1) 14%, rgba(52, 153, 199, 1) 15%)"
+      }
+    },
     "featured_collection_pVbPBY": {
       "type": "featured-collection",
       "name": "Featured collection",
@@ -43,6 +59,7 @@
   },
   "order": [
     "main",
+    "scrolling_text_4YExRQ",
     "featured_collection_pVbPBY"
   ]
 }
