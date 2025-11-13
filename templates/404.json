@@ -37,7 +37,7 @@
       "settings": {
         "full_width": true,
         "text": "FIN DES OFFRES A MINUIT",
-        "text_size": "small",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 15,
@@ -52,18 +52,25 @@
       "name": "Featured collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "iphone-15",
+          "playstation-5-standard-edition",
+          "iphone-17-pro",
+          "airpods-pro-3-mfhp4zm-a",
+          "iphone-16",
+          "iphone-15-pro-1"
+        ],
         "full_width": true,
-        "stack_products": true,
+        "stack_products": false,
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Featured collection",
+        "title": "Les plus populaires",
         "content": "",
         "link_url": "",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -72,12 +79,82 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "collection_list_6qgF8d": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_Q6RYJp": {
+          "type": "collection",
+          "settings": {
+            "collection": "apple",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 15
+          }
+        },
+        "collection_eeVxq9": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_YD4kgY": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_Q6RYJp",
+        "collection_eeVxq9",
+        "collection_YD4kgY"
+      ],
+      "name": "Collection list",
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "Collection list",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
     "17629845762d368d23",
     "scrolling_text_4YExRQ",
-    "featured_collection_pVbPBY"
+    "featured_collection_pVbPBY",
+    "collection_list_6qgF8d"
   ]
 }
