@@ -98,6 +98,7 @@
         "item_XKAJ4r": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ceinture-transportatrice-d-entrepot-avec-boites.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Comment faisons nous ?",
