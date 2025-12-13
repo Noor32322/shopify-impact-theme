@@ -20,6 +20,7 @@
         "ai_gen_block_b608729_i7N9z4": {
           "type": "ai_gen_block_b608729",
           "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_4.png",
             "border_radius": 0
           },
           "blocks": {}
@@ -52,12 +53,9 @@
       "settings": {
         "collection": "",
         "products": [
-          "iphone-15",
-          "playstation-5-standard-edition",
-          "iphone-15-pro-1",
-          "iphone-17-pro",
-          "airpods-pro-3-mfhp4zm-a",
-          "iphone-16"
+          "airpods-max-noir",
+          "iphone-16-256-go-noir",
+          "iphone-16-256-go-blanc"
         ],
         "full_width": true,
         "stack_products": false,
@@ -66,7 +64,7 @@
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "Les plus populaires",
+        "title": "",
         "content": "",
         "link_url": "",
         "link_text": "",
@@ -130,6 +128,7 @@
         "collection_eeVxq9",
         "collection_YD4kgY"
       ],
+      "disabled": true,
       "name": "Collection list",
       "settings": {
         "full_width": true,
@@ -154,6 +153,7 @@
         "item_gqeCcb": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/411b4691-5e64-4dd2-802d-48bbca3108f5.png",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Qui sommes nous ?",
