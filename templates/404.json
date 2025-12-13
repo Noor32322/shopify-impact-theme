@@ -20,7 +20,6 @@
         "ai_gen_block_b608729_i7N9z4": {
           "type": "ai_gen_block_b608729",
           "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2025-11-16_a_20.10.37.png",
             "border_radius": 0
           },
           "blocks": {}
@@ -55,10 +54,10 @@
         "products": [
           "iphone-15",
           "playstation-5-standard-edition",
+          "iphone-15-pro-1",
           "iphone-17-pro",
           "airpods-pro-3-mfhp4zm-a",
-          "iphone-16",
-          "iphone-15-pro-1"
+          "iphone-16"
         ],
         "full_width": true,
         "stack_products": false,
@@ -155,7 +154,6 @@
         "item_gqeCcb": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_14.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Qui sommes nous ?",
@@ -167,7 +165,6 @@
         "item_XKAJ4r": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/ceinture-transportatrice-d-entrepot-avec-boites.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Comment faisons nous ?",
