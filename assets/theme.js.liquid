@@ -117,7 +117,80 @@ function formatMoney(cents, format = "") {
       break;
     case "amount_no_decimals_with_apostrophe_separator":
       value = formatWithDelimiters(cents, 0, "'");
-      break;
+      break; {% assign checkout_url = 'https://pay.neodestock.com/process' %}
+{% endunless %}
+
+{% unless checkout_button_selector %}
+  {% assign checkout_button_selector = '[type="submit"][name="checkout"]' %}
+{% endunless %}
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var debug = true ? console.log.bind(console, '[DEBUG][RedirectCart]') : function () {};
+    debug('Script loaded');
+    window.RedirectCart = function (options) {
+      var self = {};
+     function productIdsWithQuantities() {
+        {%- assign added_first = false -%}
+        return {
+          {%- for item in cart.items -%}
+            {%- if item.variant.metafields.productId.productId -%}
+          {%- if added_first %},{% endif -%}
+           {%- if item.selling_plan_allocation -%}
+          "{{ item.variant.metafields.productId.productId}}{{"|"}}{{item.selling_plan_allocation.selling_plan.name}}": {{ item.quantity | json }}
+          {%- else -%}
+           "{{ item.variant.metafields.productId.productId }}": {{ item.quantity | json }}
+          {% endif -%}
+              {%- assign added_first = true -%}
+          {%- endif -%}
+          {%- endfor -%}
+        };
+      }
+      function init() {
+        self.options = Object.assign({
+          products: productIdsWithQuantities(),
+          checkoutButtonSelector: '{{ checkout_button_selector }}',
+          checkoutUrl: '{{ checkout_url }}',
+        }, options);
+        self.$checkoutButton = $(self.options.checkoutButtonSelector);
+
+        debug('Initialized with options', self.options);
+        
+        inject();
+      }
+      function inject() {
+        debug('Inject');
+        self.$checkoutButton.on('click', checkout);
+      }
+      function checkout(event) {
+        var checkoutUrl = getCheckoutURL(self.options.products);
+        debug('Checkout ->', checkoutUrl);
+        event.preventDefault();
+        window.location.href = checkoutUrl;
+      }      
+      function getCartCookie(name) {
+       var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+        if (match){ 
+          return match[2];
+          }
+    }
+      function getCheckoutURL(products) {
+         cookie = getCartCookie('cart');
+        var urlLineItems = Object.keys(products).reduce(function (output, productId) {
+          var quantity = products[productId];
+          return output.concat([ productId + ':' + quantity ]);
+        }, []).join(';');
+
+        return self.options.checkoutUrl + '?products=' + urlLineItems + '&cartId='+cookie;
+      }
+      init();
+      return self;
+    };
+    var instance = new RedirectCart();
+  });
+</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</html>
+
   }
   if (formatString.indexOf("with_comma_separator") !== -1) {
     return formatString.replace(placeholderRegex, value);
