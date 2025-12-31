@@ -80,7 +80,7 @@
       "view_product": "Voir produit",
       "quick_add": "+ Ajouter",
       "add_to_cart_short": "+ Ajouter",
-      "add_to_cart_button": "Pagar ahora",
+      "add_to_cart_button": "Acheter maintenant",
       "pre_order_button": "Pré-commander",
       "sold_out_button": "En rupture",
       "unavailable_button": "Indisponible",
@@ -433,12 +433,12 @@
         "cookie_preferences": " "
       },
       "general": {
-        "continue_to_review": "Pagar ahora",
-        "pay_now_button_label": "Pagar ahora",
+        "continue_to_review": "Acheter maintenant",
+        "pay_now_button_label": "Acheter maintenant",
         "choose_shipping_method": "Elige el método de envío.",
         "choose_payment_method": "Elige el método de pago",
         "choose_billing_address": "Elige la dirección de facturación.",
-        "complete_purchase_button_label": "Pagar ahora"
+        "complete_purchase_button_label": "Acheter maintenant"
       }
     }
   }
