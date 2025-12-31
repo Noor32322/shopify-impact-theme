@@ -127,16 +127,9 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "Need Help?",
-            "content": "",
-            "enable_follow_on_shop": false
-          }
-        },
         "links_CHYQbh": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "main-menu",
             "show_menu_title": true
@@ -144,9 +137,18 @@
         },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true
+          }
+        },
+        "text_G4AyRQ": {
+          "type": "text",
+          "settings": {
+            "title": "Contact",
+            "content": "<p>contact@neodestock.shop</p><p>+1 551-305-4805</p><p>200 Broadway Blvd NE, Albuquerque, NM 87102, USA</p>",
+            "enable_follow_on_shop": true
           }
         },
         "links_Hchefx": {
@@ -155,21 +157,13 @@
             "menu": "policy-pages",
             "show_menu_title": true
           }
-        },
-        "links_X4bz6E": {
-          "type": "links",
-          "settings": {
-            "menu": "contact-neodestock-shop-1-551-305-4805-200-broadway-blvd-ne-albuquerque-nm-87102-usa",
-            "show_menu_title": true
-          }
         }
       },
       "block_order": [
-        "text",
         "links_CHYQbh",
         "links",
-        "links_Hchefx",
-        "links_X4bz6E"
+        "text_G4AyRQ",
+        "links_Hchefx"
       ],
       "settings": {
         "show_social_media": true,
