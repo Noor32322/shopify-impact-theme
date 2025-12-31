@@ -47,27 +47,27 @@
         "text_gradient": "linear-gradient(245deg, rgba(33, 60, 249, 1), rgba(44, 249, 189, 1) 14%, rgba(52, 153, 199, 1) 15%)"
       }
     },
-    "featured_collection_pVbPBY": {
+    "featured_collection_hh7E8W": {
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
         "collection": "",
         "products": [
-          "airpods-max-noir",
           "lphone-16-256-go-noir",
-          "lphone-16-256-go-blanc"
+          "lphone-16-256-go-blanc",
+          "airpods-max-noir"
         ],
         "full_width": true,
-        "stack_products": false,
+        "stack_products": true,
         "show_progress_bar": false,
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 3,
         "subheading": "",
-        "title": "",
+        "title": "Featured collection",
         "content": "",
         "link_url": "",
-        "link_text": "",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -195,7 +195,7 @@
     "main",
     "17629845762d368d23",
     "scrolling_text_4YExRQ",
-    "featured_collection_pVbPBY",
+    "featured_collection_hh7E8W",
     "collection_list_6qgF8d",
     "multiple_images_with_text_jGiXXt"
   ]
