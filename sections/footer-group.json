@@ -148,12 +148,20 @@
             "menu": "footer",
             "show_menu_title": true
           }
+        },
+        "links_Hchefx": {
+          "type": "links",
+          "settings": {
+            "menu": "policy-pages",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
         "text",
         "links_CHYQbh",
-        "links"
+        "links",
+        "links_Hchefx"
       ],
       "settings": {
         "show_social_media": true,
