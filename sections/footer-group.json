@@ -155,13 +155,21 @@
             "menu": "policy-pages",
             "show_menu_title": true
           }
+        },
+        "links_X4bz6E": {
+          "type": "links",
+          "settings": {
+            "menu": "contact-neodestock-shop-1-551-305-4805-200-broadway-blvd-ne-albuquerque-nm-87102-usa",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
         "text",
         "links_CHYQbh",
         "links",
-        "links_Hchefx"
+        "links_Hchefx",
+        "links_X4bz6E"
       ],
       "settings": {
         "show_social_media": true,
