@@ -92,6 +92,20 @@
             "title": "Satisfait ou remboursé pendant 30 jours",
             "content": "<p>Essayer sans risque pendant 30 jours, pour un retour sans frais vous aurez simplement à contacter l'assistance ou contactez notre service après vente à cette adresse : contact@neodestock.shop</p>"
           }
+        },
+        "collapsible_text_MehxY7": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Service client 7j/7",
+            "content": "<p><strong>Notre équipe est à votre disposition 7 jours sur 7 pour toute question.</strong></p><p>Vous pouvez nous contacter par e-mail aux horaires suivants :</p><ul><li><strong>Du lundi au vendredi : de 9h00 à 12h00 et de 14h00 à 18h00</strong><br/></li><li><strong>Samedi et dimanche : de 10h00 à 12h00</strong><br/></li></ul><p>N’hésitez pas à nous contacter.</p>"
+          }
+        },
+        "collapsible_text_kwtbjm": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison offerte à domicile",
+            "content": "<p>Profitez d'une livraison rapide <strong>(5 à 8 jours)</strong> et gratuite.</p>"
+          }
         }
       },
       "block_order": [
@@ -107,7 +121,9 @@
         "quantity_selector",
         "liquid_DCiGGr",
         "buy_buttons",
-        "collapsible_text_3gxX3c"
+        "collapsible_text_3gxX3c",
+        "collapsible_text_MehxY7",
+        "collapsible_text_kwtbjm"
       ],
       "settings": {
         "full_width": true,
