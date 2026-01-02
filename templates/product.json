@@ -85,6 +85,13 @@
             "payment_button_background": "#1a1a1a",
             "payment_button_text_color": "#1a1a1a"
           }
+        },
+        "collapsible_text_3gxX3c": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Satisfait ou remboursé pendant 30 jours",
+            "content": "<p>Essayer sans risque pendant 30 jours, pour un retour sans frais vous aurez simplement à contacter l'assistance ou contactez notre service après vente à cette adresse : contact@neodestock.shop</p>"
+          }
         }
       },
       "block_order": [
@@ -99,7 +106,8 @@
         "variant_picker",
         "quantity_selector",
         "liquid_DCiGGr",
-        "buy_buttons"
+        "buy_buttons",
+        "collapsible_text_3gxX3c"
       ],
       "settings": {
         "full_width": true,
