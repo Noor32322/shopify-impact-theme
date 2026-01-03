@@ -44,10 +44,6 @@
           "type": "payment_terms",
           "settings": {}
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -115,7 +111,6 @@
         "price",
         "rating",
         "payment_terms",
-        "separator",
         "description",
         "variant_picker",
         "quantity_selector",
@@ -181,43 +176,13 @@
             "text": "Reçu en 5 jours et c'est bel et bien de l'authentique reçu sous blister, je recommande.",
             "author_date": "Kamel 10/12/2025"
           }
-        },
-        "slide_LEzpgm": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_3wRkhq": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_7P6yBQ": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
         }
       },
       "block_order": [
         "slide_PEWWKV",
         "slide_eVK6yg",
         "slide_fePYXT",
-        "slide_z4PFpr",
-        "slide_LEzpgm",
-        "slide_3wRkhq",
-        "slide_7P6yBQ"
+        "slide_z4PFpr"
       ],
       "name": "SS - Testimonial #8",
       "settings": {
