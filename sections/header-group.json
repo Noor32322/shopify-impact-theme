@@ -27,11 +27,19 @@
             "text": "Fin des Promos à Minuit",
             "url": ""
           }
+        },
+        "message_dPJ69y": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message_wxtQ7p",
-        "message_KbL7VD"
+        "message_KbL7VD",
+        "message_dPJ69y"
       ],
       "settings": {
         "enable_sticky": false,
