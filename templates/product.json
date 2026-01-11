@@ -230,37 +230,6 @@
       "name": "Image 1080x1080",
       "settings": {}
     },
-    "multiple_images_with_text_B9a79i": {
-      "type": "multiple-images-with-text",
-      "blocks": {
-        "item_FtG6cg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/b97186c987474f01ab707c15d6c57981-ezgif.com-video-to-gif-converter_1.gif",
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Questa spazzola fa (davvero) la differenza nella tua routine di bellezza",
-            "content": "<p><strong>Grazie alle sue setole a memoria di forma, NOKAH riproduce i gesti del drenaggio linfatico in soli 3 minuti al giorno per sgonfiare, levigare e ridefinire il viso.</strong></p><p><strong>Rassoda e scolpisce l’ovale</strong> – attiva la circolazione e favorisce il drenaggio naturale.</p><p><strong>Adatta alle pelli sensibili</strong> – setole ultra-morbide, nessuna sensazione di tiraggio né arrossamenti.</p><p><strong>Risultati rapidi</strong> – viso visibilmente meno gonfio fin dalle prime applicazioni.</p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "item_FtG6cg"
-      ],
-      "name": "Multiple images with text",
-      "settings": {
-        "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "before_after_image_3xcX6k": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -274,8 +243,8 @@
         "expand_image": false,
         "text_position": "start",
         "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
+        "before_text": "Prima",
+        "after_text": "Dopo",
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
@@ -286,26 +255,46 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "related-products": {
-      "type": "related-products",
+    "multiple_images_with_text_p4jrTQ": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_fXUkA7": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Carolina",
+            "content": "<p><strong>Avevo spesso il viso gonfio al risveglio, soprattutto nella zona delle guance e della mandibola. Ho iniziato a usarla 3 volte a settimana e, fin dalle prime applicazioni, ho notato una vera differenza.</strong></p><p><strong>Il mio viso è visibilmente meno gonfio, più riposato e i lineamenti sono più definiti, soprattutto al mattino. È diventato un piccolo rituale semplice che integro facilmente nella mia routine.</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_yVQrWC": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_fXUkA7",
+        "item_yVQrWC"
+      ],
+      "name": "Multiple images with text",
       "settings": {
-        "recommendations_count": 6,
-        "products": [],
         "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "1744552521216ae5f7": {
@@ -387,6 +376,79 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "multiple_images_with_text_B9a79i": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_FtG6cg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/b97186c987474f01ab707c15d6c57981-ezgif.com-video-to-gif-converter_1.gif",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Questa spazzola fa (davvero) la differenza nella tua routine di bellezza",
+            "content": "<p><strong>Grazie alle sue setole a memoria di forma, NOKAH riproduce i gesti del drenaggio linfatico in soli 3 minuti al giorno per sgonfiare, levigare e ridefinire il viso.</strong></p><p><strong>Rassoda e scolpisce l’ovale</strong> – attiva la circolazione e favorisce il drenaggio naturale.</p><p><strong>Adatta alle pelli sensibili</strong> – setole ultra-morbide, nessuna sensazione di tiraggio né arrossamenti.</p><p><strong>Risultati rapidi</strong> – viso visibilmente meno gonfio fin dalle prime applicazioni.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_FtG6cg"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multiple_images_with_text_pj9pNH": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_UN9kzR": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_xYdpCh": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_UN9kzR",
+        "item_xYdpCh"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -394,13 +456,14 @@
     "logo_list_XQnmCn",
     "image_with_text_overlay_cVcWWW",
     "blocks_ECQmEK",
-    "multiple_images_with_text_B9a79i",
     "before_after_image_3xcX6k",
-    "related-products",
+    "multiple_images_with_text_p4jrTQ",
     "1744552521216ae5f7",
     "17452927607a10b496",
     "17457974126f60246c",
     "17521112370f773ad2",
-    "1763065814a495630a"
+    "1763065814a495630a",
+    "multiple_images_with_text_B9a79i",
+    "multiple_images_with_text_pj9pNH"
   ]
 }
