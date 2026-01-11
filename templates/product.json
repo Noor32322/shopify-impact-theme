@@ -21,7 +21,7 @@
         "liquid_QFYCDk": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #00000\nf;\n  --social-proof-star-color: #0fb87f;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.9/5 par +9200 clients !\n  </span>\n</div>\n\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #00000\nf;\n  --social-proof-star-color: #0fb87f;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Valutato 4,9/5 da oltre 9.200 clienti !\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "badges": {
@@ -138,213 +138,87 @@
         "input_text_color": ""
       }
     },
-    "trsisi_gnyTt4": {
-      "type": "trsisi",
+    "logo_list_XQnmCn": {
+      "type": "logo-list",
       "blocks": {
-        "slide_PEWWKV": {
-          "type": "slide",
+        "logo_HmneL8": {
+          "type": "logo",
           "settings": {
-            "stars_count": 5,
-            "heading": "Le meilleur site de destockage",
-            "text": "Je recommande Neo pour tout d'abord les prix en destockage, je remercie leur travail dont ils sont les seul à faire actuellement en France.",
-            "author_date": "Samia 30/10/2025"
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "slide_eVK6yg": {
-          "type": "slide",
+        "logo_8fVNEk": {
+          "type": "logo",
           "settings": {
-            "stars_count": 5,
-            "heading": "C'est bien de l'authentique 😍",
-            "text": "j'étais sceptique au debut mais j'ai vu que c'était satisfait ou remboursé et que c'etait apparement de l'authentique et je n'ai pas été deçu j'ai refait le Noel de ma famille !",
-            "author_date": "Sandra 29/12/2025"
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "slide_fePYXT": {
-          "type": "slide",
+        "logo_a4VLHY": {
+          "type": "logo",
           "settings": {
-            "stars_count": 5,
-            "heading": "Livraison rapide et simple",
-            "text": "J'ai reçu mon lphone en 4 jours tout etait simplifié apres le passage de la commande grâce au numéro de suivi envoyé directement par mail, je remercie Neo pour cette efficacité.",
-            "author_date": "Ethan 20/12/2025"
+            "logo": "shopify://shop_images/Caudalie-Logo.png",
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "slide_z4PFpr": {
-          "type": "slide",
+        "logo_fKKFCq": {
+          "type": "logo",
           "settings": {
-            "stars_count": 5,
-            "heading": "Je recommande 👍",
-            "text": "Reçu en 5 jours et c'est bel et bien de l'authentique reçu sous blister, je recommande.",
-            "author_date": "Kamel 10/12/2025"
+            "logo": "shopify://shop_images/VOGUE_LOGO.svg",
+            "logo_width": 120,
+            "link": ""
           }
         }
       },
       "block_order": [
-        "slide_PEWWKV",
-        "slide_eVK6yg",
-        "slide_fePYXT",
-        "slide_z4PFpr"
+        "logo_HmneL8",
+        "logo_8fVNEk",
+        "logo_a4VLHY",
+        "logo_fKKFCq"
       ],
-      "name": "SS - Testimonial #8",
+      "name": "Logo list",
       "settings": {
-        "heading": "Nos clients recommandent NeoDestock",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 56,
-        "heading_size_mobile": 24,
-        "heading_height": 130,
-        "heading_align": "center",
-        "rating_text": "Excellent",
-        "rating_text_custom": false,
-        "rating_text_font": "josefin_sans_n4",
-        "rating_text_size": 24,
-        "rating_text_size_mobile": 20,
-        "rating_text_height": 130,
-        "rating_text_mt": 16,
-        "rating": 4.7,
-        "rating_hide": false,
-        "rating_text_hide": false,
-        "rating_align": "center",
-        "stars_count": 5,
-        "stars_size": 28,
-        "stars_size_mobile": 24,
-        "stars_align": "center",
-        "text": "<p>Basé sur 2500 avis vérifié <strong>TrustPilot</strong></p>",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 20,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_align": "center",
-        "text_mt": 16,
-        "slider_width": 80,
-        "slider_view": 3,
-        "slider_view_mobile": 1.2,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slider_mt": 36,
-        "card_padding_vertical": 32,
-        "card_padding_vertical_mobile": 24,
-        "card_padding_horizontal": 40,
-        "card_padding_horizontal_mobile": 24,
-        "card_radius": 16,
-        "card_border_thickness": 0,
-        "card_shadow": true,
-        "card_heading_custom": false,
-        "card_heading_font": "josefin_sans_n4",
-        "card_heading_size": 24,
-        "card_heading_size_mobile": 20,
-        "card_heading_height": 130,
-        "card_heading_align": "center",
-        "card_heading_mt": 16,
-        "card_text_custom": false,
-        "card_text_font": "josefin_sans_n4",
-        "card_text_size": 14,
-        "card_text_size_mobile": 14,
-        "card_text_height": 150,
-        "card_text_align": "center",
-        "card_text_mt": 16,
-        "card_text_more": "View More",
-        "card_text_less": "View Less",
-        "card_count_words": 20,
-        "card_author_date_text_custom": false,
-        "card_author_date_text_font": "josefin_sans_n4",
-        "card_author_date_text_size": 16,
-        "card_author_date_text_size_mobile": 16,
-        "card_author_date_text_height": 130,
-        "card_author_date_text_align": "center",
-        "card_author_date_text_mt": 16,
-        "arrow_size": 50,
-        "arrow_size_mobile": 50,
-        "arrow_icon_size": 28,
-        "arrow_icon_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 12,
-        "dots_size_mobile": 12,
-        "dots_show_desktop": false,
-        "dots_show_mobile": false,
-        "button": "View All",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_align": "center",
-        "button_mt": 16,
-        "button_padding_vertical": 20,
-        "button_padding_horizontal": 16,
-        "button_radius": 8,
-        "button_border_thickness": 0,
-        "button_color": "#ffffff",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#000000",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#000000",
-        "card_bg_color": "#ffffff",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#00b67a",
-        "card_heading_color": "#000000",
-        "card_text_color": "#000000",
-        "card_author_date_text_color": "#000000",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#ffffff",
-        "arrow_border_hover_color": "#ffffff",
-        "dots_color": "#000000",
-        "heading_color": "#000000",
-        "rating_text_color": "#000000",
-        "stars_bg_color": "#00b67a",
-        "stars_color": "#ffffff",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "linear-gradient(180deg, rgba(206, 239, 199, 1), rgba(255, 255, 255, 1) 100%)",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
         "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
+        "stack_mobile": true,
+        "title": "Visto su",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
+    },
+    "blocks_ECQmEK": {
+      "type": "_blocks",
+      "name": "Image 1080x1080",
+      "settings": {}
     },
     "multiple_images_with_text_B9a79i": {
       "type": "multiple-images-with-text",
       "blocks": {
-        "item_nKiKMH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/411b4691-5e64-4dd2-802d-48bbca3108f5.png",
-            "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Qui sommes-nous ?",
-            "content": "<p>NEOdestock, c’est avant tout l’histoire d’une rencontre entre trois passionnés : <strong>Hélène (40 ans)</strong>, <strong>Anaïs (29 ans)</strong> et <strong>Agostino (53 ans)</strong>. Pendant des années, chacun d’eux a travaillé dans le déstockage haut de gamme et organisait déjà, à l’étranger, des <strong>ventes privées exclusives</strong> d’appareils électroniques neufs issus de circuits officiels. Forts de cette expérience et convaincus qu’en France aussi, le grand public mérite d’accéder à des produits premium à prix cassés, ils ont décidé de s’associer pour créer NEOdestock.</p><p>L’objectif était simple : <strong>rendre accessible ce qui, jusque-là, était réservé à quelques initiés</strong>. En quelques mois seulement d’ouverture, la boutique a connu un succès fulgurant : <strong>près de 55 000 clients satisfaits</strong>, des milliers de commandes expédiées, et <strong>déjà quatre ruptures de stock</strong> de catalogue au total.</p><p>Aujourd’hui, NEOdestock continue de grandir avec la même mission : proposer des smartphones et appareils d’exception, authentiques et neufs, à des tarifs imbattables grâce à un modèle de déstockage transparent et maîtrisé appuyé par nos agents de sourcing. Notre histoire ne fait que commencer… et vous en faites déjà partie. <em><strong>(voir page 2 : \"comment faisons nous ?\")</strong></em></p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
         "item_FtG6cg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/b97186c987474f01ab707c15d6c57981-ezgif.com-video-to-gif-converter_1.gif",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Questa spazzola fa (davvero) la differenza nella tua routine di bellezza",
+            "content": "<p><strong>Grazie alle sue setole a memoria di forma, NOKAH riproduce i gesti del drenaggio linfatico in soli 3 minuti al giorno per sgonfiare, levigare e ridefinire il viso.</strong></p><p><strong>Rassoda e scolpisce l’ovale</strong> – attiva la circolazione e favorisce il drenaggio naturale.</p><p><strong>Adatta alle pelli sensibili</strong> – setole ultra-morbide, nessuna sensazione di tiraggio né arrossamenti.</p><p><strong>Risultati rapidi</strong> – viso visibilmente meno gonfio fin dalle prime applicazioni.</p>",
             "button_url": "",
             "button_text": ""
           }
         }
       },
       "block_order": [
-        "item_nKiKMH",
         "item_FtG6cg"
       ],
       "name": "Multiple images with text",
@@ -464,7 +338,8 @@
   },
   "order": [
     "main",
-    "trsisi_gnyTt4",
+    "logo_list_XQnmCn",
+    "blocks_ECQmEK",
     "multiple_images_with_text_B9a79i",
     "related-products",
     "1744552521216ae5f7",
