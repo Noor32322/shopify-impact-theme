@@ -233,6 +233,34 @@
         "button_text_color": ""
       }
     },
+    "image_with_text_overlay_cVcWWW": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_cYk3cM": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_cYk3cM"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2026-01-11_a_03.24.05.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -339,6 +367,7 @@
   "order": [
     "main",
     "logo_list_XQnmCn",
+    "image_with_text_overlay_cVcWWW",
     "blocks_ECQmEK",
     "multiple_images_with_text_B9a79i",
     "related-products",
