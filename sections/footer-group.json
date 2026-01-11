@@ -23,7 +23,7 @@
             "icon_background_type": "circle",
             "icon_background": "#468cc4",
             "icon_color": "#ffffff",
-            "title": "100% Satisfait ou remboursé",
+            "title": "100% soddisfatti o rimborsati",
             "content": ""
           }
         },
@@ -36,7 +36,7 @@
             "icon_background_type": "circle",
             "icon_background": "#468cc4",
             "icon_color": "#ffffff",
-            "title": "Service client 7/7",
+            "title": "Servizio clienti 7 giorni su 7",
             "content": ""
           }
         },
@@ -49,7 +49,7 @@
             "icon_background_type": "circle",
             "icon_background": "#468cc4",
             "icon_color": "#ffffff",
-            "title": "Paiement securisé",
+            "title": "Pagamento sicuro",
             "content": ""
           }
         },
@@ -62,7 +62,7 @@
             "icon_background_type": "circle",
             "icon_background": "#468cc4",
             "icon_color": "#ffffff",
-            "title": "Livraison offerte",
+            "title": "Consegna gratuita",
             "content": ""
           }
         }
@@ -154,7 +154,7 @@
         "links_Hchefx": {
           "type": "links",
           "settings": {
-            "menu": "policy-pages",
+            "menu": "",
             "show_menu_title": true
           }
         }
