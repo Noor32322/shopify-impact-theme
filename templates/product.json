@@ -82,6 +82,13 @@
             "payment_button_text_color": "#1a1a1a"
           }
         },
+        "collapsible_text_rVtXFR": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "In quanto tempo i risultati sono visibili ?",
+            "content": "<p>Share some content to your customers about your products.</p>"
+          }
+        },
         "collapsible_text_MceJaB": {
           "type": "collapsible_text",
           "settings": {
@@ -123,6 +130,7 @@
         "quantity_selector",
         "liquid_DCiGGr",
         "buy_buttons",
+        "collapsible_text_rVtXFR",
         "collapsible_text_MceJaB",
         "collapsible_text_3gxX3c",
         "collapsible_text_MehxY7",
