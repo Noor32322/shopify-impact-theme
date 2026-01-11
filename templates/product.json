@@ -86,7 +86,14 @@
           "type": "collapsible_text",
           "settings": {
             "title": "In quanto tempo i risultati sono visibili ?",
-            "content": "<p>Share some content to your customers about your products.</p>"
+            "content": "<p><strong>Fin dalle prime applicazioni, il viso appare meno gonfio e i lineamenti più riposati.</strong></p><p><strong>Con un utilizzo regolare, l’effetto “viso più definito” diventa sempre più visibile giorno dopo giorno</strong></p>"
+          }
+        },
+        "collapsible_text_FCP4An": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "È adata alle pelli sensibili ?",
+            "content": "<p><strong>Sì. Le setole ultra-morbide e la pressione facile da modulare sono adatte anche alle pelli sensibili.</strong></p><p></p>"
           }
         },
         "collapsible_text_MceJaB": {
@@ -131,6 +138,7 @@
         "liquid_DCiGGr",
         "buy_buttons",
         "collapsible_text_rVtXFR",
+        "collapsible_text_FCP4An",
         "collapsible_text_MceJaB",
         "collapsible_text_3gxX3c",
         "collapsible_text_MehxY7",
