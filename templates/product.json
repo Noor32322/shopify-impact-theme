@@ -261,6 +261,7 @@
         "item_fXUkA7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/39940807-dafc-4578-9df9-d79f25ab65ec.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Carolina",
@@ -272,10 +273,23 @@
         "item_yVQrWC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/a7690375-7d42-4e16-a926-86932b73ea25.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Samia",
+            "content": "<p><strong>“Avevo provato diverse soluzioni prima, incluso il gua sha, ma non avevo mai ottenuto risultati davvero evidenti.</strong></p><p><strong>Con questa spazzola, integrandola regolarmente nella mia routine mattutina, il mio viso è meno gonfio e più equilibrato. La adoro!”</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_NHFEa4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5ad8b5f6-2ef5-41e8-b947-e4e38220a1a1_1.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Fanta",
+            "content": "<p><strong>“Con i bambini, la casa e la vita quotidiana, ho davvero poco tempo per me. Ho acquistato questo prodotto soprattutto perché sembrava semplice e veloce da usare.</strong></p><p><strong>L’ho provato lo stesso giorno, senza grandi aspettative, e ho notato subito il viso meno gonfio e più rilassato. Niente di complicato, solo un risultato visibile e naturale. Ne sono davvero soddisfatta.\"</strong></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -283,7 +297,8 @@
       },
       "block_order": [
         "item_fXUkA7",
-        "item_yVQrWC"
+        "item_yVQrWC",
+        "item_NHFEa4"
       ],
       "name": "Multiple images with text",
       "settings": {
