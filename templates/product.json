@@ -82,6 +82,13 @@
             "payment_button_text_color": "#1a1a1a"
           }
         },
+        "collapsible_text_MceJaB": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Come si usa ?",
+            "content": ""
+          }
+        },
         "collapsible_text_3gxX3c": {
           "type": "collapsible_text",
           "settings": {
@@ -116,6 +123,7 @@
         "quantity_selector",
         "liquid_DCiGGr",
         "buy_buttons",
+        "collapsible_text_MceJaB",
         "collapsible_text_3gxX3c",
         "collapsible_text_MehxY7",
         "collapsible_text_kwtbjm"
