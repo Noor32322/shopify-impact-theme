@@ -117,77 +117,6 @@
         "heading_gradient": ""
       }
     },
-    "logo_list_YkVMLY": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_Uktkhb": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_NGwWRy": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_kJpnV8": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_a8R6Yt": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_Uktkhb",
-        "logo_NGwWRy",
-        "logo_kJpnV8",
-        "logo_a8R6Yt"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Logo list",
-        "content": "",
-        "text_alignment": "start",
-        "items_per_row": 4,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "image_with_text_overlay_ebYeiD": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Mitesser_in_5_Minuten_entfernt.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "featured_product_Be3FzA": {
       "type": "featured-product",
       "blocks": {
@@ -220,12 +149,6 @@
         "separator_BJCHxd": {
           "type": "separator",
           "settings": {}
-        },
-        "description_FBK8R6": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
         },
         "variant_picker_hr7nat": {
           "type": "variant_picker",
@@ -264,7 +187,6 @@
         "price_LnennT",
         "rating_dWCiA7",
         "separator_BJCHxd",
-        "description_FBK8R6",
         "variant_picker_hr7nat",
         "quantity_selector_yKziTy",
         "buy_buttons_DNhE9Q",
@@ -273,7 +195,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "",
+        "product": "peel-shot-transforme-et-sublime-votre-peau",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -295,8 +217,6 @@
     "17629845762d368d23",
     "scrolling_text_4YExRQ",
     "collection_list_6qgF8d",
-    "logo_list_YkVMLY",
-    "image_with_text_overlay_ebYeiD",
     "featured_product_Be3FzA"
   ]
 }

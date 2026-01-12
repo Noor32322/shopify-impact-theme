@@ -30,6 +30,7 @@
         },
         "price": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "show_taxes_notice": false
           }
@@ -454,6 +455,37 @@
         "button_background": "",
         "button_text_color": ""
       }
+    },
+    "multiple_images_with_text_ixWYtf": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_NMcTNr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/docrteur.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Raccomandato dalla Dr Giovanna Battesti",
+            "content": "<p>« Molte donne consultano per un viso che si segna rapidamente: borse, tratti appesantiti, mancanza di luminosità. Non è sempre legato all’invecchiamento, ma spesso a un drenaggio insufficiente. »</p><p>« La spazzola Dreyora™ ha il vantaggio di essere delicata, regolare e facile da utilizzare a casa, senza aggredire le pelli sensibili come possono fare alcuni strumenti più rigidi. »</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_NMcTNr"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -468,6 +500,7 @@
     "17457974126f60246c",
     "17521112370f773ad2",
     "1763065814a495630a",
-    "multiple_images_with_text_B9a79i"
+    "multiple_images_with_text_B9a79i",
+    "multiple_images_with_text_ixWYtf"
   ]
 }
