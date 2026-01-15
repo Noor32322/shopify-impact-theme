@@ -54,12 +54,6 @@
             "liquid": "<div class=\"gta-block__root GSC-SMALL-ZqmhpIPjajzV\"></div>"
           }
         },
-        "gsc_countdown_timer_countdown_YRW8m9": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": "GSC-SMALL-ZqmhpIPjajzV"
-          }
-        },
         "rating": {
           "type": "rating",
           "settings": {
@@ -90,12 +84,6 @@
             "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "#1a1a1a",
             "payment_button_text_color": "#1a1a1a"
-          }
-        },
-        "gsc_countdown_timer_countdown_R4gKUQ": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": "GSC-SMALL-ZqmhpIPjajzV"
           }
         },
         "collapsible_text_rVtXFR": {
@@ -161,13 +149,11 @@
         "liquid_DCiGGr",
         "kaching_bundles_app_block_mTgmmk",
         "liquid_ieiJDe",
-        "gsc_countdown_timer_countdown_YRW8m9",
         "rating",
         "payment_terms",
         "description",
         "quantity_selector",
         "buy_buttons",
-        "gsc_countdown_timer_countdown_R4gKUQ",
         "collapsible_text_rVtXFR",
         "collapsible_text_FCP4An",
         "collapsible_text_MceJaB",
