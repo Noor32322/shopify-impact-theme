@@ -48,6 +48,12 @@
             "manual_deal_block_id": ""
           }
         },
+        "liquid_ieiJDe": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"gta-block__root GSC-SMALL-ZqmhpIPjajzV\"></div>"
+          }
+        },
         "gsc_countdown_timer_countdown_YRW8m9": {
           "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
@@ -154,6 +160,7 @@
         "price",
         "liquid_DCiGGr",
         "kaching_bundles_app_block_mTgmmk",
+        "liquid_ieiJDe",
         "gsc_countdown_timer_countdown_YRW8m9",
         "rating",
         "payment_terms",
