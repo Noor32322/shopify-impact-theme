@@ -139,6 +139,12 @@
           "settings": {
             "widget_id": "GSC-SMALL-ZqmhpIPjajzV"
           }
+        },
+        "gsc_countdown_timer_countdown_t7e6iG": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": ""
+          }
         }
       },
       "block_order": [
@@ -161,7 +167,8 @@
         "collapsible_text_3gxX3c",
         "collapsible_text_MehxY7",
         "collapsible_text_kwtbjm",
-        "gsc_countdown_timer_countdown_FVXYnb"
+        "gsc_countdown_timer_countdown_FVXYnb",
+        "gsc_countdown_timer_countdown_t7e6iG"
       ],
       "settings": {
         "full_width": true,
