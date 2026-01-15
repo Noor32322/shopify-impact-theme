@@ -65,16 +65,6 @@
             "collapse_content": true
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "block",
-            "size_chart_page": ""
-          }
-        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -131,6 +121,12 @@
             "title": "Livraison offerte à domicile",
             "content": "<p>Profitez d'une livraison rapide <strong>(5 à 8 jours)</strong> et gratuite.</p>"
           }
+        },
+        "gsc_countdown_timer_countdown_FVXYnb": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-SMALL-ZqmhpIPjajzV"
+          }
         }
       },
       "block_order": [
@@ -143,7 +139,6 @@
         "rating",
         "payment_terms",
         "description",
-        "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "collapsible_text_rVtXFR",
@@ -151,7 +146,8 @@
         "collapsible_text_MceJaB",
         "collapsible_text_3gxX3c",
         "collapsible_text_MehxY7",
-        "collapsible_text_kwtbjm"
+        "collapsible_text_kwtbjm",
+        "gsc_countdown_timer_countdown_FVXYnb"
       ],
       "settings": {
         "full_width": true,
