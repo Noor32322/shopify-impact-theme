@@ -46,7 +46,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#de2d4a",
+        "background": "#d6ae98",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -56,7 +56,6 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/CosmoLED_5.png",
         "logo_max_width": 120,
         "logo_mobile_max_width": 120,
         "menu": "main-menu",
