@@ -16,18 +16,6 @@
     },
     "17629845762d368d23": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_b608729_i7N9z4": {
-          "type": "ai_gen_block_b608729",
-          "settings": {
-            "border_radius": 0
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_b608729_i7N9z4"
-      ],
       "settings": {}
     },
     "scrolling_text_4YExRQ": {
