@@ -1,0 +1,508 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_QFYCDk": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #00000\nf;\n  --social-proof-star-color: #0fb87f;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Valutato 4,9/5 da oltre 9.200 clienti !\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "disabled": true,
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_DCiGGr": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Disponibili: 6</div>\n</div>"
+          }
+        },
+        "liquid_ieiJDe": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"gta-block__root GSC-SMALL-ZqmhpIPjajzV\"></div>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#ffb74a",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "#1a1a1a",
+            "payment_button_text_color": "#1a1a1a"
+          }
+        },
+        "collapsible_text_rVtXFR": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "In quanto tempo i risultati sono visibili ?",
+            "content": "<p><strong>Fin dalle prime applicazioni, il viso appare meno gonfio e i lineamenti più riposati.</strong></p><p><strong>Con un utilizzo regolare, l’effetto “viso più definito” diventa sempre più visibile giorno dopo giorno</strong></p>"
+          }
+        },
+        "collapsible_text_FCP4An": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "È adata alle pelli sensibili ?",
+            "content": "<p><strong>Sì. Le setole ultra-morbide e la pressione facile da modulare sono adatte anche alle pelli sensibili.</strong></p><p></p>"
+          }
+        },
+        "collapsible_text_MceJaB": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Come si usa ?",
+            "content": "<p><strong>Prepara la pelle</strong><br/><br/>Utilizza <strong>Sculpt</strong> su pelle pulita e asciutta.</p><p><strong>Pressione delicata</strong><br/><br/>Fai scorrere la spazzola delicatamente lungo la mandibola, le guance e il collo — non è necessario esercitare una forte pressione.</p><p><strong>Segui i percorsi linfatici</strong><br/><br/>Esegui movimenti verso l’alto seguendo il contorno del viso per un drenaggio linfatico ottimale.</p><p><strong>Utilizzo quotidiano</strong><br/><br/>Le nostre clienti riferiscono di utilizzarla mattina e sera come parte della loro routine di cura della pelle per ottenere risultati migliori.</p><p><strong>Manutenzione</strong><br/><br/>Lavare a mano con acqua tiepida dopo ogni utilizzo.</p>"
+          }
+        },
+        "collapsible_text_3gxX3c": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Soddisfatti o rimborsati per 30 giorni",
+            "content": "<p>Provalo senza rischi per 30 giorni. Per un reso gratuito, è sufficiente contattare il nostro servizio clienti all’indirizzo contacto@dreyora.com</p>"
+          }
+        },
+        "collapsible_text_MehxY7": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Service client 7j/7",
+            "content": "<p><strong>Notre équipe est à votre disposition 7 jours sur 7 pour toute question.</strong></p><p>Vous pouvez nous contacter par e-mail aux horaires suivants :</p><ul><li><strong>Du lundi au vendredi : de 9h00 à 12h00 et de 14h00 à 18h00</strong><br/></li><li><strong>Samedi et dimanche : de 10h00 à 12h00</strong><br/></li></ul><p>N’hésitez pas à nous contacter.</p>"
+          }
+        },
+        "collapsible_text_kwtbjm": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison offerte à domicile",
+            "content": "<p>Profitez d'une livraison rapide <strong>(5 à 8 jours)</strong> et gratuite.</p>"
+          }
+        },
+        "gsc_countdown_timer_countdown_FVXYnb": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": "GSC-SMALL-ZqmhpIPjajzV"
+          }
+        },
+        "gsc_countdown_timer_countdown_t7e6iG": {
+          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
+          "settings": {
+            "widget_id": ""
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "liquid_QFYCDk",
+        "badges",
+        "price",
+        "liquid_DCiGGr",
+        "liquid_ieiJDe",
+        "rating",
+        "payment_terms",
+        "description",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible_text_rVtXFR",
+        "collapsible_text_FCP4An",
+        "collapsible_text_MceJaB",
+        "collapsible_text_3gxX3c",
+        "collapsible_text_MehxY7",
+        "collapsible_text_kwtbjm",
+        "gsc_countdown_timer_countdown_FVXYnb",
+        "gsc_countdown_timer_countdown_t7e6iG"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "logo_list_XQnmCn": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_HmneL8": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_8fVNEk": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_a4VLHY": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Caudalie-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_fKKFCq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/VOGUE_LOGO.svg",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_HmneL8",
+        "logo_8fVNEk",
+        "logo_a4VLHY",
+        "logo_fKKFCq"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Visto su",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 4,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_cVcWWW": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_cYk3cM": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "text": "Subheading"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_cYk3cM"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2026-01-11_a_03.24.05.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "blocks_ECQmEK": {
+      "type": "_blocks",
+      "name": "Image 1080x1080",
+      "settings": {}
+    },
+    "before_after_image_3xcX6k": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Prima/Dopo",
+        "content": "<p><strong>✨ Cura autentica, risultati naturali</strong><br/><br/>Un modo naturale per definire la linea della mandibola, ridurre il gonfiore ed esaltare la luminosità della pelle.<br/><br/>In pochi minuti al giorno, il tuo viso apparirà più fresco, più tonico e pieno di sicurezza.</p><p>Si tu veux une version plus courte (Ads), plus luxe, ou orientée conversion, dis-le.</p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2026-01-11_a_03.29.04.png",
+        "after_image": "shopify://shop_images/Diseno_sin_titulo_-_2025-11-25T022202.534_1.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "top",
+        "before_text": "Prima",
+        "after_text": "Dopo",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "multiple_images_with_text_p4jrTQ": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_fXUkA7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/39940807-dafc-4578-9df9-d79f25ab65ec.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Carolina",
+            "content": "<p><strong>Avevo spesso il viso gonfio al risveglio, soprattutto nella zona delle guance e della mandibola. Ho iniziato a usarla 3 volte a settimana e, fin dalle prime applicazioni, ho notato una vera differenza.</strong></p><p><strong>Il mio viso è visibilmente meno gonfio, più riposato e i lineamenti sono più definiti, soprattutto al mattino. È diventato un piccolo rituale semplice che integro facilmente nella mia routine.</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_yVQrWC": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/a7690375-7d42-4e16-a926-86932b73ea25.jpg",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Samia",
+            "content": "<p><strong>“Avevo provato diverse soluzioni prima, incluso il gua sha, ma non avevo mai ottenuto risultati davvero evidenti.</strong></p><p><strong>Con questa spazzola, integrandola regolarmente nella mia routine mattutina, il mio viso è meno gonfio e più equilibrato. La adoro!”</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_NHFEa4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5ad8b5f6-2ef5-41e8-b947-e4e38220a1a1_1.jpg",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Fanta",
+            "content": "<p><strong>“Con i bambini, la casa e la vita quotidiana, ho davvero poco tempo per me. Ho acquistato questo prodotto soprattutto perché sembrava semplice e veloce da usare.</strong></p><p><strong>L’ho provato lo stesso giorno, senza grandi aspettative, e ho notato subito il viso meno gonfio e più rilassato. Niente di complicato, solo un risultato visibile e naturale. Ne sono davvero soddisfatta.\"</strong></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_fXUkA7",
+        "item_yVQrWC",
+        "item_NHFEa4"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "1744552521216ae5f7": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17452927607a10b496": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17457974126f60246c": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "17521112370f773ad2": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "1763065814a495630a": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
+    "multiple_images_with_text_B9a79i": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_FtG6cg": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/b97186c987474f01ab707c15d6c57981-ezgif.com-video-to-gif-converter_1.gif",
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Questa spazzola fa (davvero) la differenza nella tua routine di bellezza",
+            "content": "<p><strong>Grazie alle sue setole a memoria di forma, NOKAH riproduce i gesti del drenaggio linfatico in soli 3 minuti al giorno per sgonfiare, levigare e ridefinire il viso.</strong></p><p><strong>Rassoda e scolpisce l’ovale</strong> – attiva la circolazione e favorisce il drenaggio naturale.</p><p><strong>Adatta alle pelli sensibili</strong> – setole ultra-morbide, nessuna sensazione di tiraggio né arrossamenti.</p><p><strong>Risultati rapidi</strong> – viso visibilmente meno gonfio fin dalle prime applicazioni.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_FtG6cg"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "multiple_images_with_text_ixWYtf": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_NMcTNr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/docrteur.webp",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Raccomandato dalla Dr Giovanna Battesti",
+            "content": "<p>« Molte donne consultano per un viso che si segna rapidamente: borse, tratti appesantiti, mancanza di luminosità. Non è sempre legato all’invecchiamento, ma spesso a un drenaggio insufficiente. »</p><p>« La spazzola Dreyora™ ha il vantaggio di essere delicata, regolare e facile da utilizzare a casa, senza aggredire le pelli sensibili come possono fare alcuni strumenti più rigidi. »</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_NMcTNr"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "logo_list_XQnmCn",
+    "image_with_text_overlay_cVcWWW",
+    "blocks_ECQmEK",
+    "before_after_image_3xcX6k",
+    "multiple_images_with_text_p4jrTQ",
+    "1744552521216ae5f7",
+    "17452927607a10b496",
+    "17457974126f60246c",
+    "17521112370f773ad2",
+    "1763065814a495630a",
+    "multiple_images_with_text_B9a79i",
+    "multiple_images_with_text_ixWYtf"
+  ]
+}
