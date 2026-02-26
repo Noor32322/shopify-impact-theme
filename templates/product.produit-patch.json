@@ -83,21 +83,21 @@
           "type": "collapsible_text",
           "settings": {
             "title": "In quanto tempo i risultati sono visibili ?",
-            "content": "<p><strong>Fin dalle prime applicazioni, il viso appare meno gonfio e i lineamenti più riposati.</strong></p><p><strong>Con un utilizzo regolare, l’effetto “viso più definito” diventa sempre più visibile giorno dopo giorno</strong></p>"
+            "content": "<p><strong>Fin dalla prima notte</strong>, la maggior parte dei nostri clienti nota una pelle più liscia, più luminosa e più idratata al risveglio. I micro-aghi rilasciano gli attivi direttamente sotto la superficie cutanea mentre dormi il risultato si vede già la mattina.</p><p><strong>A partire da 2 settimane</strong> di utilizzo regolare (1 o 2 volte a settimana), le occhiaie si attenuano visibilmente, le rughe sottili vengono levigate e la zona sotto gli occhi appare più soda. È spesso in questo momento che le persone intorno a te notano qualcosa — senza che tu debba dire nulla.</p><p><strong>A 4-6 settimane</strong>, i risultati in profondità si consolidano durevolmente : il collagene viene stimolato, la pelle perioculare è rinforzata e lo sguardo appare riposato anche dopo una notte breve.</p><p>💬 <em>\"Già dalla prima mattina ho visto la differenza. Dopo 3 settimane i miei colleghi mi hanno chiesto cosa avevo cambiato nella mia routine.\"</em> — Sofia, 44 anni</p><p><strong>Il nostro consiglio :</strong> inizia con 2 applicazioni nella prima settimana per accelerare i risultati, poi passa a 1 volta a settimana per mantenere l'effetto.</p><p>E se dopo 90 giorni non sei soddisfatta? Ti rimborsiamo completamente — senza condizioni.</p>"
           }
         },
         "collapsible_text_FCP4An": {
           "type": "collapsible_text",
           "settings": {
             "title": "È adata alle pelli sensibili ?",
-            "content": "<p><strong>Sì. Le setole ultra-morbide e la pressione facile da modulare sono adatte anche alle pelli sensibili.</strong></p><p></p>"
+            "content": "<p><strong>Sì, i nostri patch sono formulati per tutti i tipi di pelle</strong> — secca, grassa, mista o sensibile. I micro-aghi sono ipoallergenici e si dissolvono completamente nella pelle senza lasciare residui.</p><p><strong>Pelle sensibile ?</strong> Nessun problema. Le micro-aiguilles sono più sottili di un capello umano. La sensazione è un leggero formicolio nei primi 30 secondi — poi non senti più nulla. Nessuna irritazione, nessun rossore duraturo.</p><p><strong>Pelle matura ?</strong> È proprio per te. La pelle perioculare si assottiglia con l'età — i nostri attivi (Acido Ialuronico, Retinolo, Niacinamide, Peptidi) agiscono in profondità là dove le creme non arrivano.</p><p><strong>Pelle reattiva o allergie ?</strong> Ti consigliamo di fare un test su una piccola zona del viso prima della prima applicazione completa.</p><p>💬 <em>\"Ho la pelle molto sensibile e non ho avuto nessuna reazione. Al contrario, la mattina dopo la pelle era incredibilmente morbida.\"</em> — Laura, 38 anni</p><p><strong>Non adatto in caso di :</strong> pelle con ferite aperte, irritazioni attive o infezioni cutanee nella zona di applicazione. In caso di dubbio, consulta il tuo dermatologo.</p><p></p>"
           }
         },
         "collapsible_text_MceJaB": {
           "type": "collapsible_text",
           "settings": {
             "title": "Come si usa ?",
-            "content": "<p><strong>Prepara la pelle</strong><br/><br/>Utilizza <strong>Sculpt</strong> su pelle pulita e asciutta.</p><p><strong>Pressione delicata</strong><br/><br/>Fai scorrere la spazzola delicatamente lungo la mandibola, le guance e il collo — non è necessario esercitare una forte pressione.</p><p><strong>Segui i percorsi linfatici</strong><br/><br/>Esegui movimenti verso l’alto seguendo il contorno del viso per un drenaggio linfatico ottimale.</p><p><strong>Utilizzo quotidiano</strong><br/><br/>Le nostre clienti riferiscono di utilizzarla mattina e sera come parte della loro routine di cura della pelle per ottenere risultati migliori.</p><p><strong>Manutenzione</strong><br/><br/>Lavare a mano con acqua tiepida dopo ogni utilizzo.</p>"
+            "content": "<p>Applica i patch per 2 ore oppure per tutta la notte.<br/><br/>Agiscono sui principali segni di stanchezza: occhiaie, borse e linee sottili.<br/><br/>Rimozione facile, sguardo più fresco e luminoso al risveglio.</p>"
           }
         },
         "collapsible_text_3gxX3c": {
@@ -110,8 +110,8 @@
         "collapsible_text_MehxY7": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Service client 7j/7",
-            "content": "<p><strong>Notre équipe est à votre disposition 7 jours sur 7 pour toute question.</strong></p><p>Vous pouvez nous contacter par e-mail aux horaires suivants :</p><ul><li><strong>Du lundi au vendredi : de 9h00 à 12h00 et de 14h00 à 18h00</strong><br/></li><li><strong>Samedi et dimanche : de 10h00 à 12h00</strong><br/></li></ul><p>N’hésitez pas à nous contacter.</p>"
+            "title": "Assistenza clienti 7 giorni su 7.",
+            "content": "<p>Il nostro team è a tua disposizione 7 giorni su 7 per qualsiasi domanda.<br/><br/>Puoi contattarci via e-mail nei seguenti orari:</p><ul><li><br/>Dal lunedì al venerdì: dalle 9:00 alle 12:00 e dalle 14:00 alle 18:00<br/></li><li><br/>Sabato e domenica: dalle 10:00 alle 12:00<br/></li></ul><p>Non esitare a contattarci.</p>"
           }
         },
         "collapsible_text_kwtbjm": {
@@ -125,12 +125,6 @@
           "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
           "settings": {
             "widget_id": "GSC-SMALL-ZqmhpIPjajzV"
-          }
-        },
-        "gsc_countdown_timer_countdown_t7e6iG": {
-          "type": "shopify://apps/gsc-countdown-timer/blocks/countdown/58dc5b1b-43d2-4209-b1f3-52aff31643ed",
-          "settings": {
-            "widget_id": ""
           }
         }
       },
@@ -152,8 +146,7 @@
         "collapsible_text_3gxX3c",
         "collapsible_text_MehxY7",
         "collapsible_text_kwtbjm",
-        "gsc_countdown_timer_countdown_FVXYnb",
-        "gsc_countdown_timer_countdown_t7e6iG"
+        "gsc_countdown_timer_countdown_FVXYnb"
       ],
       "settings": {
         "full_width": true,
