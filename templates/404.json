@@ -210,6 +210,7 @@
             "heading_alignment": "center",
             "heading_size": 36,
             "subheading_size": 16,
+            "review_1_image": "shopify://shop_images/ChatGPT_Image_11_aout_2026_21_56_10.png",
             "review_1_rating": 5,
             "review_1_text": "Produit de qualité exceptionnelle ! Je recommande vivement.",
             "review_1_author": "Marie D.",
@@ -258,6 +259,107 @@
         "ai_gen_block_b120873_qpREgz"
       ],
       "settings": {}
+    },
+    "featured_product_x8rGqd": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_ir6QQd": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_jKhwc8": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_9jJfnL": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_zzKeFN": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_NBmVTw": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_yYikQF": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_xPFLPY": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_3PXj4g": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_f7Xb3y": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_C4eVjn": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_RDz4pC": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_ir6QQd",
+        "title_jKhwc8",
+        "badges_9jJfnL",
+        "price_zzKeFN",
+        "rating_NBmVTw",
+        "separator_yYikQF",
+        "description_xPFLPY",
+        "variant_picker_3PXj4g",
+        "quantity_selector_f7Xb3y",
+        "buy_buttons_C4eVjn",
+        "pickup_availability_RDz4pC"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "pattinou-brosse-anti-poils-pour-chiens-chats",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -268,6 +370,7 @@
     "logo_list_gaLGQE",
     "image_with_text_overlay_37tGkH",
     "178647339168de9064",
-    "17864740633ce752b0"
+    "17864740633ce752b0",
+    "featured_product_x8rGqd"
   ]
 }
