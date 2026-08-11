@@ -147,7 +147,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Logo list",
+        "title": "Recommandé par :",
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
@@ -159,6 +159,21 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "image_with_text_overlay_37tGkH": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
@@ -166,6 +181,7 @@
     "17629845762d368d23",
     "scrolling_text_4YExRQ",
     "collection_list_6qgF8d",
-    "logo_list_gaLGQE"
+    "logo_list_gaLGQE",
+    "image_with_text_overlay_37tGkH"
   ]
 }
