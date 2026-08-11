@@ -176,6 +176,28 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "178647339168de9064": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_2e19a92_eFFAq9": {
+          "type": "ai_gen_block_2e19a92",
+          "settings": {
+            "video": "shopify://files/videos/giff (1).mp4",
+            "show_controls": false,
+            "desktop_width_percent": 100,
+            "aspect_ratio": "56.25",
+            "margin_top": 4,
+            "margin_bottom": 4,
+            "border_radius": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_2e19a92_eFFAq9"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -184,6 +206,7 @@
     "scrolling_text_4YExRQ",
     "collection_list_6qgF8d",
     "logo_list_gaLGQE",
-    "image_with_text_overlay_37tGkH"
+    "image_with_text_overlay_37tGkH",
+    "178647339168de9064"
   ]
 }
