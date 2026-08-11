@@ -198,6 +198,66 @@
         "ai_gen_block_2e19a92_eFFAq9"
       ],
       "settings": {}
+    },
+    "17864740633ce752b0": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_b120873_qpREgz": {
+          "type": "ai_gen_block_b120873",
+          "settings": {
+            "heading": "Ce que disent nos clients",
+            "subheading": "",
+            "heading_alignment": "center",
+            "heading_size": 36,
+            "subheading_size": 16,
+            "review_1_rating": 5,
+            "review_1_text": "Produit de qualité exceptionnelle ! Je recommande vivement.",
+            "review_1_author": "Marie D.",
+            "review_2_rating": 5,
+            "review_2_text": "Livraison rapide et produit conforme à mes attentes.",
+            "review_2_author": "Pierre L.",
+            "review_3_rating": 5,
+            "review_3_text": "Excellent rapport qualité-prix. Très satisfaite de mon achat.",
+            "review_3_author": "Sophie M.",
+            "review_4_rating": 5,
+            "review_4_text": "Service client au top et produit magnifique !",
+            "review_4_author": "Thomas B.",
+            "review_5_rating": 5,
+            "review_5_text": "Je suis ravie de ma commande. Produit de grande qualité.",
+            "review_5_author": "Julie R.",
+            "review_6_rating": 5,
+            "review_6_text": "Parfait ! Exactement ce que je cherchais.",
+            "review_6_author": "Alexandre C.",
+            "card_width": 350,
+            "card_spacing": 20,
+            "card_padding": 20,
+            "card_border_radius": 12,
+            "card_shadow_opacity": 0.1,
+            "image_height": 250,
+            "image_border_radius": 8,
+            "star_size": 20,
+            "star_color": "#FFD700",
+            "star_empty_color": "#E0E0E0",
+            "review_text_size": 15,
+            "author_text_size": 14,
+            "show_controls": true,
+            "background_color": "#f9f9f9",
+            "card_background": "#ffffff",
+            "heading_color": "#1a1a1a",
+            "text_color": "#666666",
+            "author_color": "#1a1a1a",
+            "button_background": "#1a1a1a",
+            "button_color": "#ffffff",
+            "button_hover_background": "#333333",
+            "container_width": 1400
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_b120873_qpREgz"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -207,6 +267,7 @@
     "collection_list_6qgF8d",
     "logo_list_gaLGQE",
     "image_with_text_overlay_37tGkH",
-    "178647339168de9064"
+    "178647339168de9064",
+    "17864740633ce752b0"
   ]
 }
