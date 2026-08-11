@@ -74,10 +74,25 @@
         "background_opacity": 100,
         "background_blur_radius": 0
       }
+    },
+    "1786471630640e24e0": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_e7b0160_eppwFa": {
+          "type": "ai_gen_block_e7b0160",
+          "settings": {},
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_e7b0160_eppwFa"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "1786471630640e24e0"
   ]
 }

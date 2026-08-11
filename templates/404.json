@@ -105,98 +105,59 @@
         "heading_gradient": ""
       }
     },
-    "featured_product_Be3FzA": {
-      "type": "featured-product",
+    "logo_list_gaLGQE": {
+      "type": "logo-list",
       "blocks": {
-        "vendor_7TepqD": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title_EFxDJ4": {
-          "type": "title",
+        "logo_9dJGHM": {
+          "type": "logo",
           "settings": {
-            "heading_tag": "h2"
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "badges_ThnF6M": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price_LnennT": {
-          "type": "price",
+        "logo_VRfm8K": {
+          "type": "logo",
           "settings": {
-            "show_taxes_notice": false
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "rating_dWCiA7": {
-          "type": "rating",
+        "logo_36j4VR": {
+          "type": "logo",
           "settings": {
-            "show_empty": false
+            "logo_width": 120,
+            "link": ""
           }
         },
-        "separator_BJCHxd": {
-          "type": "separator",
-          "settings": {}
-        },
-        "variant_picker_hr7nat": {
-          "type": "variant_picker",
+        "logo_Qdcmgk": {
+          "type": "logo",
           "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
+            "logo_width": 120,
+            "link": ""
           }
-        },
-        "quantity_selector_yKziTy": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_DNhE9Q": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
-        "pickup_availability_k7UFQf": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
-        "vendor_7TepqD",
-        "title_EFxDJ4",
-        "badges_ThnF6M",
-        "price_LnennT",
-        "rating_dWCiA7",
-        "separator_BJCHxd",
-        "variant_picker_hr7nat",
-        "quantity_selector_yKziTy",
-        "buy_buttons_DNhE9Q",
-        "pickup_availability_k7UFQf"
+        "logo_9dJGHM",
+        "logo_VRfm8K",
+        "logo_36j4VR",
+        "logo_Qdcmgk"
       ],
-      "name": "Featured product",
+      "name": "Logo list",
       "settings": {
         "full_width": true,
-        "product": "spazzola-linfatico",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
+        "stack_mobile": true,
+        "title": "Logo list",
+        "content": "",
+        "text_alignment": "start",
+        "items_per_row": 5,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     }
   },
@@ -205,6 +166,6 @@
     "17629845762d368d23",
     "scrolling_text_4YExRQ",
     "collection_list_6qgF8d",
-    "featured_product_Be3FzA"
+    "logo_list_gaLGQE"
   ]
 }
