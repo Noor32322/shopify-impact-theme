@@ -240,7 +240,7 @@
             "star_empty_color": "#E0E0E0",
             "review_text_size": 15,
             "author_text_size": 14,
-            "show_controls": true,
+            "show_controls": false,
             "background_color": "#f9f9f9",
             "card_background": "#ffffff",
             "heading_color": "#1a1a1a",
