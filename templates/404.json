@@ -387,10 +387,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "17865703536b823c98": {
-      "type": "_blocks",
-      "settings": {}
     }
   },
   "order": [
@@ -402,7 +398,6 @@
     "image_with_text_overlay_37tGkH",
     "178647339168de9064",
     "17864740633ce752b0",
-    "featured_product_dNCTBD",
-    "17865703536b823c98"
+    "featured_product_dNCTBD"
   ]
 }
