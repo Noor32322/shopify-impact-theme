@@ -111,6 +111,7 @@
         "logo_9dJGHM": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/woopets-sansfond.png",
             "logo_width": 120,
             "link": ""
           }
@@ -118,6 +119,7 @@
         "logo_VRfm8K": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Wamiz_svg.png",
             "logo_width": 120,
             "link": ""
           }
@@ -125,6 +127,7 @@
         "logo_36j4VR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-facture-pa-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
@@ -132,6 +135,7 @@
         "logo_Qdcmgk": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/30-Millions-Amis-logo-removebg-preview.png",
             "logo_width": 120,
             "link": ""
           }
