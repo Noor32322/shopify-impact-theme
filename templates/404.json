@@ -267,6 +267,15 @@
           "type": "vendor",
           "settings": {}
         },
+        "product_variations_78wngn": {
+          "type": "product_variations",
+          "settings": {
+            "option_name": "",
+            "option_value_metafield": "",
+            "products": [],
+            "color_mode": "color"
+          }
+        },
         "title_tPaMYN": {
           "type": "title",
           "settings": {
@@ -331,6 +340,7 @@
       },
       "block_order": [
         "vendor_XBfEKG",
+        "product_variations_78wngn",
         "title_tPaMYN",
         "badges_mW4FkA",
         "price_LcXyeK",
