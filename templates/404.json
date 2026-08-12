@@ -366,13 +366,6 @@
             "max_width": 500
           }
         },
-        "collapsible_text_fB7heg": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Title",
-            "content": "<p>Share some content to your customers about your products.</p>"
-          }
-        },
         "pickup_availability_RQN6pd": {
           "type": "pickup_availability",
           "settings": {}
@@ -392,7 +385,6 @@
         "buy_buttons_qtL9Kx",
         "image_zHHzJp",
         "image_PbcPqK",
-        "collapsible_text_fB7heg",
         "pickup_availability_RQN6pd"
       ],
       "name": "Featured product",
