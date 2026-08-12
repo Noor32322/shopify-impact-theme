@@ -388,6 +388,147 @@
         "input_text_color": ""
       }
     },
+    "faq_QhCUL6": {
+      "type": "faq",
+      "blocks": {
+        "item_GyBJmx": {
+          "type": "item",
+          "settings": {
+            "title": "1. La brosse convient-elle à tous les chiens et tous les chats ?",
+            "content": "<p>Elle est conçue pour tous les animaux qui possèdent un sous-poil : poils courts, mi-longs ou longs. Elle donne ses meilleurs résultats sur les races à double pelage — Berger Australien, Bouvier Bernois, Golden Retriever, Labrador, Berger Allemand, Husky, Samoyède, Border Collie, Spitz — ainsi que sur les chats à poil mi-long et long comme le Maine Coon, le Persan, le Norvégien ou l'Européen. Sur un poil ras sans sous-poil, un gant de toilettage sera plus adapté.</p>"
+          }
+        },
+        "item_ncPqwn": {
+          "type": "item",
+          "settings": {
+            "title": "2. Est-ce que la brosse coupe ou casse le poil de mon animal ?",
+            "content": "<p>Non, et c'est la différence essentielle avec les brosses à lame. Notre brosse n'a aucune lame ni bord tranchant : les dents en acier inoxydable sont arrondies à leur extrémité. Elles glissent entre les poils de couverture et n'extraient que le sous-poil déjà mort et détaché. Le poil de couverture, celui qui protège votre animal du froid, de la chaleur et du soleil, reste intact.</p>"
+          }
+        },
+        "item_7LzE7w": {
+          "type": "item",
+          "settings": {
+            "title": "3. Est-ce que ça tire ou est-ce que ça fait mal ?",
+            "content": "<p>Utilisée correctement, non. La règle est simple : on ne cherche pas la peau, on cherche le poil. On travaille dans le sens du poil, sans appuyer, par passages courts. On allège nettement sur les zones osseuses (colonne, hanches, pattes) et sur le ventre. Si votre animal présente des rougeurs, des croûtes ou des zones dépilées, demandez d'abord l'avis de votre vétérinaire.</p>"
+          }
+        },
+        "item_hyNaHM": {
+          "type": "item",
+          "settings": {
+            "title": "4. Mon chien ou mon chat déteste être brossé. Que faire ?",
+            "content": "<p>C'est très fréquent, et c'est souvent la conséquence d'un outil qui tirait. La méthode qui fonctionne : des séances de 20 à 30 secondes, en commençant par les zones que votre animal aime qu'on touche (dos, flancs), une friandise à chaque fin de séance, et surtout un arrêt avant les premiers signes d'agacement. En une à deux semaines, la plupart des animaux acceptent le brossage, et beaucoup finissent par le réclamer.</p>"
+          }
+        },
+        "item_KrLfGn": {
+          "type": "item",
+          "settings": {
+            "title": "5. À quelle fréquence faut-il l'utiliser ?",
+            "content": "<p>Deux à trois fois par semaine en entretien courant. Pendant les périodes de mue, au printemps et à l'automne, passez à une séance courte quotidienne : c'est à ce moment que le sous-poil mort s'accumule le plus vite. Quelques minutes suffisent par séance, il est inutile d'insister longuement sur une même zone.</p>"
+          }
+        },
+        "item_BJzKKH": {
+          "type": "item",
+          "settings": {
+            "title": "6. À quoi servent les deux faces de la brosse ?",
+            "content": "<p>Chaque face a un rôle précis. La face aux dents les plus espacées sert à ouvrir les bourres, les nœuds naissants et les zones denses comme la culotte et l'arrière des cuisses : on commence toujours par elle. La face aux dents rapprochées sert ensuite à désépaissir et à extraire le sous-poil mort en volume. Utilisées dans cet ordre, elles se complètent et le brossage est nettement plus rapide.</p>"
+          }
+        },
+        "item_93X4Np": {
+          "type": "item",
+          "settings": {
+            "title": "7. Comment l'utiliser, concrètement ?",
+            "content": "<p>Laissez votre animal renifler la brosse quelques secondes.</p><p>Commencez par le dos et les flancs, dans le sens du poil, sans appuyer.</p><p>Ouvrez les zones emmêlées avec la face aux dents espacées, puis désépaississez avec l'autre face.</p><p>Retirez les poils accumulés sur les dents dès qu'ils gênent le passage.</p><p>Terminez par les zones sensibles seulement si votre animal reste détendu.</p>"
+          }
+        },
+        "item_QP7pYH": {
+          "type": "item",
+          "settings": {
+            "title": "8. Est-ce que ça enlève les nœuds et les bourres de poils ?",
+            "content": "<p>Oui pour les nœuds naissants et les bourres de sous-poil, en travaillant par petits passages et en tenant la base du poil avec la main pour ne pas tirer sur la peau. En revanche, un pelage très feutré sur de grandes surfaces relève du toiletteur professionnel : ne forcez jamais, vous risqueriez de blesser votre animal.</p>"
+          }
+        },
+        "item_YqMaxm": {
+          "type": "item",
+          "settings": {
+            "title": "9. Est-ce que ça remplace le toiletteur ?",
+            "content": "<p>Non, et nous ne le prétendons pas. Un toilettage complet reste utile pour certaines races. En revanche, un brossage régulier du sous-poil permet d'espacer les rendez-vous et d'arriver avec un pelage démêlé, ce qui évite le supplément de démêlage facturé par la plupart des salons lorsque le poil est feutré.</p>"
+          }
+        },
+        "item_kPigpd": {
+          "type": "item",
+          "settings": {
+            "title": "10. Mon chat vomit régulièrement des boules de poils. Est-ce que ça peut aider ?",
+            "content": "<p>En se toilettant, un chat avale les poils morts restés dans son pelage : ils s'accumulent ensuite dans son estomac sous forme de boules de poils. Chaque poil retiré au brossage est un poil qu'il n'ingérera pas, et le brossage régulier est le premier geste recommandé par les vétérinaires pour en limiter la formation. Attention toutefois : si votre chat vomit très fréquemment, refuse de manger ou paraît abattu, consultez un vétérinaire sans attendre.</p>"
+          }
+        },
+        "item_3zVLDP": {
+          "type": "item",
+          "settings": {
+            "title": "11. Peut-on l'utiliser sur un chiot, un chaton ou un animal à peau sensible ?",
+            "content": "<p>Oui, avec une pression très légère et des séances courtes, dès que le pelage adulte commence à se former. Habituer un jeune animal tôt est le meilleur moyen d'en faire un moment agréable pour toute sa vie. Pour un animal à peau sensible ou sujet aux irritations, demandez l'avis de votre vétérinaire avant de commencer.</p>"
+          }
+        },
+        "item_EUcMx3": {
+          "type": "item",
+          "settings": {
+            "title": "12. Est-ce que ça change vraiment quelque chose pour les poils dans la maison ?",
+            "content": "<p>La brosse est conçue pour le pelage, pas pour les textiles, mais l'effet se voit ailleurs. Le sous-poil mort reste piégé dans le poil de couverture et se libère petit à petit, pendant des semaines : sur le canapé, les vêtements, les sièges de voiture. Le retirer à la source, c'est traiter le problème avant qu'il ne se disperse.</p>"
+          }
+        },
+        "item_hfgfA4": {
+          "type": "item",
+          "settings": {
+            "title": "13. Comment nettoyer et entretenir la brosse ?",
+            "content": "<p>Retirez les poils à la main ou avec un peigne, en quelques secondes. Vous pouvez passer les dents sous l'eau tiède avec un peu de savon doux, puis les sécher soigneusement pour préserver l'acier. Évitez de la laisser tremper ou de la ranger humide.</p>"
+          }
+        },
+        "item_kQtDgb": {
+          "type": "item",
+          "settings": {
+            "title": "14. Quels sont les délais de livraison et le suivi de commande ?",
+            "content": "<p>Votre commande est préparée sous 24 à 48 heures ouvrées. Vous recevez un e-mail de confirmation immédiatement, puis un numéro de suivi dès l'expédition, qui vous permet de suivre votre colis à chaque étape.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_GyBJmx",
+        "item_ncPqwn",
+        "item_7LzE7w",
+        "item_hyNaHM",
+        "item_KrLfGn",
+        "item_BJzKKH",
+        "item_93X4Np",
+        "item_QP7pYH",
+        "item_YqMaxm",
+        "item_kPigpd",
+        "item_3zVLDP",
+        "item_EUcMx3",
+        "item_hfgfA4",
+        "item_kQtDgb"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "17865707261a6b8016": {
       "type": "_blocks",
       "settings": {}
@@ -403,6 +544,7 @@
     "178647339168de9064",
     "17864740633ce752b0",
     "featured_product_dNCTBD",
+    "faq_QhCUL6",
     "17865707261a6b8016"
   ]
 }
