@@ -297,6 +297,12 @@
             "show_taxes_notice": false
           }
         },
+        "rapi_bundle_rapi_bundle_8nCByp": {
+          "type": "shopify://apps/rapi-bundle/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
         "rating_W9GeJk": {
           "type": "rating",
           "settings": {
@@ -344,6 +350,7 @@
         "title_tPaMYN",
         "badges_mW4FkA",
         "price_LcXyeK",
+        "rapi_bundle_rapi_bundle_8nCByp",
         "rating_W9GeJk",
         "description_fTFFjp",
         "variant_picker_EbcMcB",
