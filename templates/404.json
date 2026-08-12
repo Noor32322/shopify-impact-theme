@@ -263,10 +263,6 @@
     "featured_product_dNCTBD": {
       "type": "featured-product",
       "blocks": {
-        "vendor_XBfEKG": {
-          "type": "vendor",
-          "settings": {}
-        },
         "product_variations_78wngn": {
           "type": "product_variations",
           "settings": {
@@ -339,7 +335,6 @@
         }
       },
       "block_order": [
-        "vendor_XBfEKG",
         "product_variations_78wngn",
         "title_tPaMYN",
         "badges_mW4FkA",
