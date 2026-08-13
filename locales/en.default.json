@@ -427,6 +427,12 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "general": {
+        "cart": "Panier",
+        "back_to_cart": "Retour au panier"
+      }
     }
   }
 }
