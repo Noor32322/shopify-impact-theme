@@ -81,6 +81,7 @@
       "blocks": {
         "ai_gen_block_e7b0160_eppwFa": {
           "type": "ai_gen_block_e7b0160",
+          "disabled": true,
           "settings": {
             "image_mobile": "shopify://shop_images/ChatGPTImage11aout2026_22_52_30.png"
           },
