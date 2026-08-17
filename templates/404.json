@@ -406,6 +406,37 @@
       ],
       "settings": {}
     },
+    "images_with_text_scrolling_aeznpT": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_BEQMaK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_17_aout_2026_04_03_01.png",
+            "icon": "none",
+            "icon_width": 96,
+            "title": "Dr. Elodie Castelli — Vétérinaire",
+            "content": "<p>En consultation, je vois passer énormément de chiens et de chats chaque semaine. Et le même problème revient sans arrêt : des propriétaires qui brossent consciencieusement, tous les jours parfois, et qui n'y arrivent pas. La peau qui gratte, le sous-poil feutré, des bourres qui se forment. Pas par négligence avec le mauvais outil.</p><p>Le sous-poil mort ne part pas avec une brosse de surface. Il faut un outil dont les dents descendent réellement sous le poil de couverture. Et surtout, sans lame : je vois trop de pelages abîmés par des accessoires tranchants, et ça ne repousse pas toujours correctement.</p><p>Depuis quelque temps je recommande la Pawlona à mes clients concernés. Deux raisons simples. D'abord les dents sont arrondies — zéro risque de couper le poil sain, ce qui est ma première inquiétude quand un propriétaire me parle de désépaississage. Ensuite la double face : une pour casser les nœuds, une pour désépaissir, ce qui couvre l'essentiel des besoins d'entretien à domicile entre deux visites.</p><p>Je le dis clairement à mes clients : ça ne remplace pas un toilettage complet quand il est nécessaire. Mais pour l'entretien régulier — celui qui évite justement que ça dégénère — c'est exactement le type d'outil que je conseille. Et franchement, un animal qui n'associe plus le brossage à la douleur, c'est un animal qu'on brosse plus souvent. Tout le monde y gagne.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_BEQMaK"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq_QhCUL6": {
       "type": "faq",
       "blocks": {
@@ -562,6 +593,7 @@
     "image_with_text_overlay_37tGkH",
     "178647339168de9064",
     "17864740633ce752b0",
+    "images_with_text_scrolling_aeznpT",
     "faq_QhCUL6",
     "17865707261a6b8016"
   ]
