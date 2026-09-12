@@ -46,7 +46,7 @@
         "text_size": "text-xs",
         "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#127AA9",
+        "background": "#127aa9",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -76,6 +76,24 @@
         "background_blur_radius": 0
       }
     },
+    "blocks_F3FqJF": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_e7b0160_zwrw4Q": {
+          "type": "ai_gen_block_e7b0160",
+          "settings": {
+            "image_desktop": "shopify://shop_images/ChatGPT_Image_13_sept._2026_00_06_49_1.png",
+            "image_mobile": "shopify://shop_images/the_glitches_are_there_to_help_you_to_adjust_your_plans_for_success._1_92cd5a1b-93d2-4a19-a79a-98d9bf0039b9.png"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_e7b0160_zwrw4Q"
+      ],
+      "name": "Image d'accueil",
+      "settings": {}
+    },
     "1786471630640e24e0": {
       "type": "_blocks",
       "blocks": {
@@ -95,6 +113,7 @@
   "order": [
     "announcement-bar",
     "header",
+    "blocks_F3FqJF",
     "1786471630640e24e0"
   ]
 }
