@@ -1,96 +1,113 @@
-{%- comment -%}NOVADESTOCK — Offre étudiante{%- endcomment -%}
+{%- comment -%}NOVADESTOCK — Offre pack{%- endcomment -%}
 {% render 'nvd-css', accent: section.settings.accent_color, ink: section.settings.text_color %}
 {%- assign p = section.settings.product -%}
 <style>
-#shopify-section-{{ section.id }} .so{background:{{ section.settings.background_color }};padding:{{ section.settings.padding_top }}px 20px {{ section.settings.padding_bottom }}px}
-#shopify-section-{{ section.id }} .so__box{max-width:1080px;margin:0 auto;border-radius:28px;overflow:hidden;border:1px solid color-mix(in srgb,var(--a) 20%,transparent);background:linear-gradient(150deg,color-mix(in srgb,var(--a) 11%,#fff),#fff 62%)}
-#shopify-section-{{ section.id }} .so__g{display:grid;grid-template-columns:1.05fr .95fr}
-#shopify-section-{{ section.id }} .so__l{padding:44px 42px}
-#shopify-section-{{ section.id }} .so__r{padding:44px 42px;background:#fff;border-left:1px solid var(--line)}
-#shopify-section-{{ section.id }} .so__eye{display:inline-flex;align-items:center;gap:8px;font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;font-weight:800;color:#fff;background:var(--a);padding:8px 15px;border-radius:100px;margin-bottom:20px}
-#shopify-section-{{ section.id }} .so__t{font-size:clamp(26px,3vw,38px);line-height:1.1;letter-spacing:-.03em;font-weight:800;margin:0 0 14px;color:var(--ink)}
-#shopify-section-{{ section.id }} .so__d{font-size:15.5px;line-height:1.62;margin:0 0 26px;color:var(--muted)}
-#shopify-section-{{ section.id }} .so__items{display:grid;gap:12px;margin:0 0 8px;padding:0;list-style:none}
-#shopify-section-{{ section.id }} .so__items li{display:flex;gap:11px;align-items:flex-start;font-size:14.5px;line-height:1.55;color:var(--ink)}
-#shopify-section-{{ section.id }} .so__items svg{flex:0 0 auto;color:var(--a);margin-top:3px}
-#shopify-section-{{ section.id }} .so__f{display:block;font-size:13px;color:var(--muted);margin-top:2px}
-#shopify-section-{{ section.id }} .so__lbl{display:block;font-size:12.5px;font-weight:700;letter-spacing:.02em;text-transform:uppercase;color:color-mix(in srgb,var(--ink) 58%,transparent);margin:0 0 8px}
-#shopify-section-{{ section.id }} .so__sel{width:100%;appearance:none;background:#fff url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23555' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><path d='M6 9l6 6 6-6'/></svg>") no-repeat right 16px center;border:1.5px solid var(--line);border-radius:12px;padding:14px 44px 14px 16px;font-size:15px;font-weight:600;color:var(--ink);cursor:pointer;margin-bottom:20px;font-family:inherit}
-#shopify-section-{{ section.id }} .so__sel:focus{outline:none;border-color:var(--a)}
-#shopify-section-{{ section.id }} .so__price{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;padding:18px 0 6px;border-top:1px solid var(--line)}
-#shopify-section-{{ section.id }} .so__now{font-size:36px;font-weight:800;letter-spacing:-.03em;color:var(--ink);line-height:1}
-#shopify-section-{{ section.id }} .so__old{font-size:17px;text-decoration:line-through;color:color-mix(in srgb,var(--ink) 42%,transparent)}
-#shopify-section-{{ section.id }} .so__save{font-size:12.5px;font-weight:800;color:#fff;background:{{ section.settings.badge_color }};padding:5px 11px;border-radius:100px}
-#shopify-section-{{ section.id }} .so__ship{font-size:13px;color:var(--muted);margin:4px 0 22px}
-#shopify-section-{{ section.id }} .so__btn{width:100%;border:none;cursor:pointer;font-family:inherit;padding:18px 24px;border-radius:100px;font-weight:700;font-size:16px;background:var(--a);color:#fff;box-shadow:0 8px 24px color-mix(in srgb,var(--a) 30%,transparent);transition:transform .18s ease}
-#shopify-section-{{ section.id }} .so__btn:hover{transform:translateY(-2px)}
-#shopify-section-{{ section.id }} .so__btn[disabled]{background:#C2C8CE;box-shadow:none;cursor:not-allowed;transform:none}
-#shopify-section-{{ section.id }} .so__note{font-size:12.5px;line-height:1.55;color:var(--muted);margin:14px 0 0;text-align:center}
-#shopify-section-{{ section.id }} .so__ph{padding:44px;text-align:center;color:var(--muted);font-size:14px}
-@media(max-width:880px){#shopify-section-{{ section.id }} .so__g{grid-template-columns:1fr}#shopify-section-{{ section.id }} .so__r{border-left:none;border-top:1px solid var(--line)}#shopify-section-{{ section.id }} .so__l,#shopify-section-{{ section.id }} .so__r{padding:32px 26px}}
+#shopify-section-{{ section.id }} .pk{background:{{ section.settings.background_color }};padding:{{ section.settings.padding_top }}px 20px {{ section.settings.padding_bottom }}px}
+#shopify-section-{{ section.id }} .pk__box{max-width:1100px;margin:0 auto;border-radius:26px;overflow:hidden;background:#fff;border:1px solid var(--line);box-shadow:0 18px 50px rgba(10,10,10,.06)}
+#shopify-section-{{ section.id }} .pk__g{display:grid;grid-template-columns:1fr 1fr}
+#shopify-section-{{ section.id }} .pk__media{position:relative;background:linear-gradient(160deg,color-mix(in srgb,var(--a) 14%,#fff),#F4F6F8 70%);display:grid;place-items:center;padding:34px;min-height:420px}
+#shopify-section-{{ section.id }} .pk__media img{width:100%;height:100%;object-fit:cover;position:absolute;inset:0}
+#shopify-section-{{ section.id }} .pk__pill{position:absolute;top:20px;left:20px;z-index:2;display:inline-flex;align-items:center;gap:7px;background:{{ section.settings.badge_color }};color:#fff;font-size:12px;font-weight:800;letter-spacing:.04em;text-transform:uppercase;padding:9px 15px;border-radius:100px}
+#shopify-section-{{ section.id }} .pk__side{padding:40px 40px 36px;display:flex;flex-direction:column}
+#shopify-section-{{ section.id }} .pk__eye{display:inline-block;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;font-weight:800;color:var(--a);margin-bottom:14px}
+#shopify-section-{{ section.id }} .pk__t{font-size:clamp(25px,2.6vw,33px);line-height:1.12;letter-spacing:-.03em;font-weight:800;margin:0 0 12px;color:var(--ink)}
+#shopify-section-{{ section.id }} .pk__d{font-size:15px;line-height:1.6;margin:0 0 24px;color:var(--muted)}
+#shopify-section-{{ section.id }} .pk__inc{list-style:none;margin:0 0 26px;padding:0;display:grid;gap:10px}
+#shopify-section-{{ section.id }} .pk__inc li{display:flex;gap:11px;align-items:flex-start;font-size:14.5px;line-height:1.5;color:var(--ink)}
+#shopify-section-{{ section.id }} .pk__inc svg{flex:0 0 auto;color:var(--a);margin-top:3px}
+#shopify-section-{{ section.id }} .pk__inc small{display:block;font-size:13px;color:var(--muted);font-weight:400;margin-top:1px}
+#shopify-section-{{ section.id }} .pk__opts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:22px}
+#shopify-section-{{ section.id }} .pk__opts.one{grid-template-columns:1fr}
+#shopify-section-{{ section.id }} .pk__lbl{display:block;font-size:11.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:color-mix(in srgb,var(--ink) 52%,transparent);margin:0 0 7px}
+#shopify-section-{{ section.id }} .pk__sel{width:100%;appearance:none;background:#fff url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><path d='M6 9l6 6 6-6'/></svg>") no-repeat right 14px center;border:1.5px solid var(--line);border-radius:12px;padding:13px 40px 13px 15px;font-size:14.5px;font-weight:600;color:var(--ink);cursor:pointer;font-family:inherit;transition:border-color .16s ease}
+#shopify-section-{{ section.id }} .pk__sel:hover,#shopify-section-{{ section.id }} .pk__sel:focus{border-color:var(--a);outline:none}
+#shopify-section-{{ section.id }} .pk__pr{display:flex;align-items:baseline;gap:11px;flex-wrap:wrap;margin-bottom:4px}
+#shopify-section-{{ section.id }} .pk__now{font-size:38px;font-weight:800;letter-spacing:-.035em;color:var(--ink);line-height:1}
+#shopify-section-{{ section.id }} .pk__old{font-size:17px;text-decoration:line-through;color:color-mix(in srgb,var(--ink) 40%,transparent)}
+#shopify-section-{{ section.id }} .pk__save{font-size:12.5px;font-weight:800;color:#fff;background:{{ section.settings.badge_color }};padding:5px 11px;border-radius:100px}
+#shopify-section-{{ section.id }} .pk__eco{font-size:13.5px;font-weight:600;color:var(--a);margin:0 0 20px;min-height:19px}
+#shopify-section-{{ section.id }} .pk__btn{width:100%;border:none;cursor:pointer;font-family:inherit;padding:19px 24px;border-radius:100px;font-weight:700;font-size:16px;letter-spacing:-.01em;background:var(--a);color:#fff;box-shadow:0 10px 28px color-mix(in srgb,var(--a) 32%,transparent);transition:transform .16s ease,box-shadow .16s ease;display:flex;align-items:center;justify-content:center;gap:10px}
+#shopify-section-{{ section.id }} .pk__btn:hover{transform:translateY(-2px);box-shadow:0 14px 34px color-mix(in srgb,var(--a) 38%,transparent)}
+#shopify-section-{{ section.id }} .pk__btn[disabled]{background:#C2C8CE;box-shadow:none;cursor:not-allowed;transform:none}
+#shopify-section-{{ section.id }} .pk__re{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:center;margin-top:18px;padding-top:18px;border-top:1px solid var(--line)}
+#shopify-section-{{ section.id }} .pk__re span{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;font-weight:600;color:color-mix(in srgb,var(--ink) 60%,transparent)}
+#shopify-section-{{ section.id }} .pk__re svg{color:var(--a);flex:0 0 auto}
+#shopify-section-{{ section.id }} .pk__ph{padding:60px 30px;text-align:center;color:var(--muted);font-size:14.5px}
+@media(max-width:900px){#shopify-section-{{ section.id }} .pk__g{grid-template-columns:1fr}#shopify-section-{{ section.id }} .pk__media{min-height:280px}#shopify-section-{{ section.id }} .pk__side{padding:30px 24px 28px}#shopify-section-{{ section.id }} .pk__opts{grid-template-columns:1fr}}
 </style>
-<div class="nvd so"><div class="so__box">
+<div class="nvd pk"><div class="pk__box">
 {%- if p == blank -%}
-<div class="so__ph">Sélectionnez le produit du pack dans les réglages de la section.</div>
+<div class="pk__ph">Sélectionnez le produit du pack dans les réglages de la section.</div>
 {%- else -%}
-<div class="so__g">
-<div class="so__l">
-{%- if section.settings.eyebrow != blank -%}<span class="so__eye">{{ section.settings.eyebrow }}</span>{%- endif -%}
-<h2 class="so__t">{{ section.settings.heading }}</h2>
-{%- if section.settings.description != blank -%}<p class="so__d">{{ section.settings.description }}</p>{%- endif -%}
-<ul class="so__items">
+<div class="pk__g">
+<div class="pk__media">
+{%- if section.settings.badge_text != blank -%}<span class="pk__pill">{{ section.settings.badge_text }}</span>{%- endif -%}
+{%- if section.settings.image != blank -%}
+<img src="{{ section.settings.image | image_url: width: 1200 }}" alt="{{ section.settings.image.alt | escape }}" loading="lazy">
+{%- elsif p.featured_image -%}
+<img src="{{ p.featured_image | image_url: width: 1200 }}" alt="{{ p.featured_image.alt | escape }}" loading="lazy">
+{%- else -%}
+<svg width="74%" viewBox="0 0 320 240" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+<rect x="34" y="38" width="196" height="126" rx="11" fill="#fff" stroke="{{ section.settings.accent_color }}" stroke-opacity=".38" stroke-width="3"/>
+<rect x="46" y="50" width="172" height="102" rx="5" fill="{{ section.settings.accent_color }}" fill-opacity=".09"/>
+<rect x="14" y="166" width="236" height="11" rx="5.5" fill="{{ section.settings.accent_color }}" fill-opacity=".3"/>
+<path d="M228 196v-34a34 34 0 0 1 68 0v34" stroke="{{ section.settings.accent_color }}" stroke-opacity=".55" stroke-width="7" stroke-linecap="round"/>
+<rect x="216" y="190" width="26" height="44" rx="12" fill="#fff" stroke="{{ section.settings.accent_color }}" stroke-width="5"/>
+<rect x="282" y="190" width="26" height="44" rx="12" fill="#fff" stroke="{{ section.settings.accent_color }}" stroke-width="5"/>
+</svg>
+{%- endif -%}
+</div>
+<div class="pk__side">
+{%- if section.settings.eyebrow != blank -%}<span class="pk__eye">{{ section.settings.eyebrow }}</span>{%- endif -%}
+<h2 class="pk__t">{{ section.settings.heading }}</h2>
+{%- if section.settings.description != blank -%}<p class="pk__d">{{ section.settings.description }}</p>{%- endif -%}
+{%- if section.blocks.size > 0 -%}
+<ul class="pk__inc">
 {%- for block in section.blocks -%}
-<li {{ block.shopify_attributes }}><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>{{ block.settings.title }}</strong>{%- if block.settings.text != blank -%}<span class="so__f">{{ block.settings.text }}</span>{%- endif -%}</span></li>
+<li {{ block.shopify_attributes }}><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.9" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg><span><strong>{{ block.settings.title }}</strong>{%- if block.settings.text != blank -%}<small>{{ block.settings.text }}</small>{%- endif -%}</span></li>
 {%- endfor -%}
 </ul>
-</div>
-<div class="so__r">
-<form method="post" action="/cart/add" id="soform-{{ section.id }}">
+{%- endif -%}
+<form method="post" action="/cart/add">
 <input type="hidden" name="form_type" value="product">
 <input type="hidden" name="utf8" value="✓">
-<input type="hidden" name="id" id="soid-{{ section.id }}" value="{{ p.selected_or_first_available_variant.id }}">
+<input type="hidden" name="id" id="pkid-{{ section.id }}" value="{{ p.selected_or_first_available_variant.id }}">
+<div class="pk__opts{% if p.options_with_values.size == 1 %} one{% endif %}">
 {%- for opt in p.options_with_values -%}
-<label class="so__lbl" for="soopt{{ forloop.index }}-{{ section.id }}">{{ opt.name }}</label>
-<select class="so__sel" id="soopt{{ forloop.index }}-{{ section.id }}" data-idx="{{ forloop.index0 }}">
-{%- for v in opt.values -%}<option value="{{ v | escape }}">{{ v }}</option>{%- endfor -%}
-</select>
+<div><label class="pk__lbl" for="pko{{ forloop.index }}-{{ section.id }}">{{ opt.name }}</label>
+<select class="pk__sel" id="pko{{ forloop.index }}-{{ section.id }}">{%- for v in opt.values -%}<option value="{{ v | escape }}">{{ v }}</option>{%- endfor -%}</select></div>
 {%- endfor -%}
-<div class="so__price">
-<span class="so__now" id="sonow-{{ section.id }}"></span>
-<span class="so__old" id="soold-{{ section.id }}"></span>
-<span class="so__save" id="sosave-{{ section.id }}"></span>
 </div>
-<p class="so__ship">{{ section.settings.ship_label }}</p>
-<button type="submit" class="so__btn" id="sobtn-{{ section.id }}">{{ section.settings.button_label }}</button>
-{%- if section.settings.note != blank -%}<p class="so__note">{{ section.settings.note }}</p>{%- endif -%}
+<div class="pk__pr"><span class="pk__now" id="pknow-{{ section.id }}"></span><span class="pk__old" id="pkold-{{ section.id }}"></span><span class="pk__save" id="pksave-{{ section.id }}"></span></div>
+<p class="pk__eco" id="pkeco-{{ section.id }}"></p>
+<button type="submit" class="pk__btn" id="pkbtn-{{ section.id }}"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h2l2.5 11h10L20 7H6"/><circle cx="9" cy="20" r="1.6"/><circle cx="18" cy="20" r="1.6"/></svg><span id="pklab-{{ section.id }}">{{ section.settings.button_label }}</span></button>
 </form>
+<div class="pk__re">
+<span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h13v13H1zM14 8h4l3 3v5h-7z"/><circle cx="5.5" cy="19" r="2"/><circle cx="17.5" cy="19" r="2"/></svg>{{ section.settings.re1 }}</span>
+<span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 9-8 10-4.6-1-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>{{ section.settings.re2 }}</span>
+<span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>{{ section.settings.re3 }}</span>
+</div>
 </div>
 </div>
 <script>
 (function(){
   var sid = {{ section.id | json }};
-  var data = [
-  {%- for v in p.variants -%}
-    {id:{{ v.id }},o:{{ v.options | json }},p:{{ v.price }},c:{{ v.compare_at_price | default: 0 }},a:{{ v.available }},pf:{{ v.price | money | json }},cf:{{ v.compare_at_price | money | json }}}{%- unless forloop.last -%},{%- endunless -%}
-  {%- endfor -%}
-  ];
-  var root = document.getElementById('shopify-section-'+sid);
-  if(!root) return;
-  var sels = root.querySelectorAll('.so__sel');
-  var now = document.getElementById('sonow-'+sid), old = document.getElementById('soold-'+sid);
-  var save = document.getElementById('sosave-'+sid), idf = document.getElementById('soid-'+sid), btn = document.getElementById('sobtn-'+sid);
-  var soldOut = {{ section.settings.soldout_label | json }}, buy = {{ section.settings.button_label | json }};
+  var data = [{%- for v in p.variants -%}{id:{{ v.id }},o:{{ v.options | json }},p:{{ v.price }},c:{{ v.compare_at_price | default: 0 }},a:{{ v.available }},pf:{{ v.price | money | json }},cf:{{ v.compare_at_price | money | json }}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}];
+  var root = document.getElementById('shopify-section-'+sid); if(!root) return;
+  var sels = root.querySelectorAll('.pk__sel');
+  var now = document.getElementById('pknow-'+sid), old = document.getElementById('pkold-'+sid), sv = document.getElementById('pksave-'+sid);
+  var eco = document.getElementById('pkeco-'+sid), idf = document.getElementById('pkid-'+sid);
+  var btn = document.getElementById('pkbtn-'+sid), lab = document.getElementById('pklab-'+sid);
+  var so = {{ section.settings.soldout_label | json }}, buy = {{ section.settings.button_label | json }}, ecoT = {{ section.settings.save_label | json }};
+  function fmt(c){ return (c/100).toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2})+' €'; }
   function sync(){
-    var chosen = [];
-    sels.forEach(function(s){ chosen.push(s.value); });
-    var m = data.find(function(v){ return v.o.every(function(x,i){ return x === chosen[i]; }); });
-    if(!m){ btn.disabled = true; btn.textContent = soldOut; now.textContent=''; old.textContent=''; save.textContent=''; return; }
-    idf.value = m.id;
-    now.textContent = m.pf;
-    if(m.c > m.p){ old.textContent = m.cf; save.textContent = '-' + Math.round((m.c-m.p)*100/m.c) + ' %'; save.style.display=''; }
-    else { old.textContent=''; save.textContent=''; save.style.display='none'; }
-    btn.disabled = !m.a;
-    btn.textContent = m.a ? buy : soldOut;
+    var ch = []; sels.forEach(function(s){ ch.push(s.value); });
+    var m = data.find(function(v){ return v.o.every(function(x,i){ return x === ch[i]; }); });
+    if(!m){ btn.disabled=true; lab.textContent=so; now.textContent=''; old.textContent=''; sv.textContent=''; eco.textContent=''; return; }
+    idf.value = m.id; now.textContent = m.pf;
+    if(m.c > m.p){ old.textContent=m.cf; sv.textContent='-'+Math.round((m.c-m.p)*100/m.c)+' %'; sv.style.display=''; eco.textContent = ecoT.replace('{montant}', fmt(m.c-m.p)); }
+    else { old.textContent=''; sv.textContent=''; sv.style.display='none'; eco.textContent=''; }
+    btn.disabled = !m.a; lab.textContent = m.a ? buy : so;
   }
   sels.forEach(function(s){ s.addEventListener('change', sync); });
   sync();
@@ -99,5 +116,5 @@
 {%- endif -%}
 </div></div>
 {% schema %}
-{"name":"NVD — Offre étudiante","tag":"section","max_blocks":6,"settings":[{"type":"product","id":"product","label":"Produit du pack"},{"type":"text","id":"eyebrow","label":"Badge","default":"Offre étudiante · Rentrée 2026"},{"type":"text","id":"heading","label":"Titre","default":"Équipé pour toute l'année"},{"type":"textarea","id":"description","label":"Description","default":"Un MacBook pour travailler, un casque pour se concentrer. Les deux neufs et scellés, dans un seul pack."},{"type":"text","id":"ship_label","label":"Mention livraison","default":"Livraison offerte · 3 à 7 jours · Garantie 2 ans"},{"type":"text","id":"button_label","label":"Bouton","default":"Profiter de l'offre"},{"type":"text","id":"soldout_label","label":"Texte rupture","default":"Rupture de stock"},{"type":"textarea","id":"note","label":"Note sous le bouton","default":"Stock limité. Offre valable jusqu'à épuisement des lots."},{"type":"header","content":"Couleurs & espacements"},{"type":"color","id":"accent_color","label":"Accent","default":"#127aa9"},{"type":"color","id":"badge_color","label":"Badge remise","default":"#FF3B30"},{"type":"color","id":"text_color","label":"Texte","default":"#0A0A0A"},{"type":"color","id":"background_color","label":"Fond","default":"#FFFFFF"},{"type":"range","id":"padding_top","min":0,"max":160,"step":4,"unit":"px","label":"Marge haute","default":76},{"type":"range","id":"padding_bottom","min":0,"max":160,"step":4,"unit":"px","label":"Marge basse","default":76}],"blocks":[{"type":"item","name":"Élément du pack","settings":[{"type":"text","id":"title","label":"Titre","default":"Produit inclus"},{"type":"text","id":"text","label":"Détail","default":"Description courte"}]}],"presets":[{"name":"NVD — Offre étudiante","blocks":[{"type":"item","settings":{"title":"MacBook Neo 13 pouces","text":"Puce A18 Pro, écran Liquid Retina, 16 h d'autonomie"}},{"type":"item","settings":{"title":"AirPods Max (USB-C)","text":"Réduction de bruit active, 20 h d'autonomie"}}]}]}
+{"name":"NVD — Offre pack","tag":"section","max_blocks":6,"settings":[{"type":"product","id":"product","label":"Produit du pack"},{"type":"image_picker","id":"image","label":"Visuel (sinon photo du produit)"},{"type":"text","id":"badge_text","label":"Badge sur le visuel","default":"Offre limitée"},{"type":"text","id":"eyebrow","label":"Sur-titre","default":"Offre étudiante · Rentrée 2026"},{"type":"text","id":"heading","label":"Titre","default":"Équipé pour toute l'année"},{"type":"textarea","id":"description","label":"Description","default":"Un MacBook pour travailler, un casque pour se concentrer. Les deux neufs et scellés, dans un seul pack."},{"type":"header","content":"Achat"},{"type":"text","id":"button_label","label":"Bouton","default":"Ajouter au panier"},{"type":"text","id":"soldout_label","label":"Texte rupture","default":"Rupture de stock"},{"type":"text","id":"save_label","label":"Ligne d'économie ({montant} = valeur calculée)","default":"Vous économisez {montant} sur cette offre"},{"type":"header","content":"Réassurance sous le bouton"},{"type":"text","id":"re1","label":"Mention 1","default":"Livraison offerte"},{"type":"text","id":"re2","label":"Mention 2","default":"Garantie 2 ans"},{"type":"text","id":"re3","label":"Mention 3","default":"Retour 14 jours"},{"type":"header","content":"Couleurs & espacements"},{"type":"color","id":"accent_color","label":"Accent","default":"#127aa9"},{"type":"color","id":"badge_color","label":"Badge","default":"#FF3B30"},{"type":"color","id":"text_color","label":"Texte","default":"#0A0A0A"},{"type":"color","id":"background_color","label":"Fond","default":"#F4F6F8"},{"type":"range","id":"padding_top","min":0,"max":160,"step":4,"unit":"px","label":"Marge haute","default":76},{"type":"range","id":"padding_bottom","min":0,"max":160,"step":4,"unit":"px","label":"Marge basse","default":76}],"blocks":[{"type":"item","name":"Élément inclus","settings":[{"type":"text","id":"title","label":"Titre","default":"Produit inclus"},{"type":"text","id":"text","label":"Détail","default":"Description courte"}]}],"presets":[{"name":"NVD — Offre pack","blocks":[{"type":"item","settings":{"title":"MacBook Neo 13 pouces","text":"Puce A18 Pro, écran Liquid Retina, 16 h d'autonomie"}},{"type":"item","settings":{"title":"AirPods Max (USB-C)","text":"Réduction de bruit active, 20 h d'autonomie"}},{"type":"item","settings":{"title":"Neufs et scellés","text":"Emballage Apple d'origine, numéros de série vérifiables"}}]}]}
 {% endschema %}
