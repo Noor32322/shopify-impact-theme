@@ -48,31 +48,24 @@
     },
     "student": {
       "type": "nvd-student-offer",
-      "blocks": {
-        "i1": { "type": "item", "settings": { "title": "MacBook Neo 13 pouces", "text": "Puce A18 Pro, écran Liquid Retina, jusqu'à 16 h d'autonomie" } },
-        "i2": { "type": "item", "settings": { "title": "AirPods Max (USB-C)", "text": "Réduction de bruit active, 20 h d'autonomie, étui fourni" } },
-        "i3": { "type": "item", "settings": { "title": "Les deux neufs et scellés", "text": "Emballage Apple d'origine, numéros de série vérifiables" } },
-        "i4": { "type": "item", "settings": { "title": "Livraison offerte en 3 à 7 jours", "text": "Facture nominative et garantie 2 ans incluses" } }
-      },
-      "block_order": ["i1", "i2", "i3", "i4"],
       "settings": {
         "product": "offre-etudiante-macbook-neo-airpods-max",
-        "eyebrow": "Offre étudiante · Rentrée 2026",
-        "heading": "Équipé pour toute l'année",
-        "description": "Un MacBook pour travailler, un casque pour se concentrer. Les deux neufs et scellés, dans un seul pack.",
-        "badge_text": "Offre limitée",
+        "product_a": "macbook-neo-13-a18-pro-neuf-scelle",
+        "title_a": "MacBook Neo",
+        "product_b": "airpods-max-usb-c-neufs-scelles",
+        "title_b": "AirPods Max",
+        "eyebrow": "Offre étudiante",
+        "heading": "Le pack rentrée",
         "button_label": "Ajouter au panier",
         "soldout_label": "Rupture de stock",
-        "save_label": "Vous économisez {montant} sur cette offre",
-        "re1": "Livraison offerte",
-        "re2": "Garantie 2 ans",
-        "re3": "Retour 14 jours",
+        "save_label": "Vous économisez {montant}",
+        "trust_line": "Livraison offerte · Garantie 2 ans · Retour 14 jours",
         "accent_color": "#127aa9",
         "badge_color": "#ff3b30",
         "text_color": "#0a0a0a",
-        "background_color": "#ffffff",
+        "background_color": "#f4f6f8",
         "padding_top": 64,
-        "padding_bottom": 24
+        "padding_bottom": 64
       }
     },
     "grid": {
