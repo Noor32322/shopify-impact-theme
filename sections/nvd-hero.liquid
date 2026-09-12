@@ -1,0 +1,177 @@
+{%- comment -%} NOVADESTOCK — Hero {%- endcomment -%}
+<style>
+  #shopify-section-{{ section.id }} .nvd-hero{
+    --nvd-accent: {{ section.settings.accent_color }};
+    --nvd-ink: {{ section.settings.text_color }};
+    background: {{ section.settings.background_color }};
+    padding: {{ section.settings.padding_top }}px 20px {{ section.settings.padding_bottom }}px;
+  }
+  #shopify-section-{{ section.id }} .nvd-hero__inner{
+    max-width:1180px;margin:0 auto;display:grid;grid-template-columns:1.05fr .95fr;
+    gap:56px;align-items:center;
+  }
+  #shopify-section-{{ section.id }} .nvd-eyebrow{
+    display:inline-flex;align-items:center;gap:8px;font-size:12px;letter-spacing:.12em;
+    text-transform:uppercase;font-weight:700;color:var(--nvd-accent);
+    background:color-mix(in srgb,var(--nvd-accent) 10%,transparent);
+    border:1px solid color-mix(in srgb,var(--nvd-accent) 22%,transparent);
+    padding:8px 14px;border-radius:100px;margin-bottom:24px;
+  }
+  #shopify-section-{{ section.id }} .nvd-hero h1{
+    font-size:clamp(34px,4.4vw,58px);line-height:1.04;letter-spacing:-.03em;
+    margin:0 0 20px;color:var(--nvd-ink);font-weight:800;
+  }
+  #shopify-section-{{ section.id }} .nvd-hero h1 em{font-style:normal;color:var(--nvd-accent);}
+  #shopify-section-{{ section.id }} .nvd-hero p.nvd-sub{
+    font-size:17px;line-height:1.62;color:color-mix(in srgb,var(--nvd-ink) 68%,transparent);
+    margin:0 0 30px;max-width:50ch;
+  }
+  #shopify-section-{{ section.id }} .nvd-cta-row{display:flex;flex-wrap:wrap;gap:12px;margin-bottom:32px;}
+  #shopify-section-{{ section.id }} .nvd-btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:9px;
+    padding:16px 30px;border-radius:100px;font-weight:700;font-size:15px;
+    text-decoration:none;transition:transform .18s ease,box-shadow .18s ease,background .18s ease;
+  }
+  #shopify-section-{{ section.id }} .nvd-btn--primary{
+    background:var(--nvd-accent);color:#fff;
+    box-shadow:0 8px 24px color-mix(in srgb,var(--nvd-accent) 32%,transparent);
+  }
+  #shopify-section-{{ section.id }} .nvd-btn--primary:hover{transform:translateY(-2px);}
+  #shopify-section-{{ section.id }} .nvd-btn--ghost{
+    background:transparent;color:var(--nvd-ink);
+    border:1.5px solid color-mix(in srgb,var(--nvd-ink) 16%,transparent);
+  }
+  #shopify-section-{{ section.id }} .nvd-btn--ghost:hover{border-color:var(--nvd-accent);color:var(--nvd-accent);}
+  #shopify-section-{{ section.id }} .nvd-proof{
+    display:flex;flex-wrap:wrap;gap:10px 26px;padding-top:26px;
+    border-top:1px solid color-mix(in srgb,var(--nvd-ink) 10%,transparent);
+  }
+  #shopify-section-{{ section.id }} .nvd-proof span{
+    display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;
+    color:color-mix(in srgb,var(--nvd-ink) 72%,transparent);
+  }
+  #shopify-section-{{ section.id }} .nvd-proof svg{flex:0 0 auto;color:var(--nvd-accent);}
+  #shopify-section-{{ section.id }} .nvd-visual{position:relative;}
+  #shopify-section-{{ section.id }} .nvd-visual img{
+    width:100%;height:auto;display:block;border-radius:24px;
+  }
+  #shopify-section-{{ section.id }} .nvd-figure{
+    position:relative;border-radius:28px;overflow:hidden;
+    background:linear-gradient(150deg,color-mix(in srgb,var(--nvd-accent) 14%,#fff) 0%,color-mix(in srgb,var(--nvd-accent) 4%,#fff) 55%,#fff 100%);
+    border:1px solid color-mix(in srgb,var(--nvd-accent) 16%,transparent);
+    aspect-ratio:4/3.4;display:grid;place-items:center;
+  }
+  #shopify-section-{{ section.id }} .nvd-discbadge{
+    position:absolute;top:20px;right:20px;background:{{ section.settings.badge_color }};color:#fff;
+    border-radius:100px;padding:11px 20px;font-weight:800;font-size:15px;letter-spacing:-.01em;
+    box-shadow:0 10px 26px color-mix(in srgb,{{ section.settings.badge_color }} 35%,transparent);
+  }
+  @media (max-width:900px){
+    #shopify-section-{{ section.id }} .nvd-hero__inner{grid-template-columns:1fr;gap:36px;}
+    #shopify-section-{{ section.id }} .nvd-visual{order:-1;}
+  }
+</style>
+
+<div class="nvd-hero">
+  <div class="nvd-hero__inner">
+    <div class="nvd-hero__text">
+      {%- if section.settings.eyebrow != blank -%}
+        <span class="nvd-eyebrow">
+          <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="12"/></svg>
+          {{ section.settings.eyebrow }}
+        </span>
+      {%- endif -%}
+      <h1>{{ section.settings.heading }}</h1>
+      {%- if section.settings.subheading != blank -%}
+        <p class="nvd-sub">{{ section.settings.subheading }}</p>
+      {%- endif -%}
+      <div class="nvd-cta-row">
+        {%- if section.settings.button_label != blank -%}
+          <a class="nvd-btn nvd-btn--primary" href="{{ section.settings.button_link | default: '#' }}">
+            {{ section.settings.button_label }}
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+        {%- endif -%}
+        {%- if section.settings.button2_label != blank -%}
+          <a class="nvd-btn nvd-btn--ghost" href="{{ section.settings.button2_link | default: '#' }}">{{ section.settings.button2_label }}</a>
+        {%- endif -%}
+      </div>
+      <div class="nvd-proof">
+        {%- for block in section.blocks -%}
+          <span {{ block.shopify_attributes }}>
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+            {{ block.settings.text }}
+          </span>
+        {%- endfor -%}
+      </div>
+    </div>
+
+    <div class="nvd-visual">
+      {%- if section.settings.image != blank -%}
+        <img src="{{ section.settings.image | image_url: width: 1200 }}" alt="{{ section.settings.image.alt | escape }}" loading="eager" width="1200" height="1020">
+      {%- else -%}
+        <div class="nvd-figure">
+          <svg width="62%" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Produit authentique scellé">
+            <rect x="52" y="34" width="196" height="232" rx="26" fill="#fff" stroke="{{ section.settings.accent_color }}" stroke-opacity=".28" stroke-width="2.5"/>
+            <rect x="52" y="34" width="196" height="232" rx="26" fill="{{ section.settings.accent_color }}" fill-opacity=".04"/>
+            <circle cx="150" cy="128" r="46" fill="{{ section.settings.accent_color }}" fill-opacity=".1"/>
+            <path d="M128 128l15 15 30-31" stroke="{{ section.settings.accent_color }}" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+            <rect x="92" y="196" width="116" height="9" rx="4.5" fill="{{ section.settings.accent_color }}" fill-opacity=".22"/>
+            <rect x="112" y="216" width="76" height="9" rx="4.5" fill="{{ section.settings.accent_color }}" fill-opacity=".12"/>
+          </svg>
+        </div>
+      {%- endif -%}
+      {%- if section.settings.badge_text != blank -%}
+        <div class="nvd-discbadge">{{ section.settings.badge_text }}</div>
+      {%- endif -%}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "NVD — Hero",
+  "tag": "section",
+  "settings": [
+    { "type": "header", "content": "Contenu" },
+    { "type": "text", "id": "eyebrow", "label": "Sur-titre", "default": "Déstockage officiel · Stock limité" },
+    { "type": "text", "id": "heading", "label": "Titre principal", "default": "Le vrai Apple. Au prix du déstockage." },
+    { "type": "textarea", "id": "subheading", "label": "Sous-titre", "default": "Des AirPods authentiques, neufs et scellés, issus de fins de série de distributeurs européens. Pas de contrefaçon, pas de reconditionné. Livraison offerte en 3 à 7 jours." },
+    { "type": "header", "content": "Boutons" },
+    { "type": "text", "id": "button_label", "label": "Bouton principal", "default": "Voir les AirPods en déstockage" },
+    { "type": "url", "id": "button_link", "label": "Lien bouton principal" },
+    { "type": "text", "id": "button2_label", "label": "Bouton secondaire", "default": "Comment on fait ces prix" },
+    { "type": "url", "id": "button2_link", "label": "Lien bouton secondaire" },
+    { "type": "header", "content": "Visuel" },
+    { "type": "image_picker", "id": "image", "label": "Image (laisser vide pour le visuel généré)" },
+    { "type": "text", "id": "badge_text", "label": "Badge remise", "default": "Jusqu'à -60 %" },
+    { "type": "color", "id": "badge_color", "label": "Couleur du badge", "default": "#FF3B30" },
+    { "type": "header", "content": "Couleurs & espacements" },
+    { "type": "color", "id": "accent_color", "label": "Couleur d'accent", "default": "#127aa9" },
+    { "type": "color", "id": "text_color", "label": "Couleur du texte", "default": "#0A0A0A" },
+    { "type": "color", "id": "background_color", "label": "Fond", "default": "#FFFFFF" },
+    { "type": "range", "id": "padding_top", "min": 0, "max": 160, "step": 4, "unit": "px", "label": "Marge haute", "default": 72 },
+    { "type": "range", "id": "padding_bottom", "min": 0, "max": 160, "step": 4, "unit": "px", "label": "Marge basse", "default": 72 }
+  ],
+  "blocks": [
+    {
+      "type": "proof",
+      "name": "Point de réassurance",
+      "settings": [
+        { "type": "text", "id": "text", "label": "Texte", "default": "Produits authentiques" }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "NVD — Hero",
+      "blocks": [
+        { "type": "proof", "settings": { "text": "100 % authentique Apple" } },
+        { "type": "proof", "settings": { "text": "Livraison offerte" } },
+        { "type": "proof", "settings": { "text": "Garantie 2 ans" } },
+        { "type": "proof", "settings": { "text": "Facture fournie" } }
+      ]
+    }
+  ]
+}
+{% endschema %}
