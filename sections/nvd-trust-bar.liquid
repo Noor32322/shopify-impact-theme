@@ -1,0 +1,28 @@
+{%- comment -%}NOVADESTOCK — Réassurance{%- endcomment -%}
+{% render 'nvd-css', accent: section.settings.accent_color, ink: section.settings.text_color %}
+<style>
+#shopify-section-{{ section.id }} .tb{background:{{ section.settings.background_color }};border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:{{ section.settings.padding_top }}px 20px {{ section.settings.padding_bottom }}px}
+#shopify-section-{{ section.id }} .tb__g{display:grid;grid-template-columns:repeat({{ section.blocks.size | at_most: 4 }},1fr);gap:28px}
+#shopify-section-{{ section.id }} .tb__i{display:flex;gap:14px;align-items:flex-start}
+#shopify-section-{{ section.id }} .tb__ic{flex:0 0 auto;width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:var(--soft);color:var(--a)}
+#shopify-section-{{ section.id }} .tb__t{font-weight:700;font-size:15px;margin:0 0 3px;color:var(--ink);letter-spacing:-.01em}
+#shopify-section-{{ section.id }} .tb__d{font-size:13.5px;line-height:1.5;margin:0;color:var(--muted)}
+@media(max-width:880px){#shopify-section-{{ section.id }} .tb__g{grid-template-columns:1fr 1fr;gap:22px}}
+@media(max-width:520px){#shopify-section-{{ section.id }} .tb__g{grid-template-columns:1fr}}
+</style>
+<div class="nvd tb"><div class="nvd__in tb__g">
+{%- for block in section.blocks -%}<div class="tb__i" {{ block.shopify_attributes }}><div class="tb__ic">
+{%- case block.settings.icon -%}
+{%- when 'shield' -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l8 4v6c0 5-3.4 9-8 10-4.6-1-8-5-8-10V6z"/><path d="M9 12l2 2 4-4"/></svg>
+{%- when 'truck' -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 3h13v13H1zM14 8h4l3 3v5h-7z"/><circle cx="5.5" cy="19" r="2"/><circle cx="17.5" cy="19" r="2"/></svg>
+{%- when 'clock' -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3.5 2"/></svg>
+{%- when 'receipt' -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 2h14v20l-3-2-2 2-2-2-2 2-2-2-3 2z"/><path d="M9 8h6M9 12h6"/></svg>
+{%- when 'return' -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg>
+{%- when 'lock' -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></svg>
+{%- else -%}<svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
+{%- endcase -%}
+</div><div><p class="tb__t">{{ block.settings.title }}</p><p class="tb__d">{{ block.settings.description }}</p></div></div>{%- endfor -%}
+</div></div>
+{% schema %}
+{"name":"NVD — Réassurance","tag":"section","max_blocks":4,"settings":[{"type":"color","id":"accent_color","label":"Accent","default":"#127aa9"},{"type":"color","id":"text_color","label":"Texte","default":"#0A0A0A"},{"type":"color","id":"background_color","label":"Fond","default":"#FFFFFF"},{"type":"range","id":"padding_top","min":0,"max":100,"step":2,"unit":"px","label":"Marge haute","default":30},{"type":"range","id":"padding_bottom","min":0,"max":100,"step":2,"unit":"px","label":"Marge basse","default":30}],"blocks":[{"type":"item","name":"Argument","settings":[{"type":"select","id":"icon","label":"Icône","default":"shield","options":[{"value":"shield","label":"Bouclier"},{"value":"truck","label":"Camion"},{"value":"clock","label":"Horloge"},{"value":"receipt","label":"Facture"},{"value":"return","label":"Retour"},{"value":"lock","label":"Cadenas"},{"value":"check","label":"Coche"}]},{"type":"text","id":"title","label":"Titre","default":"Titre"},{"type":"text","id":"description","label":"Description","default":"Description"}]}],"presets":[{"name":"NVD — Réassurance","blocks":[{"type":"item","settings":{"icon":"shield","title":"100 % authentique Apple","description":"Neufs, scellés, numéro de série vérifiable chez Apple."}},{"type":"item","settings":{"icon":"truck","title":"Livraison offerte","description":"Sans minimum d'achat."}},{"type":"item","settings":{"icon":"clock","title":"Livré en 3 à 7 jours","description":"Expédition sous 24 h ouvrées."}},{"type":"item","settings":{"icon":"receipt","title":"Facture & garantie 2 ans","description":"Facture nominative à chaque commande."}}]}]}
+{% endschema %}
