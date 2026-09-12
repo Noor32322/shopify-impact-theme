@@ -555,6 +555,81 @@
         "padding_bottom": 76
       }
     },
+    "nvd_reviews_TrLWGi": {
+      "type": "nvd-reviews",
+      "blocks": {
+        "review_zPpcg6": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Ahmed.E",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_bUPBUH": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_W3MBTm": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_9nybXY": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        }
+      },
+      "block_order": [
+        "review_zPpcg6",
+        "review_bUPBUH",
+        "review_W3MBTm",
+        "review_9nybXY"
+      ],
+      "name": "NVD — Avis clients",
+      "settings": {
+        "heading": "Ce qu'en disent nos clients",
+        "subheading": "",
+        "global_note": "4,9/5",
+        "layout": "slider",
+        "card_width": 320,
+        "show_arrows": false,
+        "columns": 3,
+        "gap": 20,
+        "radius": 20,
+        "card_padding": 22,
+        "text_size": 15,
+        "show_placeholder": true,
+        "show_avatar": true,
+        "show_number": true,
+        "star_size": 16,
+        "star_color": "#F5A623",
+        "accent_color": "#127aa9",
+        "text_color": "#0A0A0A",
+        "background_color": "#F4F6F8",
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
+    },
     "blocks_R3N8hL": {
       "type": "_blocks",
       "name": "Avis défilants",
@@ -562,137 +637,8 @@
     },
     "blocks_t8mxwy": {
       "type": "_blocks",
-      "blocks": {
-        "ai_gen_block_b120873_xxEw3G": {
-          "type": "ai_gen_block_b120873",
-          "settings": {
-            "heading": "Ce que disent nos clients",
-            "subheading": "Découvrez les avis de nos clients satisfaits",
-            "heading_alignment": "center",
-            "heading_size": 36,
-            "subheading_size": 16,
-            "review_1_rating": 5,
-            "review_1_text": "Produit de qualité exceptionnelle ! Je recommande vivement.",
-            "review_1_author": "Marie D.",
-            "review_2_rating": 5,
-            "review_2_text": "Livraison rapide et produit conforme à mes attentes.",
-            "review_2_author": "Pierre L.",
-            "review_3_rating": 5,
-            "review_3_text": "Excellent rapport qualité-prix. Très satisfaite de mon achat.",
-            "review_3_author": "Sophie M.",
-            "review_4_rating": 5,
-            "review_4_text": "Service client au top et produit magnifique !",
-            "review_4_author": "Thomas B.",
-            "review_5_rating": 5,
-            "review_5_text": "Je suis ravie de ma commande. Produit de grande qualité.",
-            "review_5_author": "Julie R.",
-            "review_6_rating": 5,
-            "review_6_text": "Parfait ! Exactement ce que je cherchais.",
-            "review_6_author": "Alexandre C.",
-            "card_width": 350,
-            "card_spacing": 20,
-            "card_padding": 20,
-            "card_border_radius": 12,
-            "card_shadow_opacity": 0.1,
-            "image_height": 250,
-            "image_border_radius": 8,
-            "star_size": 20,
-            "star_color": "#FFD700",
-            "star_empty_color": "#E0E0E0",
-            "review_text_size": 15,
-            "author_text_size": 14,
-            "show_controls": true,
-            "background_color": "#f9f9f9",
-            "card_background": "#ffffff",
-            "heading_color": "#1a1a1a",
-            "text_color": "#666666",
-            "author_color": "#1a1a1a",
-            "button_background": "#1a1a1a",
-            "button_color": "#ffffff",
-            "button_hover_background": "#333333",
-            "container_width": 1400
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "ai_gen_block_b120873_xxEw3G"
-      ],
       "name": "Avis défilants",
       "settings": {}
-    },
-    "testimonials_zFPAPW": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_d3KdCp": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Client 1",
-            "title": "Avis client 1",
-            "content": "<p>Excellent produit, conforme à mes attentes.</p>"
-          }
-        },
-        "testimonial_nfhRyL": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Client 2",
-            "title": "Avis client 2",
-            "content": "<p>Livraison rapide et expérience très satisfaisante.</p>"
-          }
-        },
-        "testimonial_r4Vxw4": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Client 3",
-            "title": "Avis client 3",
-            "content": "<p>Très bon rapport qualité-prix, je recommande.</p>"
-          }
-        },
-        "testimonial_t7WJXp": {
-          "type": "testimonial",
-          "settings": {
-            "image": "shopify://shop_images/the_glitches_are_there_to_help_you_to_adjust_your_plans_for_success._fee16182-e054-4bdf-ade9-1f56cca3aa15.png",
-            "round_avatar": false,
-            "show_rating": true,
-            "rating": 4,
-            "author": "",
-            "title": "Testimonial",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_d3KdCp",
-        "testimonial_nfhRyL",
-        "testimonial_r4Vxw4",
-        "testimonial_t7WJXp"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": false,
-        "subheading": "",
-        "title": "Vous parlez pour nous",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "#f5f7fa",
-        "testimonial_card_text_color": "#0a0a0a"
-      }
     },
     "compare": {
       "type": "nvd-comparison",
@@ -970,9 +916,9 @@
     "why",
     "models",
     "auth",
+    "nvd_reviews_TrLWGi",
     "blocks_R3N8hL",
     "blocks_t8mxwy",
-    "testimonials_zFPAPW",
     "compare",
     "shipping",
     "faq"
