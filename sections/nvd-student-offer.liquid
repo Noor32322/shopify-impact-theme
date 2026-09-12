@@ -1,106 +1,105 @@
-{%- comment -%}NOVADESTOCK — Offre pack{%- endcomment -%}
+{%- comment -%}NOVADESTOCK — Offre pack (2 produits + code promo){%- endcomment -%}
 {% render 'nvd-css', accent: section.settings.accent_color, ink: section.settings.text_color %}
-{%- assign p = section.settings.product -%}
 {%- assign pa = section.settings.product_a -%}
 {%- assign pb = section.settings.product_b -%}
 <style>
 #shopify-section-{{ section.id }} .pk{background:{{ section.settings.background_color }};padding:{{ section.settings.padding_top }}px 20px {{ section.settings.padding_bottom }}px}
-#shopify-section-{{ section.id }} .pk__box{max-width:760px;margin:0 auto;background:#fff;border:1px solid var(--line);border-radius:26px;padding:38px 38px 32px;text-align:center;box-shadow:0 18px 50px rgba(10,10,10,.05)}
-#shopify-section-{{ section.id }} .pk__eye{display:inline-block;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;font-weight:800;color:#fff;background:{{ section.settings.badge_color }};padding:7px 14px;border-radius:100px;margin-bottom:16px}
-#shopify-section-{{ section.id }} .pk__t{font-size:clamp(24px,2.6vw,32px);line-height:1.12;letter-spacing:-.03em;font-weight:800;margin:0 0 28px;color:var(--ink)}
-#shopify-section-{{ section.id }} .pk__duo{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:14px;margin-bottom:22px}
-#shopify-section-{{ section.id }} .pk__it{display:flex;flex-direction:column;align-items:center;gap:10px}
-#shopify-section-{{ section.id }} .pk__im{width:100%;aspect-ratio:1/1;border-radius:18px;background:#F4F6F8;display:grid;place-items:center;overflow:hidden}
+#shopify-section-{{ section.id }} .pk__box{max-width:780px;margin:0 auto;background:#fff;border:1px solid var(--line);border-radius:26px;padding:36px 36px 30px;text-align:center;box-shadow:0 18px 50px rgba(10,10,10,.05)}
+#shopify-section-{{ section.id }} .pk__eye{display:inline-block;font-size:11.5px;letter-spacing:.13em;text-transform:uppercase;font-weight:800;color:#fff;background:{{ section.settings.badge_color }};padding:7px 14px;border-radius:100px;margin-bottom:14px}
+#shopify-section-{{ section.id }} .pk__t{font-size:clamp(23px,2.5vw,30px);line-height:1.12;letter-spacing:-.03em;font-weight:800;margin:0 0 26px;color:var(--ink)}
+#shopify-section-{{ section.id }} .pk__duo{display:grid;grid-template-columns:1fr auto 1fr;align-items:start;gap:14px;margin-bottom:24px}
+#shopify-section-{{ section.id }} .pk__im{width:100%;aspect-ratio:1/1;border-radius:18px;background:#F4F6F8;display:grid;place-items:center;overflow:hidden;margin-bottom:10px}
 #shopify-section-{{ section.id }} .pk__im img{width:100%;height:100%;object-fit:cover;display:block}
-#shopify-section-{{ section.id }} .pk__nm{font-size:14px;font-weight:700;letter-spacing:-.01em;color:var(--ink);margin:0;line-height:1.35}
-#shopify-section-{{ section.id }} .pk__plus{font-size:30px;font-weight:300;color:var(--a);line-height:1;padding-bottom:26px}
-#shopify-section-{{ section.id }} .pk__inc{font-size:12.5px;line-height:1.6;color:color-mix(in srgb,var(--ink) 52%,transparent);margin:0 0 22px}
-#shopify-section-{{ section.id }} .pk__opts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:22px;text-align:left}
-#shopify-section-{{ section.id }} .pk__opts.one{grid-template-columns:1fr}
-#shopify-section-{{ section.id }} .pk__lbl{display:block;font-size:11.5px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:color-mix(in srgb,var(--ink) 52%,transparent);margin:0 0 7px}
-#shopify-section-{{ section.id }} .pk__sel{width:100%;appearance:none;background:#fff url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><path d='M6 9l6 6 6-6'/></svg>") no-repeat right 14px center;border:1.5px solid var(--line);border-radius:12px;padding:13px 40px 13px 15px;font-size:14.5px;font-weight:600;color:var(--ink);cursor:pointer;font-family:inherit;transition:border-color .16s ease}
+#shopify-section-{{ section.id }} .pk__nm{font-size:14px;font-weight:700;color:var(--ink);margin:0 0 10px;line-height:1.35}
+#shopify-section-{{ section.id }} .pk__plus{font-size:30px;font-weight:300;color:var(--a);line-height:1;align-self:center}
+#shopify-section-{{ section.id }} .pk__sel{width:100%;appearance:none;background:#fff url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23888' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'><path d='M6 9l6 6 6-6'/></svg>") no-repeat right 12px center;border:1.5px solid var(--line);border-radius:11px;padding:11px 34px 11px 13px;font-size:13.5px;font-weight:600;color:var(--ink);cursor:pointer;font-family:inherit;margin-bottom:8px;text-align:left;transition:border-color .16s ease}
 #shopify-section-{{ section.id }} .pk__sel:hover,#shopify-section-{{ section.id }} .pk__sel:focus{border-color:var(--a);outline:none}
 #shopify-section-{{ section.id }} .pk__pr{display:flex;align-items:baseline;justify-content:center;gap:11px;flex-wrap:wrap;margin-bottom:4px}
 #shopify-section-{{ section.id }} .pk__now{font-size:38px;font-weight:800;letter-spacing:-.035em;color:var(--ink);line-height:1}
 #shopify-section-{{ section.id }} .pk__old{font-size:17px;text-decoration:line-through;color:color-mix(in srgb,var(--ink) 40%,transparent)}
 #shopify-section-{{ section.id }} .pk__save{font-size:12.5px;font-weight:800;color:#fff;background:{{ section.settings.badge_color }};padding:5px 11px;border-radius:100px}
-#shopify-section-{{ section.id }} .pk__eco{font-size:13.5px;font-weight:600;color:var(--a);margin:0 0 20px;min-height:19px}
+#shopify-section-{{ section.id }} .pk__eco{font-size:13.5px;font-weight:600;color:var(--a);margin:0 0 18px;min-height:19px}
 #shopify-section-{{ section.id }} .pk__btn{width:100%;border:none;cursor:pointer;font-family:inherit;padding:19px 24px;border-radius:100px;font-weight:700;font-size:16px;background:var(--a);color:#fff;box-shadow:0 10px 28px color-mix(in srgb,var(--a) 32%,transparent);transition:transform .16s ease;display:flex;align-items:center;justify-content:center;gap:10px}
 #shopify-section-{{ section.id }} .pk__btn:hover{transform:translateY(-2px)}
 #shopify-section-{{ section.id }} .pk__btn[disabled]{background:#C2C8CE;box-shadow:none;cursor:not-allowed;transform:none}
 #shopify-section-{{ section.id }} .pk__tr{font-size:12.5px;font-weight:600;color:color-mix(in srgb,var(--ink) 55%,transparent);margin:16px 0 0}
+#shopify-section-{{ section.id }} .pk__err{font-size:13px;color:#c0392b;margin:12px 0 0;min-height:16px}
 #shopify-section-{{ section.id }} .pk__ph{padding:50px 20px;color:var(--muted);font-size:14.5px}
-@media(max-width:640px){#shopify-section-{{ section.id }} .pk__box{padding:28px 20px 26px}#shopify-section-{{ section.id }} .pk__opts{grid-template-columns:1fr}#shopify-section-{{ section.id }} .pk__duo{gap:8px}#shopify-section-{{ section.id }} .pk__plus{font-size:24px;padding-bottom:24px}}
+@media(max-width:640px){#shopify-section-{{ section.id }} .pk__box{padding:26px 18px 24px}#shopify-section-{{ section.id }} .pk__duo{gap:8px}#shopify-section-{{ section.id }} .pk__plus{font-size:24px}}
 </style>
 <div class="nvd pk"><div class="pk__box">
-{%- if p == blank -%}
-<div class="pk__ph">Sélectionnez le produit à vendre dans les réglages de la section.</div>
+{%- if pa == blank or pb == blank -%}
+<div class="pk__ph">Sélectionnez les deux produits du pack dans les réglages de la section.</div>
 {%- else -%}
 {%- if section.settings.eyebrow != blank -%}<span class="pk__eye">{{ section.settings.eyebrow }}</span>{%- endif -%}
 {%- if section.settings.heading != blank -%}<h2 class="pk__t">{{ section.settings.heading }}</h2>{%- endif -%}
 <div class="pk__duo">
-<div class="pk__it">
-<div class="pk__im">
-{%- if section.settings.image_a != blank -%}<img src="{{ section.settings.image_a | image_url: width: 700 }}" alt="{{ section.settings.image_a.alt | escape }}" loading="lazy">
-{%- elsif pa.featured_image -%}<img src="{{ pa.featured_image | image_url: width: 700 }}" alt="{{ pa.featured_image.alt | escape }}" loading="lazy">
-{%- else -%}<svg width="42%" viewBox="0 0 120 120" fill="none" stroke="{{ section.settings.accent_color }}" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="18" y="14" width="84" height="92" rx="14"/><circle cx="60" cy="52" r="17"/><path d="M40 88h40"/></svg>{%- endif -%}
-</div>
-<p class="pk__nm">{% if section.settings.title_a != blank %}{{ section.settings.title_a }}{% elsif pa != blank %}{{ pa.title }}{% else %}Produit 1{% endif %}</p>
+<div>
+<div class="pk__im">{%- if section.settings.image_a != blank -%}<img src="{{ section.settings.image_a | image_url: width: 700 }}" alt="" loading="lazy">{%- elsif pa.featured_image -%}<img src="{{ pa.featured_image | image_url: width: 700 }}" alt="{{ pa.featured_image.alt | escape }}" loading="lazy">{%- else -%}<svg width="42%" viewBox="0 0 120 120" fill="none" stroke="{{ section.settings.accent_color }}" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="18" y="14" width="84" height="92" rx="14"/><circle cx="60" cy="52" r="17"/><path d="M40 88h40"/></svg>{%- endif -%}</div>
+<p class="pk__nm">{% if section.settings.title_a != blank %}{{ section.settings.title_a }}{% else %}{{ pa.title }}{% endif %}</p>
+{%- for opt in pa.options_with_values -%}<select class="pk__sel" data-side="a" aria-label="{{ opt.name | escape }}">{%- for v in opt.values -%}<option value="{{ v | escape }}">{{ v }}</option>{%- endfor -%}</select>{%- endfor -%}
 </div>
 <div class="pk__plus">+</div>
-<div class="pk__it">
-<div class="pk__im">
-{%- if section.settings.image_b != blank -%}<img src="{{ section.settings.image_b | image_url: width: 700 }}" alt="{{ section.settings.image_b.alt | escape }}" loading="lazy">
-{%- elsif pb.featured_image -%}<img src="{{ pb.featured_image | image_url: width: 700 }}" alt="{{ pb.featured_image.alt | escape }}" loading="lazy">
-{%- else -%}<svg width="42%" viewBox="0 0 120 120" fill="none" stroke="{{ section.settings.accent_color }}" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="18" y="14" width="84" height="92" rx="14"/><circle cx="60" cy="52" r="17"/><path d="M40 88h40"/></svg>{%- endif -%}
+<div>
+<div class="pk__im">{%- if section.settings.image_b != blank -%}<img src="{{ section.settings.image_b | image_url: width: 700 }}" alt="" loading="lazy">{%- elsif pb.featured_image -%}<img src="{{ pb.featured_image | image_url: width: 700 }}" alt="{{ pb.featured_image.alt | escape }}" loading="lazy">{%- else -%}<svg width="42%" viewBox="0 0 120 120" fill="none" stroke="{{ section.settings.accent_color }}" stroke-opacity=".4" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="18" y="14" width="84" height="92" rx="14"/><circle cx="60" cy="52" r="17"/><path d="M40 88h40"/></svg>{%- endif -%}</div>
+<p class="pk__nm">{% if section.settings.title_b != blank %}{{ section.settings.title_b }}{% else %}{{ pb.title }}{% endif %}</p>
+{%- for opt in pb.options_with_values -%}<select class="pk__sel" data-side="b" aria-label="{{ opt.name | escape }}">{%- for v in opt.values -%}<option value="{{ v | escape }}">{{ v }}</option>{%- endfor -%}</select>{%- endfor -%}
 </div>
-<p class="pk__nm">{% if section.settings.title_b != blank %}{{ section.settings.title_b }}{% elsif pb != blank %}{{ pb.title }}{% else %}Produit 2{% endif %}</p>
-</div>
-</div>
-{%- if section.blocks.size > 0 -%}
-<p class="pk__inc">{%- for block in section.blocks -%}{{ block.settings.title }}{%- unless forloop.last -%} · {%- endunless -%}{%- endfor -%}</p>
-{%- endif -%}
-<form method="post" action="/cart/add">
-<input type="hidden" name="form_type" value="product">
-<input type="hidden" name="utf8" value="✓">
-<input type="hidden" name="id" id="pkid-{{ section.id }}" value="{{ p.selected_or_first_available_variant.id }}">
-<div class="pk__opts{% if p.options_with_values.size == 1 %} one{% endif %}">
-{%- for opt in p.options_with_values -%}
-<div><label class="pk__lbl" for="pko{{ forloop.index }}-{{ section.id }}">{{ opt.name }}</label>
-<select class="pk__sel" id="pko{{ forloop.index }}-{{ section.id }}">{%- for v in opt.values -%}<option value="{{ v | escape }}">{{ v }}</option>{%- endfor -%}</select></div>
-{%- endfor -%}
 </div>
 <div class="pk__pr"><span class="pk__now" id="pknow-{{ section.id }}"></span><span class="pk__old" id="pkold-{{ section.id }}"></span><span class="pk__save" id="pksave-{{ section.id }}"></span></div>
 <p class="pk__eco" id="pkeco-{{ section.id }}"></p>
-<button type="submit" class="pk__btn" id="pkbtn-{{ section.id }}"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h2l2.5 11h10L20 7H6"/><circle cx="9" cy="20" r="1.6"/><circle cx="18" cy="20" r="1.6"/></svg><span id="pklab-{{ section.id }}">{{ section.settings.button_label }}</span></button>
-</form>
+<button type="button" class="pk__btn" id="pkbtn-{{ section.id }}"><svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h2l2.5 11h10L20 7H6"/><circle cx="9" cy="20" r="1.6"/><circle cx="18" cy="20" r="1.6"/></svg><span id="pklab-{{ section.id }}">{{ section.settings.button_label }}</span></button>
+<p class="pk__err" id="pkerr-{{ section.id }}"></p>
 {%- if section.settings.trust_line != blank -%}<p class="pk__tr">{{ section.settings.trust_line }}</p>{%- endif -%}
 <script>
 (function(){
   var sid = {{ section.id | json }};
-  var data = [{%- for v in p.variants -%}{id:{{ v.id }},o:{{ v.options | json }},p:{{ v.price }},c:{{ v.compare_at_price | default: 0 }},a:{{ v.available }},pf:{{ v.price | money | json }},cf:{{ v.compare_at_price | money | json }}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}];
+  var A = [{%- for v in pa.variants -%}{id:{{ v.id }},o:{{ v.options | json }},p:{{ v.price }},a:{{ v.available }}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}];
+  var B = [{%- for v in pb.variants -%}{id:{{ v.id }},o:{{ v.options | json }},p:{{ v.price }},a:{{ v.available }}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}];
+  var pct = {{ section.settings.discount_percent | default: 0 }};
+  var code = {{ section.settings.discount_code | json }};
+  var buy = {{ section.settings.button_label | json }}, so = {{ section.settings.soldout_label | json }};
+  var ecoT = {{ section.settings.save_label | json }};
   var root = document.getElementById('shopify-section-'+sid); if(!root) return;
-  var sels = root.querySelectorAll('.pk__sel');
+  var selA = root.querySelectorAll('.pk__sel[data-side="a"]');
+  var selB = root.querySelectorAll('.pk__sel[data-side="b"]');
   var now = document.getElementById('pknow-'+sid), old = document.getElementById('pkold-'+sid), sv = document.getElementById('pksave-'+sid);
-  var eco = document.getElementById('pkeco-'+sid), idf = document.getElementById('pkid-'+sid);
-  var btn = document.getElementById('pkbtn-'+sid), lab = document.getElementById('pklab-'+sid);
-  var so = {{ section.settings.soldout_label | json }}, buy = {{ section.settings.button_label | json }}, ecoT = {{ section.settings.save_label | json }};
-  function fmt(c){ return (c/100).toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2})+' €'; }
+  var eco = document.getElementById('pkeco-'+sid), btn = document.getElementById('pkbtn-'+sid), lab = document.getElementById('pklab-'+sid);
+  var err = document.getElementById('pkerr-'+sid);
+  var cur = {a:null,b:null};
+  function fmt(c){ return (c/100).toLocaleString('fr-FR',{minimumFractionDigits:2,maximumFractionDigits:2}) + ' \u20ac'; }
+  function pick(list, sels){ var ch=[]; sels.forEach(function(s){ ch.push(s.value); }); return list.find(function(v){ return v.o.every(function(x,i){ return x===ch[i]; }); }); }
   function sync(){
-    var ch = []; sels.forEach(function(s){ ch.push(s.value); });
-    var m = data.find(function(v){ return v.o.every(function(x,i){ return x === ch[i]; }); });
-    if(!m){ btn.disabled=true; lab.textContent=so; now.textContent=''; old.textContent=''; sv.textContent=''; eco.textContent=''; return; }
-    idf.value = m.id; now.textContent = m.pf;
-    if(m.c > m.p){ old.textContent=m.cf; sv.textContent='-'+Math.round((m.c-m.p)*100/m.c)+' %'; sv.style.display=''; eco.textContent = ecoT ? ecoT.replace('{montant}', fmt(m.c-m.p)) : ''; }
+    cur.a = pick(A, selA); cur.b = pick(B, selB);
+    if(!cur.a || !cur.b || !cur.a.a || !cur.b.a){ btn.disabled=true; lab.textContent=so; now.textContent=''; old.textContent=''; sv.textContent=''; eco.textContent=''; return; }
+    var full = cur.a.p + cur.b.p;
+    var net = Math.round(full * (100 - pct) / 100);
+    now.textContent = fmt(net);
+    if(pct > 0){ old.textContent = fmt(full); sv.textContent = '-' + pct + ' %'; sv.style.display=''; eco.textContent = ecoT ? ecoT.replace('{montant}', fmt(full - net)) : ''; }
     else { old.textContent=''; sv.textContent=''; sv.style.display='none'; eco.textContent=''; }
-    btn.disabled = !m.a; lab.textContent = m.a ? buy : so;
+    btn.disabled=false; lab.textContent=buy; err.textContent='';
   }
-  sels.forEach(function(s){ s.addEventListener('change', sync); });
+  selA.forEach(function(s){ s.addEventListener('change', sync); });
+  selB.forEach(function(s){ s.addEventListener('change', sync); });
+  btn.addEventListener('click', function(){
+    if(!cur.a || !cur.b) return;
+    btn.disabled = true; lab.textContent = 'Ajout en cours...'; err.textContent='';
+    fetch('/cart/add.js', {
+      method: 'POST',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({items:[{id:cur.a.id,quantity:1},{id:cur.b.id,quantity:1}]})
+    }).then(function(r){ if(!r.ok){ return r.json().then(function(j){ throw new Error(j.description || 'Ajout impossible'); }); } return r.json(); })
+      .then(function(){
+        if(code){ window.location.href = '/discount/' + encodeURIComponent(code) + '?redirect=/cart'; }
+        else { window.location.href = '/cart'; }
+      })
+      .catch(function(e){ btn.disabled=false; lab.textContent=buy; err.textContent = e.message; });
+  });
   sync();
 })();
 </script>
 {%- endif -%}
 </div></div>
 {% schema %}
-{"name":"NVD — Offre pack","tag":"section","max_blocks":6,"settings":[{"type":"header","content":"Produit vendu"},{"type":"product","id":"product","label":"Produit ajouté au panier (le pack)"},{"type":"header","content":"Produit 1"},{"type":"product","id":"product_a","label":"Produit affiché à gauche"},{"type":"text","id":"title_a","label":"Nom court (sinon titre du produit)","default":"MacBook Neo"},{"type":"image_picker","id":"image_a","label":"Image (sinon photo du produit)"},{"type":"header","content":"Produit 2"},{"type":"product","id":"product_b","label":"Produit affiché à droite"},{"type":"text","id":"title_b","label":"Nom court (sinon titre du produit)","default":"AirPods Max"},{"type":"image_picker","id":"image_b","label":"Image (sinon photo du produit)"},{"type":"header","content":"Textes"},{"type":"text","id":"eyebrow","label":"Badge (videz pour masquer)","default":"Offre étudiante"},{"type":"text","id":"heading","label":"Titre (videz pour masquer)","default":"Le pack rentrée"},{"type":"text","id":"button_label","label":"Bouton","default":"Ajouter au panier"},{"type":"text","id":"soldout_label","label":"Texte rupture","default":"Rupture de stock"},{"type":"text","id":"save_label","label":"Ligne d'économie ({montant} = calcul auto)","default":"Vous économisez {montant}"},{"type":"text","id":"trust_line","label":"Ligne sous le bouton","default":"Livraison offerte · Garantie 2 ans · Retour 14 jours"},{"type":"header","content":"Couleurs & espacements"},{"type":"color","id":"accent_color","label":"Accent","default":"#127aa9"},{"type":"color","id":"badge_color","label":"Badge","default":"#FF3B30"},{"type":"color","id":"text_color","label":"Texte","default":"#0A0A0A"},{"type":"color","id":"background_color","label":"Fond","default":"#F4F6F8"},{"type":"range","id":"padding_top","min":0,"max":160,"step":4,"unit":"px","label":"Marge haute","default":76},{"type":"range","id":"padding_bottom","min":0,"max":160,"step":4,"unit":"px","label":"Marge basse","default":76}],"blocks":[{"type":"item","name":"Mention (optionnel)","settings":[{"type":"paragraph","content":"Affiché en petite ligne grise sous les deux produits. Supprimez le bloc pour un rendu plus épuré."},{"type":"text","id":"title","label":"Texte","default":"Neufs et scellés"},{"type":"text","id":"text","label":"Non utilisé","default":"—"}]}],"presets":[{"name":"NVD — Offre pack"}]}
+{"name":"NVD — Offre pack","tag":"section","settings":[{"type":"header","content":"Produit 1"},{"type":"product","id":"product_a","label":"Produit de gauche"},{"type":"text","id":"title_a","label":"Nom court (sinon titre du produit)","default":"MacBook Neo"},{"type":"image_picker","id":"image_a","label":"Image (sinon photo du produit)"},{"type":"header","content":"Produit 2"},{"type":"product","id":"product_b","label":"Produit de droite"},{"type":"text","id":"title_b","label":"Nom court (sinon titre du produit)","default":"AirPods Max"},{"type":"image_picker","id":"image_b","label":"Image (sinon photo du produit)"},{"type":"header","content":"Promotion"},{"type":"paragraph","content":"Le pourcentage ci-dessous sert à AFFICHER le prix barré. Le code promo est ce qui applique réellement la remise au panier. Les deux doivent avoir la même valeur."},{"type":"range","id":"discount_percent","min":0,"max":90,"step":1,"unit":"%","label":"Remise affichée","default":58},{"type":"text","id":"discount_code","label":"Code promo appliqué au panier","default":"PACKRENTREE"},{"type":"header","content":"Textes"},{"type":"text","id":"eyebrow","label":"Badge (videz pour masquer)","default":"Offre étudiante"},{"type":"text","id":"heading","label":"Titre (videz pour masquer)","default":"Le pack rentrée"},{"type":"text","id":"button_label","label":"Bouton","default":"Ajouter au panier"},{"type":"text","id":"soldout_label","label":"Texte rupture","default":"Rupture de stock"},{"type":"text","id":"save_label","label":"Ligne d'économie ({montant} = calcul auto)","default":"Vous économisez {montant}"},{"type":"text","id":"trust_line","label":"Ligne sous le bouton","default":"Livraison offerte · Garantie 2 ans · Retour 14 jours"},{"type":"header","content":"Couleurs & espacements"},{"type":"color","id":"accent_color","label":"Accent","default":"#127aa9"},{"type":"color","id":"badge_color","label":"Badge","default":"#FF3B30"},{"type":"color","id":"text_color","label":"Texte","default":"#0A0A0A"},{"type":"color","id":"background_color","label":"Fond","default":"#F4F6F8"},{"type":"range","id":"padding_top","min":0,"max":160,"step":4,"unit":"px","label":"Marge haute","default":76},{"type":"range","id":"padding_bottom","min":0,"max":160,"step":4,"unit":"px","label":"Marge basse","default":76}],"presets":[{"name":"NVD — Offre pack"}]}
 {% endschema %}
