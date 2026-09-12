@@ -1,0 +1,123 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h1"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "#127aa9",
+            "atc_button_text_color": "#ffffff"
+          }
+        },
+        "ct1": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison offerte en 3 à 7 jours",
+            "content": "<p>Expédition sous 24 h ouvrées, numéro de suivi envoyé dès la remise au transporteur. Livraison gratuite, sans minimum d'achat.</p>"
+          }
+        },
+        "ct2": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Authenticité garantie",
+            "content": "<p>Produit Apple d'origine, neuf et scellé dans son emballage constructeur. Numéro de série vérifiable sur le site officiel d'Apple.</p>"
+          }
+        },
+        "ct3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Garantie 2 ans et retour 14 jours",
+            "content": "<p>Garantie légale de conformité de 2 ans, facture nominative fournie. Retour gratuit sous 14 jours, sans justification.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "description",
+        "quantity_selector",
+        "buy_buttons",
+        "ct1",
+        "ct2",
+        "ct3"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "enable_image_zoom": true
+      }
+    },
+    "reviews": {
+      "type": "nvd-reviews",
+      "blocks": {
+        "r1": {
+          "type": "review",
+          "settings": {}
+        },
+        "r2": {
+          "type": "review",
+          "settings": {}
+        },
+        "r3": {
+          "type": "review",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "r1",
+        "r2",
+        "r3"
+      ],
+      "settings": {
+        "heading": "Les avis sur ce produit",
+        "subheading": "Avis laissés par les clients ayant commandé ce produit.",
+        "global_note": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "reviews"
+  ]
+}
