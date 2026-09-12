@@ -81,6 +81,7 @@
       "blocks": {
         "ai_gen_block_e7b0160_zwrw4Q": {
           "type": "ai_gen_block_e7b0160",
+          "disabled": true,
           "settings": {
             "image_desktop": "shopify://shop_images/ChatGPT_Image_13_sept._2026_00_06_49_1.png",
             "image_mobile": "shopify://shop_images/the_glitches_are_there_to_help_you_to_adjust_your_plans_for_success._1_92cd5a1b-93d2-4a19-a79a-98d9bf0039b9.png"
