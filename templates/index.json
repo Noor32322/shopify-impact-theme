@@ -12,12 +12,37 @@
     "hero": {
       "type": "nvd-hero",
       "blocks": {
-        "p1": { "type": "proof", "settings": { "text": "100 % authentique Apple" } },
-        "p2": { "type": "proof", "settings": { "text": "Livraison offerte" } },
-        "p3": { "type": "proof", "settings": { "text": "Garantie 2 ans" } },
-        "p4": { "type": "proof", "settings": { "text": "Facture fournie" } }
+        "p1": {
+          "type": "proof",
+          "settings": {
+            "text": "100 % authentique Apple"
+          }
+        },
+        "p2": {
+          "type": "proof",
+          "settings": {
+            "text": "Livraison offerte"
+          }
+        },
+        "p3": {
+          "type": "proof",
+          "settings": {
+            "text": "Garantie 2 ans"
+          }
+        },
+        "p4": {
+          "type": "proof",
+          "settings": {
+            "text": "Facture fournie"
+          }
+        }
       },
-      "block_order": ["p1", "p2", "p3", "p4"],
+      "block_order": [
+        "p1",
+        "p2",
+        "p3",
+        "p4"
+      ],
       "settings": {
         "eyebrow": "Déstockage officiel · Stock limité",
         "heading": "Le vrai Apple. Au prix du déstockage.",
@@ -38,23 +63,91 @@
     "trust": {
       "type": "nvd-trust-bar",
       "blocks": {
-        "t1": { "type": "item", "settings": { "icon": "shield", "title": "100 % authentique Apple", "description": "Neufs, scellés, numéro de série vérifiable chez Apple." } },
-        "t2": { "type": "item", "settings": { "icon": "truck", "title": "Livraison offerte", "description": "Frais de port gratuits, sans minimum d'achat." } },
-        "t3": { "type": "item", "settings": { "icon": "clock", "title": "Livré en 3 à 7 jours", "description": "Expédition sous 24 h ouvrées depuis notre entrepôt." } },
-        "t4": { "type": "item", "settings": { "icon": "receipt", "title": "Facture & garantie 2 ans", "description": "Facture nominative jointe à chaque commande." } }
+        "t1": {
+          "type": "item",
+          "settings": {
+            "icon": "shield",
+            "title": "100 % authentique Apple",
+            "description": "Neufs, scellés, numéro de série vérifiable chez Apple."
+          }
+        },
+        "t2": {
+          "type": "item",
+          "settings": {
+            "icon": "truck",
+            "title": "Livraison offerte",
+            "description": "Frais de port gratuits, sans minimum d'achat."
+          }
+        },
+        "t3": {
+          "type": "item",
+          "settings": {
+            "icon": "clock",
+            "title": "Livré en 3 à 7 jours",
+            "description": "Expédition sous 24 h ouvrées depuis notre entrepôt."
+          }
+        },
+        "t4": {
+          "type": "item",
+          "settings": {
+            "icon": "receipt",
+            "title": "Facture & garantie 2 ans",
+            "description": "Facture nominative jointe à chaque commande."
+          }
+        }
       },
-      "block_order": ["t1", "t2", "t3", "t4"],
-      "settings": { "accent_color": "#127aa9", "text_color": "#0a0a0a", "background_color": "#ffffff", "padding_top": 30, "padding_bottom": 30 }
+      "block_order": [
+        "t1",
+        "t2",
+        "t3",
+        "t4"
+      ],
+      "settings": {
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 30,
+        "padding_bottom": 30
+      }
     },
     "student": {
       "type": "nvd-student-offer",
       "blocks": {
-        "i1": { "type": "item", "settings": { "title": "MacBook Neo 13 pouces", "text": "Puce A18 Pro, écran Liquid Retina, jusqu'à 16 h d'autonomie" } },
-        "i2": { "type": "item", "settings": { "title": "AirPods Max (USB-C)", "text": "Réduction de bruit active, 20 h d'autonomie, étui fourni" } },
-        "i3": { "type": "item", "settings": { "title": "Les deux neufs et scellés", "text": "Emballage Apple d'origine, numéros de série vérifiables" } },
-        "i4": { "type": "item", "settings": { "title": "Livraison offerte en 3 à 7 jours", "text": "Facture nominative et garantie 2 ans incluses" } }
+        "i1": {
+          "type": "item",
+          "settings": {
+            "title": "MacBook Neo 13 pouces",
+            "text": "Puce A18 Pro, écran Liquid Retina, jusqu'à 16 h d'autonomie"
+          }
+        },
+        "i2": {
+          "type": "item",
+          "settings": {
+            "title": "AirPods Max (USB-C)",
+            "text": "Réduction de bruit active, 20 h d'autonomie, étui fourni"
+          }
+        },
+        "i3": {
+          "type": "item",
+          "settings": {
+            "title": "Les deux neufs et scellés",
+            "text": "Emballage Apple d'origine, numéros de série vérifiables"
+          }
+        },
+        "i4": {
+          "type": "item",
+          "settings": {
+            "title": "Livraison offerte en 3 à 7 jours",
+            "text": "Facture nominative et garantie 2 ans incluses"
+          }
+        }
       },
-      "block_order": ["i1", "i2", "i3", "i4"],
+      "block_order": [
+        "i1",
+        "i2",
+        "i3",
+        "i4"
+      ],
       "settings": {
         "product": "offre-etudiante-macbook-neo-airpods-max",
         "eyebrow": "Offre étudiante · Rentrée 2026",
@@ -75,16 +168,81 @@
     "grid": {
       "type": "nvd-product-grid",
       "blocks": {
-        "c1": { "type": "product", "settings": { "product": "macbook-neo-13-a18-pro-neuf-scelle", "tag": "", "custom_title": "" } },
-        "c2": { "type": "product", "settings": { "product": "airpods-pro-2-usb-c-neufs-scelles", "tag": "", "custom_title": "" } },
-        "c3": { "type": "product", "settings": { "product": "airpods-max-usb-c-neufs-scelles", "tag": "", "custom_title": "" } },
-        "c4": { "type": "product", "settings": { "product": "airpods-4-neufs-scelles", "tag": "", "custom_title": "" } },
-        "c5": { "type": "product", "settings": { "product": "airpods-3-magsafe-neufs-scelles", "tag": "Petit prix", "custom_title": "" } },
-        "c6": { "type": "product", "settings": { "product": "airpods-max-usb-c-neufs-scelles", "tag": "", "custom_title": "" } },
-        "c7": { "type": "product", "settings": { "product": "airpods-5-neufs-scelles", "tag": "Nouveau", "custom_title": "" } },
-        "c8": { "type": "product", "settings": { "product": "macbook-neo-13-a18-pro-neuf-scelle", "tag": "À 549 €", "custom_title": "" } }
+        "c1": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-neo-13-a18-pro-neuf-scelle",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c2": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-pro-2-usb-c-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c3": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-max-usb-c-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c4": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-4-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c5": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-3-magsafe-neufs-scelles",
+            "tag": "Petit prix",
+            "custom_title": ""
+          }
+        },
+        "c6": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-max-usb-c-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c7": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-5-neufs-scelles",
+            "tag": "Nouveau",
+            "custom_title": ""
+          }
+        },
+        "c8": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-neo-13-a18-pro-neuf-scelle",
+            "tag": "À 549 €",
+            "custom_title": ""
+          }
+        }
       },
-      "block_order": ["c1", "c2", "c3", "c4", "c5", "c6", "c7", "c8"],
+      "block_order": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
       "settings": {
         "heading": "Le stock du moment",
         "subheading": "Quantités réelles, pas de précommande. Quand un lot est écoulé, il disparaît du site.",
@@ -104,13 +262,54 @@
     "macgrid": {
       "type": "nvd-product-grid",
       "blocks": {
-        "k1": { "type": "product", "settings": { "product": "macbook-neo-13-a18-pro-neuf-scelle", "tag": "Le moins cher", "custom_title": "" } },
-        "k2": { "type": "product", "settings": { "product": "macbook-air-13-quot-m5-neuf-scelle", "tag": "Le plus vendu", "custom_title": "" } },
-        "k3": { "type": "product", "settings": { "product": "macbook-air-15-pouces-m5-neuf-scelle", "tag": "", "custom_title": "" } },
-        "k4": { "type": "product", "settings": { "product": "macbook-pro-14-pouces-m5-neuf-scelle", "tag": "", "custom_title": "" } },
-        "k5": { "type": "product", "settings": { "product": "macbook-pro-16-pouces-m5-pro-neuf-scelle", "tag": "", "custom_title": "" } }
+        "k1": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-neo-13-a18-pro-neuf-scelle",
+            "tag": "Le moins cher",
+            "custom_title": ""
+          }
+        },
+        "k2": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-air-13-quot-m5-neuf-scelle",
+            "tag": "Le plus vendu",
+            "custom_title": ""
+          }
+        },
+        "k3": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-air-15-pouces-m5-neuf-scelle",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "k4": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-pro-14-pouces-m5-neuf-scelle",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "k5": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-pro-16-pouces-m5-pro-neuf-scelle",
+            "tag": "",
+            "custom_title": ""
+          }
+        }
       },
-      "block_order": ["k1", "k2", "k3", "k4", "k5"],
+      "block_order": [
+        "k1",
+        "k2",
+        "k3",
+        "k4",
+        "k5"
+      ],
       "settings": {
         "heading": "Les MacBook en déstockage",
         "subheading": "Du MacBook Neo au MacBook Pro 16 pouces. Tous neufs, tous scellés, tous facturés.",
@@ -130,110 +329,652 @@
     "why": {
       "type": "nvd-why-cheaper",
       "blocks": {
-        "s1": { "type": "step", "settings": { "title": "Apple sort une nouvelle génération", "text": "Chaque septembre, Apple renouvelle sa gamme. Du jour au lendemain, les modèles de l'année précédente deviennent des fins de série." } },
-        "s2": { "type": "step", "settings": { "title": "Les distributeurs vident leurs entrepôts", "text": "Ils ont des milliers d'unités neuves à écouler très vite pour faire de la place. Ils les cèdent en lot, bien en dessous du prix public." } },
-        "s3": { "type": "step", "settings": { "title": "On achète le lot, vous payez le vrai prix", "text": "Nous rachetons ces lots et les revendons sans structure de boutique. Même produit, même emballage, même garantie — le prix en moins." } }
+        "s1": {
+          "type": "step",
+          "settings": {
+            "title": "Apple sort une nouvelle génération",
+            "text": "Chaque septembre, Apple renouvelle sa gamme. Du jour au lendemain, les modèles de l'année précédente deviennent des fins de série."
+          }
+        },
+        "s2": {
+          "type": "step",
+          "settings": {
+            "title": "Les distributeurs vident leurs entrepôts",
+            "text": "Ils ont des milliers d'unités neuves à écouler très vite pour faire de la place. Ils les cèdent en lot, bien en dessous du prix public."
+          }
+        },
+        "s3": {
+          "type": "step",
+          "settings": {
+            "title": "On achète le lot, vous payez le vrai prix",
+            "text": "Nous rachetons ces lots et les revendons sans structure de boutique. Même produit, même emballage, même garantie — le prix en moins."
+          }
+        }
       },
-      "block_order": ["s1", "s2", "s3"],
+      "block_order": [
+        "s1",
+        "s2",
+        "s3"
+      ],
       "settings": {
         "heading": "Pourquoi c'est jusqu'à 60 % moins cher",
         "subheading": "Aucune magie, aucune contrefaçon. Juste un circuit d'approvisionnement différent de celui des revendeurs classiques.",
         "note": "Tous nos produits sont neufs et scellés dans leur emballage Apple d'origine. Le numéro de série de chaque appareil est vérifiable sur le site officiel d'Apple, avant même de le déballer.",
-        "accent_color": "#127aa9", "text_color": "#0a0a0a", "background_color": "#f4f6f8", "padding_top": 76, "padding_bottom": 76
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#f4f6f8",
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     },
     "models": {
       "type": "nvd-model-compare",
       "blocks": {
-        "m1": { "type": "model", "settings": { "model": "AirPods 3", "tag": "Petit prix", "price": "59 €", "old_price": "209 €", "anc": true, "battery": "6 h", "format": "Ouvert", "best_for": "Premier achat, cadeau", "link": "/products/airpods-3-magsafe-neufs-scelles" } },
-        "m2": { "type": "model", "settings": { "model": "AirPods 4", "tag": "", "price": "79 €", "old_price": "149 €", "anc": true, "battery": "5 h", "format": "Ouvert", "best_for": "Usage quotidien léger", "link": "/products/airpods-4-neufs-scelles" } },
-        "m3": { "type": "model", "settings": { "model": "AirPods 4 ANC", "tag": "", "price": "109 €", "old_price": "199 €", "anc": true, "battery": "4 h", "format": "Ouvert", "best_for": "Confort + silence", "link": "/products/airpods-4-avec-reduction-de-bruit-active-neufs-scelles" } },
-        "m4": { "type": "model", "settings": { "model": "AirPods Pro 2 (USB-C)", "tag": "Meilleur choix", "price": "119 €", "old_price": "279 €", "anc": true, "battery": "6 h", "format": "Intra", "best_for": "Meilleur rapport qualité/prix", "link": "/products/airpods-pro-2-usb-c-neufs-scelles" } },
-        "m5": { "type": "model", "disabled": true, "settings": { "model": "AirPods Pro 3", "tag": "Le plus vendu", "price": "159 €", "old_price": "249 €", "anc": true, "battery": "8 h", "format": "Intra", "best_for": "Transports, avion, sport", "link": "/products/airpods-pro-3-neufs-scelles" } },
-        "m6": { "type": "model", "settings": { "model": "AirPods Max (USB-C)", "tag": "", "price": "189 €", "old_price": "579 €", "anc": true, "battery": "20 h", "format": "Casque", "best_for": "Audio premium, bureau", "link": "/products/airpods-max-usb-c-neufs-scelles" } },
-        "m7": { "type": "model", "settings": { "model": "AirPods 5", "tag": "Nouveau", "price": "99 €", "old_price": "", "anc": true, "battery": "5 h", "format": "Ouvert", "best_for": "Dernière génération", "link": "/products/airpods-5-neufs-scelles" } }
+        "m1": {
+          "type": "model",
+          "settings": {
+            "model": "AirPods 3",
+            "tag": "Petit prix",
+            "price": "59 €",
+            "old_price": "209 €",
+            "anc": true,
+            "battery": "6 h",
+            "format": "Ouvert",
+            "best_for": "Premier achat, cadeau",
+            "link": "/products/airpods-3-magsafe-neufs-scelles"
+          }
+        },
+        "m2": {
+          "type": "model",
+          "settings": {
+            "model": "AirPods 4",
+            "tag": "",
+            "price": "79 €",
+            "old_price": "149 €",
+            "anc": true,
+            "battery": "5 h",
+            "format": "Ouvert",
+            "best_for": "Usage quotidien léger",
+            "link": "/products/airpods-4-neufs-scelles"
+          }
+        },
+        "m3": {
+          "type": "model",
+          "settings": {
+            "model": "AirPods 4 ANC",
+            "tag": "",
+            "price": "109 €",
+            "old_price": "199 €",
+            "anc": true,
+            "battery": "4 h",
+            "format": "Ouvert",
+            "best_for": "Confort + silence",
+            "link": "/products/airpods-4-avec-reduction-de-bruit-active-neufs-scelles"
+          }
+        },
+        "m4": {
+          "type": "model",
+          "settings": {
+            "model": "AirPods Pro 2 (USB-C)",
+            "tag": "Meilleur choix",
+            "price": "119 €",
+            "old_price": "279 €",
+            "anc": true,
+            "battery": "6 h",
+            "format": "Intra",
+            "best_for": "Meilleur rapport qualité/prix",
+            "link": "/products/airpods-pro-2-usb-c-neufs-scelles"
+          }
+        },
+        "m5": {
+          "type": "model",
+          "disabled": true,
+          "settings": {
+            "model": "AirPods Pro 3",
+            "tag": "Le plus vendu",
+            "price": "159 €",
+            "old_price": "249 €",
+            "anc": true,
+            "battery": "8 h",
+            "format": "Intra",
+            "best_for": "Transports, avion, sport",
+            "link": "/products/airpods-pro-3-neufs-scelles"
+          }
+        },
+        "m6": {
+          "type": "model",
+          "settings": {
+            "model": "AirPods Max (USB-C)",
+            "tag": "",
+            "price": "189 €",
+            "old_price": "579 €",
+            "anc": true,
+            "battery": "20 h",
+            "format": "Casque",
+            "best_for": "Audio premium, bureau",
+            "link": "/products/airpods-max-usb-c-neufs-scelles"
+          }
+        },
+        "m7": {
+          "type": "model",
+          "settings": {
+            "model": "AirPods 5",
+            "tag": "Nouveau",
+            "price": "99 €",
+            "old_price": "",
+            "anc": true,
+            "battery": "5 h",
+            "format": "Ouvert",
+            "best_for": "Dernière génération",
+            "link": "/products/airpods-5-neufs-scelles"
+          }
+        }
       },
-      "block_order": ["m1", "m2", "m3", "m4", "m5", "m6", "m7"],
+      "block_order": [
+        "m1",
+        "m2",
+        "m3",
+        "m4",
+        "m5",
+        "m6",
+        "m7"
+      ],
       "settings": {
         "heading": "Quel modèle d'AirPods choisir ?",
         "subheading": "Toute la gamme comparée ligne par ligne. Notre prix de déstockage face au prix public constaté.",
         "hint": "Faites glisser le tableau horizontalement sur mobile. Prix TTC, livraison offerte incluse.",
-        "buy_label": "Voir", "h_model": "Modèle", "h_price": "Notre prix", "h_anc": "Réduction de bruit", "h_battery": "Autonomie", "h_format": "Format", "h_for": "Idéal pour",
-        "accent_color": "#127aa9", "tag_color": "#ff3b30", "text_color": "#0a0a0a", "background_color": "#f4f6f8", "padding_top": 0, "padding_bottom": 76
+        "buy_label": "Voir",
+        "h_model": "Modèle",
+        "h_price": "Notre prix",
+        "h_anc": "Réduction de bruit",
+        "h_battery": "Autonomie",
+        "h_format": "Format",
+        "h_for": "Idéal pour",
+        "accent_color": "#127aa9",
+        "tag_color": "#ff3b30",
+        "text_color": "#0a0a0a",
+        "background_color": "#f4f6f8",
+        "padding_top": 0,
+        "padding_bottom": 76
       }
     },
     "auth": {
       "type": "nvd-authenticity",
       "blocks": {
-        "a1": { "type": "point", "settings": { "title": "Numéro de série vérifiable chez Apple", "text": "Chaque appareil porte son numéro de série d'origine. Vous le saisissez sur le site officiel d'Apple et vous obtenez la confirmation du modèle." } },
-        "a2": { "type": "point", "settings": { "title": "Emballage constructeur jamais ouvert", "text": "Les produits vous parviennent sous blister d'origine. Nous ne descellons jamais un appareil." } },
-        "a3": { "type": "point", "settings": { "title": "Facture française nominative", "text": "Une facture à votre nom est jointe à chaque commande. Elle active vos droits en cas de panne." } },
-        "a4": { "type": "point", "settings": { "title": "Garantie légale de conformité 2 ans", "text": "Exactement la même protection que pour un achat en magasin." } },
-        "a5": { "type": "point", "settings": { "title": "14 jours pour changer d'avis", "text": "Retour gratuit et sans justification après réception. Remboursement sous 14 jours." } }
+        "a1": {
+          "type": "point",
+          "settings": {
+            "title": "Numéro de série vérifiable chez Apple",
+            "text": "Chaque appareil porte son numéro de série d'origine. Vous le saisissez sur le site officiel d'Apple et vous obtenez la confirmation du modèle."
+          }
+        },
+        "a2": {
+          "type": "point",
+          "settings": {
+            "title": "Emballage constructeur jamais ouvert",
+            "text": "Les produits vous parviennent sous blister d'origine. Nous ne descellons jamais un appareil."
+          }
+        },
+        "a3": {
+          "type": "point",
+          "settings": {
+            "title": "Facture française nominative",
+            "text": "Une facture à votre nom est jointe à chaque commande. Elle active vos droits en cas de panne."
+          }
+        },
+        "a4": {
+          "type": "point",
+          "settings": {
+            "title": "Garantie légale de conformité 2 ans",
+            "text": "Exactement la même protection que pour un achat en magasin."
+          }
+        },
+        "a5": {
+          "type": "point",
+          "settings": {
+            "title": "14 jours pour changer d'avis",
+            "text": "Retour gratuit et sans justification après réception. Remboursement sous 14 jours."
+          }
+        }
       },
-      "block_order": ["a1", "a2", "a3", "a4", "a5"],
+      "block_order": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5"
+      ],
       "settings": {
         "heading": "Authentique, ou remboursé",
         "subheading": "Le doute est légitime quand un prix est bas. Voici exactement ce que vous pouvez vérifier vous-même, avant et après réception.",
         "legal": "Novadestock n'est pas affilié à Apple Inc. Apple, AirPods, MacBook, iPhone et Apple Watch sont des marques déposées d'Apple Inc. Novadestock est un revendeur indépendant.",
-        "accent_color": "#127aa9", "text_color": "#0a0a0a", "background_color": "#ffffff", "padding_top": 76, "padding_bottom": 76
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 76,
+        "padding_bottom": 76
+      }
+    },
+    "blocks_R3N8hL": {
+      "type": "_blocks",
+      "name": "Avis défilants",
+      "settings": {}
+    },
+    "blocks_t8mxwy": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_b120873_xxEw3G": {
+          "type": "ai_gen_block_b120873",
+          "settings": {
+            "heading": "Ce que disent nos clients",
+            "subheading": "Découvrez les avis de nos clients satisfaits",
+            "heading_alignment": "center",
+            "heading_size": 36,
+            "subheading_size": 16,
+            "review_1_rating": 5,
+            "review_1_text": "Produit de qualité exceptionnelle ! Je recommande vivement.",
+            "review_1_author": "Marie D.",
+            "review_2_rating": 5,
+            "review_2_text": "Livraison rapide et produit conforme à mes attentes.",
+            "review_2_author": "Pierre L.",
+            "review_3_rating": 5,
+            "review_3_text": "Excellent rapport qualité-prix. Très satisfaite de mon achat.",
+            "review_3_author": "Sophie M.",
+            "review_4_rating": 5,
+            "review_4_text": "Service client au top et produit magnifique !",
+            "review_4_author": "Thomas B.",
+            "review_5_rating": 5,
+            "review_5_text": "Je suis ravie de ma commande. Produit de grande qualité.",
+            "review_5_author": "Julie R.",
+            "review_6_rating": 5,
+            "review_6_text": "Parfait ! Exactement ce que je cherchais.",
+            "review_6_author": "Alexandre C.",
+            "card_width": 350,
+            "card_spacing": 20,
+            "card_padding": 20,
+            "card_border_radius": 12,
+            "card_shadow_opacity": 0.1,
+            "image_height": 250,
+            "image_border_radius": 8,
+            "star_size": 20,
+            "star_color": "#FFD700",
+            "star_empty_color": "#E0E0E0",
+            "review_text_size": 15,
+            "author_text_size": 14,
+            "show_controls": true,
+            "background_color": "#f9f9f9",
+            "card_background": "#ffffff",
+            "heading_color": "#1a1a1a",
+            "text_color": "#666666",
+            "author_color": "#1a1a1a",
+            "button_background": "#1a1a1a",
+            "button_color": "#ffffff",
+            "button_hover_background": "#333333",
+            "container_width": 1400
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_b120873_xxEw3G"
+      ],
+      "name": "Avis défilants",
+      "settings": {}
+    },
+    "testimonials_zFPAPW": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_d3KdCp": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Client 1",
+            "title": "Avis client 1",
+            "content": "<p>Excellent produit, conforme à mes attentes.</p>"
+          }
+        },
+        "testimonial_nfhRyL": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Client 2",
+            "title": "Avis client 2",
+            "content": "<p>Livraison rapide et expérience très satisfaisante.</p>"
+          }
+        },
+        "testimonial_r4Vxw4": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Client 3",
+            "title": "Avis client 3",
+            "content": "<p>Très bon rapport qualité-prix, je recommande.</p>"
+          }
+        },
+        "testimonial_t7WJXp": {
+          "type": "testimonial",
+          "settings": {
+            "image": "shopify://shop_images/the_glitches_are_there_to_help_you_to_adjust_your_plans_for_success._fee16182-e054-4bdf-ade9-1f56cca3aa15.png",
+            "round_avatar": false,
+            "show_rating": true,
+            "rating": 4,
+            "author": "",
+            "title": "Testimonial",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_d3KdCp",
+        "testimonial_nfhRyL",
+        "testimonial_r4Vxw4",
+        "testimonial_t7WJXp"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": false,
+        "subheading": "",
+        "title": "Vous parlez pour nous",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "#f5f7fa",
+        "testimonial_card_text_color": "#0a0a0a"
       }
     },
     "compare": {
       "type": "nvd-comparison",
       "blocks": {
-        "r1": { "type": "row", "settings": { "label": "Prix sur un AirPods Pro 3", "v1": "text", "v1_text": "159 €", "v2": "text", "v2_text": "249 €", "v3": "text", "v3_text": "180 – 250 €" } },
-        "r2": { "type": "row", "settings": { "label": "Produit neuf et scellé", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "text", "v3_text": "Variable" } },
-        "r3": { "type": "row", "settings": { "label": "Authenticité garantie", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "text", "v3_text": "Selon vendeur" } },
-        "r4": { "type": "row", "settings": { "label": "Livraison offerte", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "text", "v3_text": "Selon vendeur" } },
-        "r5": { "type": "row", "settings": { "label": "Délai de livraison", "v1": "text", "v1_text": "3 à 7 jours", "v2": "text", "v2_text": "1 à 5 jours", "v3": "text", "v3_text": "5 à 30 jours" } },
-        "r6": { "type": "row", "settings": { "label": "Facture française nominative", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "no", "v3_text": "—" } },
-        "r7": { "type": "row", "settings": { "label": "Garantie légale 2 ans", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "text", "v3_text": "Souvent absente" } },
-        "r8": { "type": "row", "settings": { "label": "SAV en français", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "no", "v3_text": "—" } },
-        "r9": { "type": "row", "settings": { "label": "Retour gratuit 14 jours", "v1": "yes", "v1_text": "—", "v2": "yes", "v2_text": "—", "v3": "text", "v3_text": "Frais à charge" } }
+        "r1": {
+          "type": "row",
+          "settings": {
+            "label": "Prix sur un AirPods Pro 3",
+            "v1": "text",
+            "v1_text": "159 €",
+            "v2": "text",
+            "v2_text": "249 €",
+            "v3": "text",
+            "v3_text": "180 – 250 €"
+          }
+        },
+        "r2": {
+          "type": "row",
+          "settings": {
+            "label": "Produit neuf et scellé",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "text",
+            "v3_text": "Variable"
+          }
+        },
+        "r3": {
+          "type": "row",
+          "settings": {
+            "label": "Authenticité garantie",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "text",
+            "v3_text": "Selon vendeur"
+          }
+        },
+        "r4": {
+          "type": "row",
+          "settings": {
+            "label": "Livraison offerte",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "text",
+            "v3_text": "Selon vendeur"
+          }
+        },
+        "r5": {
+          "type": "row",
+          "settings": {
+            "label": "Délai de livraison",
+            "v1": "text",
+            "v1_text": "3 à 7 jours",
+            "v2": "text",
+            "v2_text": "1 à 5 jours",
+            "v3": "text",
+            "v3_text": "5 à 30 jours"
+          }
+        },
+        "r6": {
+          "type": "row",
+          "settings": {
+            "label": "Facture française nominative",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "no",
+            "v3_text": "—"
+          }
+        },
+        "r7": {
+          "type": "row",
+          "settings": {
+            "label": "Garantie légale 2 ans",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "text",
+            "v3_text": "Souvent absente"
+          }
+        },
+        "r8": {
+          "type": "row",
+          "settings": {
+            "label": "SAV en français",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "no",
+            "v3_text": "—"
+          }
+        },
+        "r9": {
+          "type": "row",
+          "settings": {
+            "label": "Retour gratuit 14 jours",
+            "v1": "yes",
+            "v1_text": "—",
+            "v2": "yes",
+            "v2_text": "—",
+            "v3": "text",
+            "v3_text": "Frais à charge"
+          }
+        }
       },
-      "block_order": ["r1", "r2", "r3", "r4", "r5", "r6", "r7", "r8", "r9"],
+      "block_order": [
+        "r1",
+        "r2",
+        "r3",
+        "r4",
+        "r5",
+        "r6",
+        "r7",
+        "r8",
+        "r9"
+      ],
       "settings": {
         "heading": "Novadestock face aux autres",
         "subheading": "Le même produit Apple. Trois façons très différentes de l'acheter.",
-        "col0": "", "col1": "Novadestock", "col2": "Apple Store", "col3": "Marketplaces",
-        "button_label": "Voir le catalogue", "button_link": "/collections/destockage-airpods",
-        "accent_color": "#127aa9", "text_color": "#0a0a0a", "background_color": "#f4f6f8", "padding_top": 76, "padding_bottom": 76
+        "col0": "",
+        "col1": "Novadestock",
+        "col2": "Apple Store",
+        "col3": "Marketplaces",
+        "button_label": "Voir le catalogue",
+        "button_link": "/collections/destockage-airpods",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#f4f6f8",
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     },
     "shipping": {
       "type": "nvd-shipping",
       "blocks": {
-        "e1": { "type": "step", "settings": { "icon": "cart", "title": "Commande confirmée", "text": "Vous recevez immédiatement votre confirmation et votre facture nominative par e-mail.", "when": "Immédiat" } },
-        "e2": { "type": "step", "settings": { "icon": "box", "title": "Préparation et contrôle", "text": "Chaque appareil est contrôlé, son numéro de série vérifié, puis emballé sans être descellé.", "when": "Sous 24 h ouvrées" } },
-        "e3": { "type": "step", "settings": { "icon": "plane", "title": "Expédition et suivi", "text": "Votre numéro de suivi vous est envoyé dès la remise au transporteur.", "when": "Jour 1 à 2" } },
-        "e4": { "type": "step", "settings": { "icon": "home", "title": "Livraison à domicile", "text": "Remise en main propre ou en point relais selon l'option choisie au paiement.", "when": "Jour 3 à 7" } }
+        "e1": {
+          "type": "step",
+          "settings": {
+            "icon": "cart",
+            "title": "Commande confirmée",
+            "text": "Vous recevez immédiatement votre confirmation et votre facture nominative par e-mail.",
+            "when": "Immédiat"
+          }
+        },
+        "e2": {
+          "type": "step",
+          "settings": {
+            "icon": "box",
+            "title": "Préparation et contrôle",
+            "text": "Chaque appareil est contrôlé, son numéro de série vérifié, puis emballé sans être descellé.",
+            "when": "Sous 24 h ouvrées"
+          }
+        },
+        "e3": {
+          "type": "step",
+          "settings": {
+            "icon": "plane",
+            "title": "Expédition et suivi",
+            "text": "Votre numéro de suivi vous est envoyé dès la remise au transporteur.",
+            "when": "Jour 1 à 2"
+          }
+        },
+        "e4": {
+          "type": "step",
+          "settings": {
+            "icon": "home",
+            "title": "Livraison à domicile",
+            "text": "Remise en main propre ou en point relais selon l'option choisie au paiement.",
+            "when": "Jour 3 à 7"
+          }
+        }
       },
-      "block_order": ["e1", "e2", "e3", "e4"],
+      "block_order": [
+        "e1",
+        "e2",
+        "e3",
+        "e4"
+      ],
       "settings": {
         "heading": "Livré chez vous en 3 à 7 jours",
         "subheading": "Toutes les commandes partent de notre entrepôt sous 24 h ouvrées. Vous recevez un numéro de suivi dès l'expédition et vous suivez votre colis à chaque étape.",
         "pill": "Livraison offerte, sans minimum d'achat",
-        "accent_color": "#127aa9", "text_color": "#0a0a0a", "background_color": "#ffffff", "padding_top": 76, "padding_bottom": 76
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     },
     "faq": {
       "type": "nvd-faq",
       "blocks": {
-        "q1": { "type": "q", "settings": { "question": "Les produits sont-ils vraiment authentiques ?", "answer": "<p>Oui. Ce sont des produits Apple d'origine, neufs et scellés dans leur emballage constructeur. Le numéro de série de chaque appareil est vérifiable sur le site officiel d'Apple, y compris avant de retirer le film plastique. Nous ne vendons ni copies, ni reconditionnés.</p>", "open": true } },
-        "q2": { "type": "q", "settings": { "question": "Pourquoi vos prix sont-ils aussi bas ?", "answer": "<p>Nous achetons des lots de fin de série auprès de distributeurs européens qui doivent libérer leur stock à chaque nouvelle sortie Apple. Nous revendons ces lots sans structure de boutique physique. C'est le circuit d'approvisionnement qui change, pas le produit.</p>", "open": false } },
-        "q3": { "type": "q", "settings": { "question": "Quel est le délai de livraison ?", "answer": "<p>Entre 3 et 7 jours ouvrés en France métropolitaine. Votre commande est expédiée sous 24 h ouvrées et vous recevez un numéro de suivi dès la remise au transporteur. La livraison est offerte, sans minimum d'achat.</p>", "open": false } },
-        "q4": { "type": "q", "settings": { "question": "Ai-je une garantie ?", "answer": "<p>Oui, la garantie légale de conformité de 2 ans s'applique sur l'ensemble de nos produits, comme pour n'importe quel achat neuf en France. Une facture nominative accompagne chaque commande : elle vous sert de preuve d'achat.</p>", "open": false } },
-        "q5": { "type": "q", "settings": { "question": "Puis-je retourner ma commande ?", "answer": "<p>Vous disposez de 14 jours après réception pour changer d'avis, sans avoir à vous justifier. Le retour est gratuit et le remboursement intervient sous 14 jours après réception du colis.</p>", "open": false } },
-        "q6": { "type": "q", "settings": { "question": "Le paiement est-il sécurisé ?", "answer": "<p>Oui. Tous les paiements sont traités en connexion chiffrée par nos prestataires bancaires. Nous n'avons jamais accès à vos données de carte.</p>", "open": false } }
+        "q1": {
+          "type": "q",
+          "settings": {
+            "question": "Les produits sont-ils vraiment authentiques ?",
+            "answer": "<p>Oui. Ce sont des produits Apple d'origine, neufs et scellés dans leur emballage constructeur. Le numéro de série de chaque appareil est vérifiable sur le site officiel d'Apple, y compris avant de retirer le film plastique. Nous ne vendons ni copies, ni reconditionnés.</p>",
+            "open": true
+          }
+        },
+        "q2": {
+          "type": "q",
+          "settings": {
+            "question": "Pourquoi vos prix sont-ils aussi bas ?",
+            "answer": "<p>Nous achetons des lots de fin de série auprès de distributeurs européens qui doivent libérer leur stock à chaque nouvelle sortie Apple. Nous revendons ces lots sans structure de boutique physique. C'est le circuit d'approvisionnement qui change, pas le produit.</p>",
+            "open": false
+          }
+        },
+        "q3": {
+          "type": "q",
+          "settings": {
+            "question": "Quel est le délai de livraison ?",
+            "answer": "<p>Entre 3 et 7 jours ouvrés en France métropolitaine. Votre commande est expédiée sous 24 h ouvrées et vous recevez un numéro de suivi dès la remise au transporteur. La livraison est offerte, sans minimum d'achat.</p>",
+            "open": false
+          }
+        },
+        "q4": {
+          "type": "q",
+          "settings": {
+            "question": "Ai-je une garantie ?",
+            "answer": "<p>Oui, la garantie légale de conformité de 2 ans s'applique sur l'ensemble de nos produits, comme pour n'importe quel achat neuf en France. Une facture nominative accompagne chaque commande : elle vous sert de preuve d'achat.</p>",
+            "open": false
+          }
+        },
+        "q5": {
+          "type": "q",
+          "settings": {
+            "question": "Puis-je retourner ma commande ?",
+            "answer": "<p>Vous disposez de 14 jours après réception pour changer d'avis, sans avoir à vous justifier. Le retour est gratuit et le remboursement intervient sous 14 jours après réception du colis.</p>",
+            "open": false
+          }
+        },
+        "q6": {
+          "type": "q",
+          "settings": {
+            "question": "Le paiement est-il sécurisé ?",
+            "answer": "<p>Oui. Tous les paiements sont traités en connexion chiffrée par nos prestataires bancaires. Nous n'avons jamais accès à vos données de carte.</p>",
+            "open": false
+          }
+        }
       },
-      "block_order": ["q1", "q2", "q3", "q4", "q5", "q6"],
+      "block_order": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6"
+      ],
       "settings": {
         "heading": "Les questions qu'on nous pose",
         "subheading": "Une question qui n'est pas ici ? Écrivez-nous, on répond sous 24 h.",
-        "accent_color": "#127aa9", "text_color": "#0a0a0a", "background_color": "#f4f6f8", "padding_top": 76, "padding_bottom": 76
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#f4f6f8",
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     }
   },
-  "order": ["hero", "trust", "student", "grid", "macgrid", "why", "models", "auth", "compare", "shipping", "faq"]
+  "order": [
+    "hero",
+    "trust",
+    "student",
+    "grid",
+    "macgrid",
+    "why",
+    "models",
+    "auth",
+    "blocks_R3N8hL",
+    "blocks_t8mxwy",
+    "testimonials_zFPAPW",
+    "compare",
+    "shipping",
+    "faq"
+  ]
 }
