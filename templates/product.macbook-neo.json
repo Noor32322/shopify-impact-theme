@@ -299,6 +299,7 @@
         "r2": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.45.png",
             "rating": 5,
             "text": "Écrivez ici l'avis du client.",
             "name": "Prénom",
@@ -309,6 +310,40 @@
         "r3": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.08.00.png",
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_idd9wg": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.17.png",
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_yzV8FR": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.38.png",
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_AxAc8x": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.03.png",
             "rating": 5,
             "text": "Écrivez ici l'avis du client.",
             "name": "Prénom",
@@ -319,7 +354,10 @@
       },
       "block_order": [
         "r2",
-        "r3"
+        "r3",
+        "review_idd9wg",
+        "review_yzV8FR",
+        "review_AxAc8x"
       ],
       "settings": {
         "heading": "Les avis sur ce produit",
