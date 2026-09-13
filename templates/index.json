@@ -621,9 +621,9 @@
         "r1": {
           "type": "row",
           "settings": {
-            "label": "Prix sur un AirPods Pro 3",
+            "label": "Prix sur AirPods Pro 3",
             "v1": "text",
-            "v1_text": "159 €",
+            "v1_text": "59 €",
             "v2": "text",
             "v2_text": "249 €",
             "v3": "text",
