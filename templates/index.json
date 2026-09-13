@@ -85,6 +85,14 @@
             "tag": "",
             "custom_title": "PS5 - 512GO Neuve scellée"
           }
+        },
+        "product_NHdY93": {
+          "type": "product",
+          "settings": {
+            "product": "lphone-15",
+            "tag": "—",
+            "custom_title": "—"
+          }
         }
       },
       "block_order": [
@@ -94,7 +102,8 @@
         "c4",
         "c5",
         "c8",
-        "product_fVgJNR"
+        "product_fVgJNR",
+        "product_NHdY93"
       ],
       "settings": {
         "heading": "Le stock du moment",
