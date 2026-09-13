@@ -350,6 +350,17 @@
             "meta": "Achat vérifié",
             "verified": true
           }
+        },
+        "review_eE9bfj": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.05.35.png",
+            "rating": 5,
+            "text": "Alors j'hésitais avec l'argent et j'ai pris le rose, aucun regret. Bon après faut aimer, mon copain trouve ça trop girly",
+            "name": "Martin.F",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
         }
       },
       "block_order": [
@@ -357,7 +368,8 @@
         "r3",
         "review_idd9wg",
         "review_yzV8FR",
-        "review_AxAc8x"
+        "review_AxAc8x",
+        "review_eE9bfj"
       ],
       "settings": {
         "heading": "Les avis sur ce produit",
