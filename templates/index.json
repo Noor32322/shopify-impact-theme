@@ -99,7 +99,7 @@
       "settings": {
         "heading": "Le stock du moment",
         "subheading": "Quantités réelles, pas de précommande. Quand un lot est écoulé, il disparaît du site.",
-        "link_label": "Tout voir",
+        "link_label": "",
         "link_url": "/collections/destockage-airpods",
         "auth_label": "Authentique · neuf scellé",
         "ship_label": "Livraison offerte · 3 à 7 jours",
