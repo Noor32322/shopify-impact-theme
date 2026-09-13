@@ -12,28 +12,156 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": { "type": "title", "settings": { "heading_tag": "h2" } },
-        "badges": { "type": "badges", "settings": {} },
-        "price": { "type": "price", "settings": { "show_taxes_notice": false } },
-        "rating": { "type": "rating", "settings": { "show_empty": false } },
-        "payment_terms": { "type": "payment_terms", "settings": {} },
-        "description": { "type": "description", "settings": { "collapse_content": true } },
-        "quantity_selector": { "type": "quantity_selector", "settings": {} },
-        "buy_buttons": { "type": "buy_buttons", "settings": { "show_payment_button": false, "show_gift_card_recipient": false, "atc_button_background": "#1F3B57", "atc_button_text_color": "#ffffff", "payment_button_background": "#1a1a1a", "payment_button_text_color": "#1a1a1a" } },
-        "collapsible_text_livraison": { "type": "collapsible_text", "settings": { "title": "Livraison offerte", "content": "<p>Profitez d'une livraison gratuite sous 5 à 8 jours ouvrés.</p>" } },
-        "collapsible_text_garantie": { "type": "collapsible_text", "settings": { "title": "Satisfait ou remboursé sous 30 jours", "content": "<p>Testez Pattinou sans risque. Pour un retour, contactez notre service client à contact@pattinou.com</p>" } },
-        "collapsible_text_service": { "type": "collapsible_text", "settings": { "title": "Service client français", "content": "<p>Notre équipe vous répond du lundi au vendredi, sous 24h ouvrées.</p>" } },
-        "collapsible_text_comment": { "type": "collapsible_text", "settings": { "title": "Comment l'utiliser ?", "content": "<p><strong>Présentez la brosse</strong><br>Laissez votre animal la découvrir quelques secondes avant le premier brossage.</p><p><strong>Brossez en douceur</strong><br>Passez la brosse dans le sens du poil avec des mouvements réguliers.</p><p><strong>Quelques minutes suffisent</strong><br>Deux à cinq minutes permettent déjà de retirer une grande quantité de poils morts.</p><p><strong>Nettoyez et recommencez</strong><br>Appuyez sur le bouton d'éjection pour retirer les poils collectés après chaque séance.</p>" } },
-        "collapsible_text_douleur": { "type": "collapsible_text", "settings": { "title": "Est-ce que la brosse tire ou fait mal à l'animal ?", "content": "<p>Utilisée dans le sens du poil et sans forcer, elle ne tire pas et n'irrite pas la peau.</p>" } },
-        "collapsible_text_frequence": { "type": "collapsible_text", "settings": { "title": "À quelle fréquence faut-il l'utiliser ?", "content": "<p>1 à 3 fois par semaine suffisent pour la plupart des animaux ; davantage en période de mue.</p>" } }
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_ne9mQC": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">stock restant : 8</div>\n</div>"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "payment_terms": {
+          "type": "payment_terms",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": true
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#3BC4D3",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "#1a1a1a",
+            "payment_button_text_color": "#1a1a1a"
+          }
+        },
+        "collapsible_text_livraison": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison offerte",
+            "content": "<p>Profitez d'une livraison gratuite sous 5 à 8 jours ouvrés.</p>"
+          }
+        },
+        "collapsible_text_garantie": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Satisfait ou remboursé sous 30 jours",
+            "content": "<p>Testez Pattinou sans risque. Pour un retour, contactez notre service client à contact@pattinou.com</p>"
+          }
+        },
+        "collapsible_text_service": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Service client français",
+            "content": "<p>Notre équipe vous répond du lundi au vendredi, sous 24h ouvrées.</p>"
+          }
+        },
+        "collapsible_text_comment": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<p><strong>Présentez la brosse</strong><br>Laissez votre animal la découvrir quelques secondes avant le premier brossage.</p><p><strong>Brossez en douceur</strong><br>Passez la brosse dans le sens du poil avec des mouvements réguliers.</p><p><strong>Quelques minutes suffisent</strong><br>Deux à cinq minutes permettent déjà de retirer une grande quantité de poils morts.</p><p><strong>Nettoyez et recommencez</strong><br>Appuyez sur le bouton d'éjection pour retirer les poils collectés après chaque séance.</p>"
+          }
+        },
+        "collapsible_text_douleur": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Est-ce que la brosse tire ou fait mal à l'animal ?",
+            "content": "<p>Utilisée dans le sens du poil et sans forcer, elle ne tire pas et n'irrite pas la peau.</p>"
+          }
+        },
+        "collapsible_text_frequence": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "À quelle fréquence faut-il l'utiliser ?",
+            "content": "<p>1 à 3 fois par semaine suffisent pour la plupart des animaux ; davantage en période de mue.</p>"
+          }
+        }
       },
-      "block_order": ["title", "badges", "price", "rating", "payment_terms", "description", "quantity_selector", "buy_buttons", "collapsible_text_livraison", "collapsible_text_garantie", "collapsible_text_service", "collapsible_text_comment", "collapsible_text_douleur", "collapsible_text_frequence"],
-      "settings": { "full_width": true, "show_fixed_add_to_cart": true, "desktop_media_width": 55, "desktop_media_layout": "carousel_thumbnails_left", "mobile_media_size": "expanded", "mobile_carousel_control": "floating_dots", "enable_video_autoplay": false, "enable_video_looping": true, "enable_image_zoom": true, "max_image_zoom_level": 3, "background": "", "background_gradient": "", "text_color": "", "input_background": "rgba(0,0,0,0)", "input_text_color": "" }
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "liquid_ne9mQC",
+        "rating",
+        "payment_terms",
+        "description",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible_text_livraison",
+        "collapsible_text_garantie",
+        "collapsible_text_service",
+        "collapsible_text_comment",
+        "collapsible_text_douleur",
+        "collapsible_text_frequence"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     },
     "apps_reviews": {
       "type": "apps",
-      "settings": { "full_width": true, "remove_vertical_spacing": false, "remove_horizontal_spacing": false, "background": "", "background_gradient": "", "text_color": "", "enable_review_integration": true, "review_header_gradient": "linear-gradient(135deg, rgba(58,111,166,1), rgba(31,59,87,1) 100%)", "review_header_text_color": "#ffffff", "review_button_background": "#1F3B57", "review_button_text_color": "#ffffff" }
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(58,111,166,1), rgba(31,59,87,1) 100%)",
+        "review_header_text_color": "#ffffff",
+        "review_button_background": "#1f3b57",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
-  "order": ["main", "apps_reviews"]
+  "order": [
+    "main",
+    "apps_reviews"
+  ]
 }
