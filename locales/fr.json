@@ -401,7 +401,7 @@
   "password": {
     "general": {
       "follow_us": "Nous suivre",
-      "powered_by": " ",
+      "powered_by": "Ce magasin vous est offert par",
       "store_owner": "Gérant de la boutique ?",
       "login": "Se connecter"
     },
@@ -426,11 +426,11 @@
   },
   "shopify": {
     "links": {
-      "powered_by_shopify": " "
+      "powered_by_shopify": "Optimisé par Shopify"
     },
     "checkout": {
       "shop_policies": {
-        "cookie_preferences": " "
+        "cookie_preferences": "Cookie"
       },
       "general": {
         "continue_to_review": "Acheter maintenant",
