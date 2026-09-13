@@ -77,6 +77,14 @@
             "tag": "À 549 €",
             "custom_title": ""
           }
+        },
+        "product_fVgJNR": {
+          "type": "product",
+          "settings": {
+            "product": "ps5-512-go",
+            "tag": "",
+            "custom_title": "PS5 - 512GO Neuve scellée"
+          }
         }
       },
       "block_order": [
@@ -85,7 +93,8 @@
         "c3",
         "c4",
         "c5",
-        "c8"
+        "c8",
+        "product_fVgJNR"
       ],
       "settings": {
         "heading": "Le stock du moment",
@@ -215,7 +224,7 @@
         "title_a": "MacBook Neo",
         "product_b": "airpods-max-usb-c-neufs-scelles",
         "title_b": "AirPods Max",
-        "discount_percent": 25,
+        "pack_price": "309,00",
         "discount_code": "PACKRENTREE",
         "eyebrow": "Offre étudiante",
         "heading": "Le pack rentrée",
