@@ -554,9 +554,10 @@
         "review_zPpcg6": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_06.32.37_c229132a-cc29-42be-b5c9-a94d3b35d032.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Ahmed.E",
+            "text": "Parfait mon conjoint est super heureux !",
+            "name": "Celia.E",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -564,8 +565,9 @@
         "review_bUPBUH": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.51.26.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
+            "text": "nickel 👌",
             "name": "Prénom",
             "meta": "Achat vérifié",
             "verified": true
@@ -574,6 +576,29 @@
         "review_W3MBTm": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.52.09.png",
+            "rating": 5,
+            "text": "Tout est arrivé comme prévu et la console fonctionne parfaitement jusqu'à présent.\n\n\nJe n'ai eu aucun problème avec la configuration ou les performances, et tout fonctionne comme il se doit. Contente de l'achat et, jusqu'à présent, je n'ai rien à redire.\n\n\nBonne console et expérience fluide dans l'ensemble.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_9nybXY": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.50.58.png",
+            "rating": 5,
+            "text": "petit souci a la commande, javais mis la mauvaise adresse comme un idiot. jai ecrit dans la foulée, ils ont modifié avant lexpedition sans discuter. recu 7 jours apres a la bonne adresse 😅 produit nickel scellé avec la facture. honnetement cest la reactivité qui ma le plus marqué",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_HkYcVj": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.51.50.png",
             "rating": 5,
             "text": "Écrivez ici l'avis du client.",
             "name": "Prénom",
@@ -581,7 +606,7 @@
             "verified": true
           }
         },
-        "review_9nybXY": {
+        "review_V6QFTb": {
           "type": "review",
           "settings": {
             "rating": 5,
@@ -596,9 +621,10 @@
         "review_zPpcg6",
         "review_bUPBUH",
         "review_W3MBTm",
-        "review_9nybXY"
+        "review_9nybXY",
+        "review_HkYcVj",
+        "review_V6QFTb"
       ],
-      "disabled": true,
       "name": "NVD — Avis clients",
       "settings": {
         "heading": "Ce qu'en disent nos clients",
