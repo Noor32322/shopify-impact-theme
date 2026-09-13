@@ -18,6 +18,12 @@
             "heading_tag": "h1"
           }
         },
+        "liquid_khPqxb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html>\n<head>\n<style>\n:root {\n  --social-proof-text-color: #000000;\n  --social-proof-star-color: #24ad81;\n}\n\n.social-proof-slide__block-rating {\n    display: flex;\n    align-items: center;\n    justify-content: flex-start;\nfont-size: 14px;\n}\n\n.social-proof-slide__block-stars {\n    display: flex;\n    margin-right: 8px;\n    color: var(--social-proof-star-color);\n}\n\n.social-proof-slide__block-rating-text {\n    display: inline;\n    color: var(--social-proof-text-color);\n    content: var(--social-proof-rating-text);\n}\n\n.social-proof-star {\n    margin: 0;\n    padding: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    width: 16px;\n    height: 16px;\n}\n\n.social-proof-star svg {\n    width: 16px;\n    height: 16px;\n    fill: var(--social-proof-star-color);\n}\n</style>\n</head>\n<body>\n\n<div class=\"social-proof-slide__block-rating mt-2\">\n  <span class=\"social-proof-slide__block-stars\">\n    <span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n<span class=\"social-proof-star\">\n      <svg xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <svg class=\"w-[16px] h-[16px]\" fill=\"currentColor\" stroke=\"currentColor\" xmlns=\"http://w3.org/2000/svg\" viewBox=\"0 0 576 512\">\n        <path d=\"M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z\"></path>\n      </svg>\n    </span>\n  </span>\n  <span class=\"social-proof-slide__block-rating-text\">\n    Noté 4.9/5 par +42 500 clients !\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -42,8 +48,11 @@
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
+            "show_gift_card_recipient": true,
             "atc_button_background": "#127aa9",
-            "atc_button_text_color": "#ffffff"
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
           }
         },
         "ct1": {
@@ -77,6 +86,7 @@
       },
       "block_order": [
         "title",
+        "liquid_khPqxb",
         "badges",
         "price",
         "description",
@@ -93,7 +103,16 @@
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
-        "enable_image_zoom": true
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
       }
     },
     "trust": {
@@ -265,15 +284,33 @@
       "blocks": {
         "r1": {
           "type": "review",
-          "settings": {}
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
         },
         "r2": {
           "type": "review",
-          "settings": {}
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
         },
         "r3": {
           "type": "review",
-          "settings": {}
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
         }
       },
       "block_order": [
@@ -286,6 +323,21 @@
         "subheading": "Avis laissés par les clients ayant commandé ce produit.",
         "global_note": "",
         "anchor_id": "avis",
+        "layout": "slider",
+        "card_width": 320,
+        "show_arrows": true,
+        "columns": 3,
+        "gap": 20,
+        "radius": 20,
+        "card_padding": 22,
+        "text_size": 15,
+        "show_placeholder": true,
+        "show_avatar": true,
+        "show_number": true,
+        "star_size": 16,
+        "star_color": "#f5a623",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
         "background_color": "#ffffff",
         "padding_top": 64,
         "padding_bottom": 64
@@ -297,49 +349,49 @@
         "q1": {
           "type": "q",
           "settings": {
-            "open": true,
             "question": "Le produit est-il vraiment neuf et authentique ?",
-            "answer": "<p>Oui. C'est un produit d'origine, neuf et scellé dans son emballage constructeur. Le numéro de série est vérifiable auprès du fabricant, y compris avant de retirer le film plastique. Nous ne vendons ni copies, ni reconditionnés.</p>"
+            "answer": "<p>Oui. C'est un produit d'origine, neuf et scellé dans son emballage constructeur. Le numéro de série est vérifiable auprès du fabricant, y compris avant de retirer le film plastique. Nous ne vendons ni copies, ni reconditionnés.</p>",
+            "open": true
           }
         },
         "q2": {
           "type": "q",
           "settings": {
-            "open": false,
             "question": "Pourquoi ce prix est-il aussi bas ?",
-            "answer": "<p>Nous achetons des lots de fin de série auprès de distributeurs européens qui doivent libérer leur stock. Nous les revendons sans structure de boutique physique. C'est le circuit d'approvisionnement qui change, pas le produit.</p>"
+            "answer": "<p>Nous achetons des lots de fin de série auprès de distributeurs européens qui doivent libérer leur stock. Nous les revendons sans structure de boutique physique. C'est le circuit d'approvisionnement qui change, pas le produit.</p>",
+            "open": false
           }
         },
         "q3": {
           "type": "q",
           "settings": {
-            "open": false,
             "question": "Quand vais-je recevoir ma commande ?",
-            "answer": "<p>Entre 3 et 7 jours ouvrés en France métropolitaine. Votre commande est expédiée sous 24 h ouvrées et vous recevez un numéro de suivi dès la remise au transporteur. La livraison est offerte, sans minimum d'achat.</p>"
+            "answer": "<p>Entre 3 et 7 jours ouvrés en France métropolitaine. Votre commande est expédiée sous 24 h ouvrées et vous recevez un numéro de suivi dès la remise au transporteur. La livraison est offerte, sans minimum d'achat.</p>",
+            "open": false
           }
         },
         "q4": {
           "type": "q",
           "settings": {
-            "open": false,
             "question": "Quelle garantie s'applique ?",
-            "answer": "<p>La garantie légale de conformité de 2 ans, comme pour n'importe quel achat neuf en France. Une facture nominative accompagne chaque commande : elle vous sert de preuve d'achat.</p>"
+            "answer": "<p>La garantie légale de conformité de 2 ans, comme pour n'importe quel achat neuf en France. Une facture nominative accompagne chaque commande : elle vous sert de preuve d'achat.</p>",
+            "open": false
           }
         },
         "q5": {
           "type": "q",
           "settings": {
-            "open": false,
             "question": "Puis-je retourner le produit ?",
-            "answer": "<p>Vous disposez de 14 jours après réception pour changer d'avis, sans avoir à vous justifier. Le retour est gratuit et le remboursement intervient sous 14 jours après réception du colis.</p>"
+            "answer": "<p>Vous disposez de 14 jours après réception pour changer d'avis, sans avoir à vous justifier. Le retour est gratuit et le remboursement intervient sous 14 jours après réception du colis.</p>",
+            "open": false
           }
         },
         "q6": {
           "type": "q",
           "settings": {
-            "open": false,
             "question": "Le paiement est-il sécurisé ?",
-            "answer": "<p>Oui. Tous les paiements sont traités en connexion chiffrée par nos prestataires bancaires. Nous n'avons jamais accès à vos données de carte.</p>"
+            "answer": "<p>Oui. Tous les paiements sont traités en connexion chiffrée par nos prestataires bancaires. Nous n'avons jamais accès à vos données de carte.</p>",
+            "open": false
           }
         }
       },
