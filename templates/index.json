@@ -27,6 +27,100 @@
       "name": "Image d'accueil",
       "settings": {}
     },
+    "grid": {
+      "type": "nvd-product-grid",
+      "blocks": {
+        "c1": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-neo-13-a18-pro-neuf-scelle",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c2": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-pro-2-usb-c-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c3": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-max-usb-c-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c4": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-4-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c5": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-3-magsafe-neufs-scelles",
+            "tag": "Petit prix",
+            "custom_title": ""
+          }
+        },
+        "c6": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-max-usb-c-neufs-scelles",
+            "tag": "",
+            "custom_title": ""
+          }
+        },
+        "c7": {
+          "type": "product",
+          "settings": {
+            "product": "airpods-5-neufs-scelles",
+            "tag": "Nouveau",
+            "custom_title": ""
+          }
+        },
+        "c8": {
+          "type": "product",
+          "settings": {
+            "product": "macbook-neo-13-a18-pro-neuf-scelle",
+            "tag": "À 549 €",
+            "custom_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "c1",
+        "c2",
+        "c3",
+        "c4",
+        "c5",
+        "c6",
+        "c7",
+        "c8"
+      ],
+      "settings": {
+        "heading": "Le stock du moment",
+        "subheading": "Quantités réelles, pas de précommande. Quand un lot est écoulé, il disparaît du site.",
+        "link_label": "Tout voir",
+        "link_url": "/collections/destockage-airpods",
+        "auth_label": "Authentique · neuf scellé",
+        "ship_label": "Livraison offerte · 3 à 7 jours",
+        "columns": 4,
+        "accent_color": "#127aa9",
+        "badge_color": "#ff3b30",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 72,
+        "padding_bottom": 40
+      }
+    },
     "hero": {
       "type": "nvd-hero",
       "blocks": {
@@ -69,6 +163,10 @@
         "button_link": "/collections/destockage-airpods",
         "button2_label": "Comment on fait ces prix",
         "button2_link": "#pourquoi",
+        "button3_label": "Voir les avis",
+        "button3_link": "",
+        "button3_stars": true,
+        "star_color": "#f5a623",
         "badge_text": "Jusqu'à -67 %",
         "badge_color": "#ff3b30",
         "accent_color": "#127aa9",
@@ -173,100 +271,6 @@
         "background_color": "#f4f6f8",
         "padding_top": 76,
         "padding_bottom": 76
-      }
-    },
-    "grid": {
-      "type": "nvd-product-grid",
-      "blocks": {
-        "c1": {
-          "type": "product",
-          "settings": {
-            "product": "macbook-neo-13-a18-pro-neuf-scelle",
-            "tag": "",
-            "custom_title": ""
-          }
-        },
-        "c2": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-pro-2-usb-c-neufs-scelles",
-            "tag": "",
-            "custom_title": ""
-          }
-        },
-        "c3": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-max-usb-c-neufs-scelles",
-            "tag": "",
-            "custom_title": ""
-          }
-        },
-        "c4": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-4-neufs-scelles",
-            "tag": "",
-            "custom_title": ""
-          }
-        },
-        "c5": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-3-magsafe-neufs-scelles",
-            "tag": "Petit prix",
-            "custom_title": ""
-          }
-        },
-        "c6": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-max-usb-c-neufs-scelles",
-            "tag": "",
-            "custom_title": ""
-          }
-        },
-        "c7": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-5-neufs-scelles",
-            "tag": "Nouveau",
-            "custom_title": ""
-          }
-        },
-        "c8": {
-          "type": "product",
-          "settings": {
-            "product": "macbook-neo-13-a18-pro-neuf-scelle",
-            "tag": "À 549 €",
-            "custom_title": ""
-          }
-        }
-      },
-      "block_order": [
-        "c1",
-        "c2",
-        "c3",
-        "c4",
-        "c5",
-        "c6",
-        "c7",
-        "c8"
-      ],
-      "settings": {
-        "heading": "Le stock du moment",
-        "subheading": "Quantités réelles, pas de précommande. Quand un lot est écoulé, il disparaît du site.",
-        "link_label": "Tout voir",
-        "link_url": "/collections/destockage-airpods",
-        "auth_label": "Authentique · neuf scellé",
-        "ship_label": "Livraison offerte · 3 à 7 jours",
-        "columns": 4,
-        "accent_color": "#127aa9",
-        "badge_color": "#ff3b30",
-        "text_color": "#0a0a0a",
-        "background_color": "#ffffff",
-        "padding_top": 72,
-        "padding_bottom": 40
       }
     },
     "macgrid": {
@@ -620,6 +624,7 @@
         "heading": "Ce qu'en disent nos clients",
         "subheading": "",
         "global_note": "4,9/5",
+        "anchor_id": "avis",
         "layout": "slider",
         "card_width": 320,
         "show_arrows": false,
@@ -909,11 +914,11 @@
   },
   "order": [
     "blocks_LDiDGi",
+    "grid",
     "hero",
     "trust",
     "student",
     "nvd_student_offer_8VnKq9",
-    "grid",
     "macgrid",
     "why",
     "models",
