@@ -301,8 +301,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.45.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Je confirme c'est authentique, j'ai fait vérifier en Apple Store ils m'ont confirmé la garantie. Après ils ont fait une drôle de tête quand j'ai dit le prix 😂",
+            "name": "Samia.Y",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -312,8 +312,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.08.00.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Alors franchement pour la fac c'est largement suffisant. Word, Excel, 40 onglets Chrome, ça bronche pas. Par contre j'ai essayé un montage vidéo un peu lourd et là ça rame, faut pas rêver non plus.",
+            "name": "Thaïs.L",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -323,8 +323,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.17.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "J'ai commandé le rose pour ma fille pour la rentrée, elle a adoré. Petit truc la coque que j'avais prise à côté jurait un peu avec, j'ai fini par l'enlever.",
+            "name": "Sophie.H",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -334,8 +334,8 @@
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.38.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "J'ai hésité longtemps, le prix me paraissait trop beau. Au final c'est carré, emballage constructeur pas ouvert.",
+            "name": "Hamid.E",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -344,9 +344,9 @@
           "type": "review",
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.03.png",
-            "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "rating": 4,
+            "text": "Produit impeccable mais j'aurais aimé une confirmation d'expédition plus tôt, j'ai attendu 2 jours sans nouvelles.",
+            "name": "Cédric.B",
             "meta": "Achat vérifié",
             "verified": true
           }
