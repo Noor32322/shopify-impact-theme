@@ -70,22 +70,6 @@
             "custom_title": ""
           }
         },
-        "c6": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-max-usb-c-neufs-scelles",
-            "tag": "",
-            "custom_title": ""
-          }
-        },
-        "c7": {
-          "type": "product",
-          "settings": {
-            "product": "airpods-5-neufs-scelles",
-            "tag": "Nouveau",
-            "custom_title": ""
-          }
-        },
         "c8": {
           "type": "product",
           "settings": {
@@ -101,8 +85,6 @@
         "c3",
         "c4",
         "c5",
-        "c6",
-        "c7",
         "c8"
       ],
       "settings": {
@@ -249,30 +231,6 @@
         "padding_bottom": 64
       }
     },
-    "nvd_student_offer_8VnKq9": {
-      "type": "nvd-student-offer",
-      "name": "NVD — Offre pack",
-      "settings": {
-        "product_a": "",
-        "title_a": "MacBook Neo",
-        "product_b": "",
-        "title_b": "AirPods Max",
-        "discount_percent": 58,
-        "discount_code": "PACKRENTREE",
-        "eyebrow": "Offre étudiante · Rentrée 2026",
-        "heading": "Équipé pour toute l'année",
-        "button_label": "Ajouter au panier",
-        "soldout_label": "Rupture de stock",
-        "save_label": "Vous économisez {montant} sur cette offre",
-        "trust_line": "Livraison offerte · Garantie 2 ans · Retour 14 jours",
-        "accent_color": "#127aa9",
-        "badge_color": "#ff3b30",
-        "text_color": "#0a0a0a",
-        "background_color": "#f4f6f8",
-        "padding_top": 76,
-        "padding_bottom": 76
-      }
-    },
     "macgrid": {
       "type": "nvd-product-grid",
       "blocks": {
@@ -294,6 +252,7 @@
         },
         "k3": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "macbook-air-15-pouces-m5-neuf-scelle",
             "tag": "",
@@ -302,6 +261,7 @@
         },
         "k4": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "macbook-pro-14-pouces-m5-neuf-scelle",
             "tag": "",
@@ -310,6 +270,7 @@
         },
         "k5": {
           "type": "product",
+          "disabled": true,
           "settings": {
             "product": "macbook-pro-16-pouces-m5-pro-neuf-scelle",
             "tag": "",
@@ -918,7 +879,6 @@
     "hero",
     "trust",
     "student",
-    "nvd_student_offer_8VnKq9",
     "macgrid",
     "why",
     "models",
