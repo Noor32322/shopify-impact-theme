@@ -332,6 +332,7 @@
         "r2",
         "r3"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Les avis sur ce produit",
         "subheading": "Avis laissés par les clients ayant commandé ce produit.",
