@@ -589,6 +589,7 @@
         "review_W3MBTm",
         "review_9nybXY"
       ],
+      "disabled": true,
       "name": "NVD — Avis clients",
       "settings": {
         "heading": "Ce qu'en disent nos clients",
