@@ -1,0 +1,425 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h1"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_GRmtiF": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">Restant : 7</div>\n</div>"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "#127aa9",
+            "atc_button_text_color": "#ffffff",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "ct1": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Livraison offerte en 3 à 7 jours",
+            "content": "<p>Expédition sous 24 h ouvrées, numéro de suivi envoyé dès la remise au transporteur. Livraison gratuite, sans minimum d'achat.</p>"
+          }
+        },
+        "ct2": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Authenticité garantie",
+            "content": "<p>Produit d'origine, neuf et scellé dans son emballage constructeur. Numéro de série vérifiable auprès du fabricant avant même de le déballer.</p>"
+          }
+        },
+        "ct3": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Garantie 2 ans et retour 14 jours",
+            "content": "<p>Garantie légale de conformité de 2 ans, facture nominative fournie. Retour gratuit sous 14 jours, sans justification.</p>"
+          }
+        },
+        "ct4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Paiement sécurisé",
+            "content": "<p>Paiement traité en connexion chiffrée par nos prestataires bancaires. Carte bancaire, Apple Pay, Google Pay et paiement en plusieurs fois.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "badges",
+        "price",
+        "liquid_GRmtiF",
+        "description",
+        "quantity_selector",
+        "buy_buttons",
+        "ct1",
+        "ct2",
+        "ct3",
+        "ct4"
+      ],
+      "settings": {
+        "full_width": true,
+        "show_fixed_add_to_cart": true,
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": false,
+        "enable_video_looping": true,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "trust": {
+      "type": "nvd-trust-bar",
+      "blocks": {
+        "t1": {
+          "type": "item",
+          "settings": {
+            "icon": "shield",
+            "title": "Neuf et scellé",
+            "description": "Emballage constructeur d'origine, jamais ouvert."
+          }
+        },
+        "t2": {
+          "type": "item",
+          "settings": {
+            "icon": "truck",
+            "title": "Livraison offerte",
+            "description": "Sans minimum d'achat, partout en France."
+          }
+        },
+        "t3": {
+          "type": "item",
+          "settings": {
+            "icon": "clock",
+            "title": "Livré en 3 à 7 jours",
+            "description": "Expédition sous 24 h ouvrées, suivi fourni."
+          }
+        },
+        "t4": {
+          "type": "item",
+          "settings": {
+            "icon": "return",
+            "title": "Retour gratuit 14 jours",
+            "description": "Sans justification, remboursé sous 14 jours."
+          }
+        }
+      },
+      "block_order": [
+        "t1",
+        "t2",
+        "t3",
+        "t4"
+      ],
+      "settings": {
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "auth": {
+      "type": "nvd-authenticity",
+      "blocks": {
+        "a1": {
+          "type": "point",
+          "settings": {
+            "title": "Numéro de série vérifiable",
+            "text": "Chaque appareil porte son numéro de série d'origine. Vous le saisissez sur le site du fabricant et vous obtenez la confirmation du modèle."
+          }
+        },
+        "a2": {
+          "type": "point",
+          "settings": {
+            "title": "Emballage jamais ouvert",
+            "text": "Les produits arrivent sous blister constructeur. Nous ne descellons jamais un appareil."
+          }
+        },
+        "a3": {
+          "type": "point",
+          "settings": {
+            "title": "Facture française nominative",
+            "text": "Une facture à votre nom accompagne chaque commande. Elle active vos droits en cas de panne et prouve l'origine du produit."
+          }
+        },
+        "a4": {
+          "type": "point",
+          "settings": {
+            "title": "Garantie légale 2 ans",
+            "text": "Exactement la même protection que pour un achat en magasin, sans condition supplémentaire."
+          }
+        },
+        "a5": {
+          "type": "point",
+          "settings": {
+            "title": "14 jours pour changer d'avis",
+            "text": "Retour gratuit et sans justification. Remboursement intégral sous 14 jours après réception du colis."
+          }
+        }
+      },
+      "block_order": [
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5"
+      ],
+      "settings": {
+        "heading": "Authentique, ou remboursé",
+        "subheading": "Le doute est légitime quand un prix est bas. Voici ce que vous pouvez vérifier vous-même, avant et après réception.",
+        "legal": "Novadestock n'est affilié à aucun fabricant. Apple, AirPods, MacBook, PlayStation et PS5 sont des marques déposées de leurs propriétaires respectifs. Novadestock est un revendeur indépendant.",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "ship": {
+      "type": "nvd-shipping",
+      "blocks": {
+        "e1": {
+          "type": "step",
+          "settings": {
+            "icon": "cart",
+            "title": "Commande confirmée",
+            "text": "Confirmation et facture nominative envoyées immédiatement par e-mail.",
+            "when": "Immédiat"
+          }
+        },
+        "e2": {
+          "type": "step",
+          "settings": {
+            "icon": "box",
+            "title": "Préparation et contrôle",
+            "text": "Numéro de série vérifié, produit emballé sans être descellé.",
+            "when": "Sous 24 h ouvrées"
+          }
+        },
+        "e3": {
+          "type": "step",
+          "settings": {
+            "icon": "plane",
+            "title": "Expédition et suivi",
+            "text": "Numéro de suivi envoyé dès la remise au transporteur.",
+            "when": "Jour 1 à 2"
+          }
+        },
+        "e4": {
+          "type": "step",
+          "settings": {
+            "icon": "home",
+            "title": "Livraison",
+            "text": "À domicile ou en point relais, selon l'option choisie au paiement.",
+            "when": "Jour 3 à 7"
+          }
+        }
+      },
+      "block_order": [
+        "e1",
+        "e2",
+        "e3",
+        "e4"
+      ],
+      "settings": {
+        "heading": "Livré chez vous en 3 à 7 jours",
+        "subheading": "Toutes les commandes partent de notre entrepôt sous 24 h ouvrées. Vous suivez votre colis à chaque étape.",
+        "pill": "Livraison offerte, sans minimum d'achat",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#f4f6f8",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "reviews": {
+      "type": "nvd-reviews",
+      "blocks": {
+        "r1": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "r2": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "r3": {
+          "type": "review",
+          "settings": {
+            "rating": 5,
+            "text": "Écrivez ici l'avis du client.",
+            "name": "Prénom",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        }
+      },
+      "block_order": [
+        "r1",
+        "r2",
+        "r3"
+      ],
+      "settings": {
+        "heading": "Les avis sur ce produit",
+        "subheading": "Avis laissés par les clients ayant commandé ce produit.",
+        "global_note": "",
+        "anchor_id": "avis",
+        "layout": "slider",
+        "card_width": 320,
+        "show_arrows": true,
+        "columns": 3,
+        "gap": 20,
+        "radius": 20,
+        "card_padding": 22,
+        "text_size": 15,
+        "show_placeholder": true,
+        "show_avatar": true,
+        "show_number": true,
+        "star_size": 16,
+        "star_color": "#f5a623",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
+    "faq": {
+      "type": "nvd-faq",
+      "blocks": {
+        "q1": {
+          "type": "q",
+          "settings": {
+            "question": "Le produit est-il vraiment neuf et authentique ?",
+            "answer": "<p>Oui. C'est un produit d'origine, neuf et scellé dans son emballage constructeur. Le numéro de série est vérifiable auprès du fabricant, y compris avant de retirer le film plastique. Nous ne vendons ni copies, ni reconditionnés.</p>",
+            "open": true
+          }
+        },
+        "q2": {
+          "type": "q",
+          "settings": {
+            "question": "Pourquoi ce prix est-il aussi bas ?",
+            "answer": "<p>Nous achetons des lots de fin de série auprès de distributeurs européens qui doivent libérer leur stock. Nous les revendons sans structure de boutique physique. C'est le circuit d'approvisionnement qui change, pas le produit.</p>",
+            "open": false
+          }
+        },
+        "q3": {
+          "type": "q",
+          "settings": {
+            "question": "Quand vais-je recevoir ma commande ?",
+            "answer": "<p>Entre 3 et 7 jours ouvrés en France métropolitaine. Votre commande est expédiée sous 24 h ouvrées et vous recevez un numéro de suivi dès la remise au transporteur. La livraison est offerte, sans minimum d'achat.</p>",
+            "open": false
+          }
+        },
+        "q4": {
+          "type": "q",
+          "settings": {
+            "question": "Quelle garantie s'applique ?",
+            "answer": "<p>La garantie légale de conformité de 2 ans, comme pour n'importe quel achat neuf en France. Une facture nominative accompagne chaque commande : elle vous sert de preuve d'achat.</p>",
+            "open": false
+          }
+        },
+        "q5": {
+          "type": "q",
+          "settings": {
+            "question": "Puis-je retourner le produit ?",
+            "answer": "<p>Vous disposez de 14 jours après réception pour changer d'avis, sans avoir à vous justifier. Le retour est gratuit et le remboursement intervient sous 14 jours après réception du colis.</p>",
+            "open": false
+          }
+        },
+        "q6": {
+          "type": "q",
+          "settings": {
+            "question": "Le paiement est-il sécurisé ?",
+            "answer": "<p>Oui. Tous les paiements sont traités en connexion chiffrée par nos prestataires bancaires. Nous n'avons jamais accès à vos données de carte.</p>",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "q1",
+        "q2",
+        "q3",
+        "q4",
+        "q5",
+        "q6"
+      ],
+      "settings": {
+        "heading": "Questions fréquentes",
+        "subheading": "Une question qui n'est pas ici ? Écrivez-nous, on répond sous 24 h.",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#f4f6f8",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    }
+  },
+  "order": [
+    "main",
+    "trust",
+    "auth",
+    "ship",
+    "reviews",
+    "faq"
+  ]
+}
