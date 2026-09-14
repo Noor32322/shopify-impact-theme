@@ -303,9 +303,10 @@
         "r1": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.12.42.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Honnetement, j'avais du mal à y croire mais c'est bel et bien du neuf, service client pro-actif je recommande !",
+            "name": "Stéphanie.L",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -313,9 +314,10 @@
         "r2": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.11.34.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Appareil neuf et authentique, le modele du destockage comme vous le faite est le meilleur sur le marché de la vente et re-vente , esperons que l'état n'imposera pas de restrictions par apport à ça.",
+            "name": "Kassim.H",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -323,9 +325,21 @@
         "r3": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.11.01.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Reçu en 7 jours, ma fille est ravie je recommande.",
+            "name": "Jessica.M",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_L6dqDa": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.10.32.png",
+            "rating": 5,
+            "text": "numéro de serie authentique, batterie neuve tout est ok c'est franchement génial ce concept, rien à dire 💕",
+            "name": "Laura.C",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -334,7 +348,8 @@
       "block_order": [
         "r1",
         "r2",
-        "r3"
+        "r3",
+        "review_L6dqDa"
       ],
       "settings": {
         "heading": "Les avis sur ce produit",
