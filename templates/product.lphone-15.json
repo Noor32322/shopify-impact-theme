@@ -133,6 +133,85 @@
         "input_text_color": ""
       }
     },
+    "reviews": {
+      "type": "nvd-reviews",
+      "blocks": {
+        "r1": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.12.42.png",
+            "rating": 5,
+            "text": "Honnetement, j'avais du mal à y croire mais c'est bel et bien du neuf, service client pro-actif je recommande !",
+            "name": "Stéphanie.L",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "r2": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.11.34.png",
+            "rating": 5,
+            "text": "Appareil neuf et authentique, le modele du destockage comme vous le faite est le meilleur sur le marché de la vente et re-vente , esperons que l'état n'imposera pas de restrictions par apport à ça.",
+            "name": "Kassim.H",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "r3": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.11.01.png",
+            "rating": 5,
+            "text": "Reçu en 7 jours, ma fille est ravie je recommande.",
+            "name": "Jessica.M",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_L6dqDa": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.10.32.png",
+            "rating": 5,
+            "text": "numéro de serie authentique, batterie neuve tout est ok c'est franchement génial ce concept, rien à dire 💕",
+            "name": "Laura.C",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        }
+      },
+      "block_order": [
+        "r1",
+        "r2",
+        "r3",
+        "review_L6dqDa"
+      ],
+      "settings": {
+        "heading": "Les avis sur ce produit",
+        "subheading": "Avis laissés par les clients ayant commandé ce produit.",
+        "global_note": "",
+        "anchor_id": "avis",
+        "layout": "slider",
+        "card_width": 320,
+        "show_arrows": false,
+        "columns": 3,
+        "gap": 20,
+        "radius": 20,
+        "card_padding": 22,
+        "text_size": 15,
+        "show_placeholder": true,
+        "show_avatar": true,
+        "show_number": true,
+        "star_size": 16,
+        "star_color": "#f5a623",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
     "trust": {
       "type": "nvd-trust-bar",
       "blocks": {
@@ -297,85 +376,6 @@
         "padding_bottom": 64
       }
     },
-    "reviews": {
-      "type": "nvd-reviews",
-      "blocks": {
-        "r1": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.12.42.png",
-            "rating": 5,
-            "text": "Honnetement, j'avais du mal à y croire mais c'est bel et bien du neuf, service client pro-actif je recommande !",
-            "name": "Stéphanie.L",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "r2": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.11.34.png",
-            "rating": 5,
-            "text": "Appareil neuf et authentique, le modele du destockage comme vous le faite est le meilleur sur le marché de la vente et re-vente , esperons que l'état n'imposera pas de restrictions par apport à ça.",
-            "name": "Kassim.H",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "r3": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.11.01.png",
-            "rating": 5,
-            "text": "Reçu en 7 jours, ma fille est ravie je recommande.",
-            "name": "Jessica.M",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "review_L6dqDa": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-14_a_11.10.32.png",
-            "rating": 5,
-            "text": "numéro de serie authentique, batterie neuve tout est ok c'est franchement génial ce concept, rien à dire 💕",
-            "name": "Laura.C",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        }
-      },
-      "block_order": [
-        "r1",
-        "r2",
-        "r3",
-        "review_L6dqDa"
-      ],
-      "settings": {
-        "heading": "Les avis sur ce produit",
-        "subheading": "Avis laissés par les clients ayant commandé ce produit.",
-        "global_note": "",
-        "anchor_id": "avis",
-        "layout": "slider",
-        "card_width": 320,
-        "show_arrows": true,
-        "columns": 3,
-        "gap": 20,
-        "radius": 20,
-        "card_padding": 22,
-        "text_size": 15,
-        "show_placeholder": true,
-        "show_avatar": true,
-        "show_number": true,
-        "star_size": 16,
-        "star_color": "#f5a623",
-        "accent_color": "#127aa9",
-        "text_color": "#0a0a0a",
-        "background_color": "#ffffff",
-        "padding_top": 64,
-        "padding_bottom": 64
-      }
-    },
     "faq": {
       "type": "nvd-faq",
       "blocks": {
@@ -449,10 +449,10 @@
   },
   "order": [
     "main",
+    "reviews",
     "trust",
     "auth",
     "ship",
-    "reviews",
     "faq"
   ]
 }
