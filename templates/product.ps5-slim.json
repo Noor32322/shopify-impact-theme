@@ -299,9 +299,10 @@
         "r1": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.51.26.png",
             "rating": 5,
-            "text": "",
-            "name": "Prénom",
+            "text": "je suis du genre parano avec les sites que je connais pas donc avant de commander jai cherché des infos partout. jai fini par leur ecrire direct pour demander sils fournissaient une facture avec mon nom parce que sans ca la garantie sert a rien. reponse le jour meme, oui facture nominative dans chaque colis. bah cest exactement ce qui sest passé. produit scellé, facture dedans, numero de serie verifié ca correspond. du coup jai recommandé pour mon frere",
+            "name": "Mattias.L",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -309,9 +310,10 @@
         "r2": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_06.32.37_c229132a-cc29-42be-b5c9-a94d3b35d032.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Mon mari est ravi, merci beaucoup !",
+            "name": "Sonia.R",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -319,9 +321,32 @@
         "r3": {
           "type": "review",
           "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.51.50.png",
             "rating": 5,
-            "text": "Écrivez ici l'avis du client.",
-            "name": "Prénom",
+            "text": "Reçu en 5 jours, service client reactif je recommande.",
+            "name": "Ahmadi.I",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_f88aXQ": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.50.58.png",
+            "rating": 5,
+            "text": "Console neuve et authentique",
+            "name": "Mohamed.A",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_fJqBVb": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_22.52.09.png",
+            "rating": 5,
+            "text": "commandé un vendredi soir en me disant que ca partirait jamais avant mardi. mail dexpedition le lundi matin avec le suivi, recu le jeudi. donc 6 jours en comptant le week end. le carton dorigine navait jamais ete ouvert le film etait encore dessus. jai quand meme verifié le numero de serie par acquit de conscience, cest bon. rien a redire",
+            "name": "Cyril.D",
             "meta": "Achat vérifié",
             "verified": true
           }
@@ -330,9 +355,10 @@
       "block_order": [
         "r1",
         "r2",
-        "r3"
+        "r3",
+        "review_f88aXQ",
+        "review_fJqBVb"
       ],
-      "disabled": true,
       "settings": {
         "heading": "Les avis sur ce produit",
         "subheading": "Avis laissés par les clients ayant commandé ce produit.",
