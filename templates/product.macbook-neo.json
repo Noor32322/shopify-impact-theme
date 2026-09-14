@@ -46,6 +46,16 @@
             "collapse_content": true
           }
         },
+        "variant_picker_rWDtMJ": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        },
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
@@ -103,6 +113,7 @@
         "price",
         "liquid_xQW4VT",
         "description",
+        "variant_picker_rWDtMJ",
         "quantity_selector",
         "buy_buttons",
         "liquid_hxtDjg",
