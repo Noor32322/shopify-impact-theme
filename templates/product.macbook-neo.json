@@ -140,6 +140,121 @@
         "input_text_color": ""
       }
     },
+    "reviews": {
+      "type": "nvd-reviews",
+      "blocks": {
+        "r2": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.45.png",
+            "rating": 5,
+            "text": "Je confirme c'est authentique, j'ai fait vérifier en Apple Store ils m'ont confirmé la garantie. Après ils ont fait une drôle de tête quand j'ai dit le prix 😂",
+            "name": "Samia.Y",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "r3": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.08.00.png",
+            "rating": 5,
+            "text": "Alors franchement pour la fac c'est largement suffisant. Word, Excel, 40 onglets Chrome, ça bronche pas. Par contre j'ai essayé un montage vidéo un peu lourd et là ça rame, faut pas rêver non plus.",
+            "name": "Thaïs.L",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_idd9wg": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.17.png",
+            "rating": 5,
+            "text": "J'ai commandé le rose pour ma fille pour la rentrée, elle a adoré. Petit truc la coque que j'avais prise à côté jurait un peu avec, j'ai fini par l'enlever.",
+            "name": "Sophie.H",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_yzV8FR": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.38.png",
+            "rating": 5,
+            "text": "J'ai hésité longtemps, le prix me paraissait trop beau. Au final c'est carré, emballage constructeur pas ouvert.",
+            "name": "Hamid.E",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_AxAc8x": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.03.png",
+            "rating": 4,
+            "text": "Produit impeccable mais j'aurais aimé une confirmation d'expédition plus tôt, j'ai attendu 2 jours sans nouvelles.",
+            "name": "Cédric.B",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_eE9bfj": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.05.35.png",
+            "rating": 5,
+            "text": "Alors j'hésitais avec l'argent et j'ai pris le rose, aucun regret. Bon après faut aimer, mon copain trouve ça trop girly",
+            "name": "Martin.F",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        },
+        "review_zJVNzp": {
+          "type": "review",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.06.07.png",
+            "rating": 5,
+            "text": "Alors j'hésitais avec l'argent et j'ai pris le rose, aucun regret. Bon après faut aimer, mon copain trouve ça trop girly",
+            "name": "Martin.F",
+            "meta": "Achat vérifié",
+            "verified": true
+          }
+        }
+      },
+      "block_order": [
+        "r2",
+        "r3",
+        "review_idd9wg",
+        "review_yzV8FR",
+        "review_AxAc8x",
+        "review_eE9bfj",
+        "review_zJVNzp"
+      ],
+      "settings": {
+        "heading": "Les avis sur ce produit",
+        "subheading": "Avis laissés par les clients ayant commandé ce produit.",
+        "global_note": "",
+        "anchor_id": "avis",
+        "layout": "slider",
+        "card_width": 320,
+        "show_arrows": false,
+        "columns": 3,
+        "gap": 20,
+        "radius": 20,
+        "card_padding": 22,
+        "text_size": 15,
+        "show_placeholder": true,
+        "show_avatar": true,
+        "show_number": true,
+        "star_size": 16,
+        "star_color": "#f5a623",
+        "accent_color": "#127aa9",
+        "text_color": "#0a0a0a",
+        "background_color": "#ffffff",
+        "padding_top": 64,
+        "padding_bottom": 64
+      }
+    },
     "trust": {
       "type": "nvd-trust-bar",
       "blocks": {
@@ -304,121 +419,6 @@
         "padding_bottom": 64
       }
     },
-    "reviews": {
-      "type": "nvd-reviews",
-      "blocks": {
-        "r2": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.45.png",
-            "rating": 5,
-            "text": "Je confirme c'est authentique, j'ai fait vérifier en Apple Store ils m'ont confirmé la garantie. Après ils ont fait une drôle de tête quand j'ai dit le prix 😂",
-            "name": "Samia.Y",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "r3": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.08.00.png",
-            "rating": 5,
-            "text": "Alors franchement pour la fac c'est largement suffisant. Word, Excel, 40 onglets Chrome, ça bronche pas. Par contre j'ai essayé un montage vidéo un peu lourd et là ça rame, faut pas rêver non plus.",
-            "name": "Thaïs.L",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "review_idd9wg": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.17.png",
-            "rating": 5,
-            "text": "J'ai commandé le rose pour ma fille pour la rentrée, elle a adoré. Petit truc la coque que j'avais prise à côté jurait un peu avec, j'ai fini par l'enlever.",
-            "name": "Sophie.H",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "review_yzV8FR": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.38.png",
-            "rating": 5,
-            "text": "J'ai hésité longtemps, le prix me paraissait trop beau. Au final c'est carré, emballage constructeur pas ouvert.",
-            "name": "Hamid.E",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "review_AxAc8x": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.07.03.png",
-            "rating": 4,
-            "text": "Produit impeccable mais j'aurais aimé une confirmation d'expédition plus tôt, j'ai attendu 2 jours sans nouvelles.",
-            "name": "Cédric.B",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "review_eE9bfj": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.05.35.png",
-            "rating": 5,
-            "text": "Alors j'hésitais avec l'argent et j'ai pris le rose, aucun regret. Bon après faut aimer, mon copain trouve ça trop girly",
-            "name": "Martin.F",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        },
-        "review_zJVNzp": {
-          "type": "review",
-          "settings": {
-            "image": "shopify://shop_images/Capture_d_ecran_2026-09-13_a_01.06.07.png",
-            "rating": 5,
-            "text": "Alors j'hésitais avec l'argent et j'ai pris le rose, aucun regret. Bon après faut aimer, mon copain trouve ça trop girly",
-            "name": "Martin.F",
-            "meta": "Achat vérifié",
-            "verified": true
-          }
-        }
-      },
-      "block_order": [
-        "r2",
-        "r3",
-        "review_idd9wg",
-        "review_yzV8FR",
-        "review_AxAc8x",
-        "review_eE9bfj",
-        "review_zJVNzp"
-      ],
-      "settings": {
-        "heading": "Les avis sur ce produit",
-        "subheading": "Avis laissés par les clients ayant commandé ce produit.",
-        "global_note": "",
-        "anchor_id": "avis",
-        "layout": "slider",
-        "card_width": 320,
-        "show_arrows": true,
-        "columns": 3,
-        "gap": 20,
-        "radius": 20,
-        "card_padding": 22,
-        "text_size": 15,
-        "show_placeholder": true,
-        "show_avatar": true,
-        "show_number": true,
-        "star_size": 16,
-        "star_color": "#f5a623",
-        "accent_color": "#127aa9",
-        "text_color": "#0a0a0a",
-        "background_color": "#ffffff",
-        "padding_top": 64,
-        "padding_bottom": 64
-      }
-    },
     "faq": {
       "type": "nvd-faq",
       "blocks": {
@@ -492,10 +492,10 @@
   },
   "order": [
     "main",
+    "reviews",
     "trust",
     "auth",
     "ship",
-    "reviews",
     "faq"
   ]
 }
