@@ -40,10 +40,6 @@
             "collapse_content": false
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "variant_picker_ze6UE7": {
           "type": "variant_picker",
           "settings": {
@@ -53,6 +49,10 @@
             "color_mode": "dropdown",
             "size_chart_page": ""
           }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -106,8 +106,8 @@
         "badges",
         "price",
         "description",
-        "quantity_selector",
         "variant_picker_ze6UE7",
+        "quantity_selector",
         "buy_buttons",
         "liquid_yrAJbN",
         "ct1",
